@@ -1,0 +1,44 @@
+name: Validate ADV BATTERY public catalogue
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'docs/**'
+      - 'README*.md'
+      - 'scripts/**'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'docs/**'
+      - 'README*.md'
+      - 'scripts/**'
+      - '.github/workflows/validate.yml'
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify catalogue generator consistency
+        run: python scripts/build_public_index.py --check
+      - name: Validate IDs, relations and Markdown links
+        run: python scripts/validate_public_index.py
+      - name: Check online V2 artifact and two-way link
+        run: |
+          python - <<'PYTEST'
+          from pathlib import Path
+          path=Path('docs/index.html')
+          assert path.is_file(), 'Missing docs/index.html (V2 for Pages)'
+          html=path.read_text(encoding='utf-8')
+          assert 'window.BATTERY_DATA' in html
+          assert 'https://github.com/jimjury/ADV-BATTERY-Dataset-Collection' in html
+          assert 'GitHub 目录' in html
+          assert '80' in Path('README.md').read_text(encoding='utf-8')
+          print('V2 static file and GitHub back-link OK')
+          PYTEST

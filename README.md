@@ -8,6 +8,9 @@
 
 [English version](README_EN.md) · [按研究标签浏览](docs/TOPICS.md) · [80 条资源详情](docs/DATASET_DETAILS.md) · [108 条文献索引](docs/PAPERS.md) · [来源与使用说明](NOTICE.md)
 
+**[V2 科研工作台在线版](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [联动、发布与启用说明](docs/GITHUB_V2_LINK_SETUP.md)  
+首次使用需在 Settings → Pages 选择 main /docs；未启用前在线网址尚不可访问。
+
 ## 目录
 
 1. [新手如何使用](#新手如何使用)

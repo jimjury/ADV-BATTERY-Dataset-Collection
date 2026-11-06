@@ -8,6 +8,9 @@
 
 [中文版](README.md) · [Research topics](docs/TOPICS.md) · [Full details](docs/DATASET_DETAILS.md) · [Publications](docs/PAPERS.md) · [Source & terms](NOTICE.md)
 
+**[V2 research workbench (online)](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [Connection and setup](docs/GITHUB_V2_LINK_SETUP.md)  
+GitHub Pages must be enabled once under Settings → Pages (main /docs).
+
 ## Contents
 
 1. [How to use](#how-to-use)
