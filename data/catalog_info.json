@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2026-11-06",
+  "source_of_truth": "ADV-BATTERY local catalog",
+  "resource_count": 80,
+  "dataset_count": 76,
+  "portal_count": 3,
+  "tool_count": 1,
+  "publication_record_count": 108,
+  "explicit_relation_count": 69,
+  "source_mapping_count": 41
+}

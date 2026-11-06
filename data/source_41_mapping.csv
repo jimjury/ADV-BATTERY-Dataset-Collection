@@ -1,0 +1,42 @@
+﻿source_number,dataset_id,source_provider,source_url,matching_decision,paper_status
+1,matr-severson,MIT/Stanford,https://data.matr.io/1/,existing,existing
+2,calce-open,CALCE,https://calce.umd.edu/battery-data,existing,none
+3,nasa-pcoe,NASA,https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/,existing,none
+4,oxford-battery-intelligence-portal,Oxford,https://battery-intelligence-lab.github.io/data-and-code/,new,none
+5,hust-personalized,Huazhong University of Science and Technology,https://data.mendeley.com/datasets/nsc7hnsg4s/2,existing,existing
+6,tsinghua-lab-soh-part1,Tsinghua University,https://1drv.ms/f/s!AuAiTLYEMUuKbLRMwP_d3RbUFs4?e=LL44SK,new,new-verified
+7,tsinghua-ev-field,Tsinghua University,https://data.mendeley.com/datasets/mcsh4hnb8b/1,existing,existing
+8,shandong-mixed-state-lbm,Shandong University,https://data.mendeley.com/datasets/dbwsn6t96j/1,new,new-verified
+9,shandong-reuse-sorting,Shandong University,https://zenodo.org/records/14859405,new,new-verified
+10,sjtu-degradation-limited-data,Shanghai Jiaotong University,https://data.mendeley.com/datasets/vfd3f3srfk/2,new,new-verified
+11,tongji-relaxation,Tongji University,https://zenodo.org/records/6405084,existing,existing
+12,xjtu-pinn,Xi'an Jiaotong University,https://zenodo.org/records/10963339,existing,existing
+13,changan-300ev,Chongqing University,https://ivstskl.changan.com.cn/?p=2697,existing,existing
+14,discovery-learning,University of Michigan,https://zenodo.org/records/17654407,existing,existing
+15,rwth-trajectory,RWTH Aachen University,https://publications.rwth-aachen.de/record/818642,existing,none
+16,stanford-mendeley-68jkb7x6t4,Stanford University,https://data.mendeley.com/datasets/68jkb7x6t4/3,new,none
+17,mit-bit-uncertain-future,MIT / Beijing Institute of Technology,https://data.mendeley.com/datasets/kw34hhw7xg/3,new,new-verified
+18,bit-shortsegment-health,Beijing Institute of Technology,https://zenodo.org/records/14576042,new,new-verified
+19,aalborg-mendeley-yz4pttm73n,Aalborg University,https://data.mendeley.com/datasets/yz4pttm73n/2,new,none
+20,bayreuth-zenodo-15755725,University of Bayreuth,https://zenodo.org/records/15755725,new,none
+21,darmstadt-field-battgp,Technische Universitaet Darmstadt,https://zenodo.org/records/13715694,new,new-verified
+22,kit-fobss-monitoring,Karlsruhe Institute of Technology,https://www.radar-service.eu/radar/de/dataset/uabgQSNJZVAhKHgS,new,not-a-paper
+23,kit-nmc-sio-v2-logs,Karlsruhe Institute of Technology,https://radar.kit.edu/radar/en/dataset/kww7jv8ajuvchcah,new-version,existing
+24,bansal-mendeley-364p44vtj2,Abhishek Bansal,https://data.mendeley.com/datasets/364p44vtj2/1,new,none
+25,nrel-pulse-diagnostics,National Renewable Energy Laboratory,https://data.mendeley.com/datasets/ksc4sv46x6/1,new,new-verified
+26,snu-mendeley-zn82y35zr8,Seoul National University,https://data.mendeley.com/datasets/zn82y35zr8/4,new,none
+27,llim-figshare-three-tasks,East China Normal University,https://figshare.com/articles/dataset/Datasets_of_three_downstream_tasks_in_LLiM/28260095,existing,existing
+28,mcmaster-9xyvy2njj3,McMaster University,https://data.mendeley.com/datasets/9xyvy2njj3/2,new,none
+29,lg-hg2,McMaster University,https://data.mendeley.com/datasets/b5mj79w5w9/2,existing,none
+30,mcmaster-cp3473x7xv,McMaster University,https://data.mendeley.com/datasets/cp3473x7xv/3,new,none
+31,limerick-battery-soh-ml,University of Limerick,https://zenodo.org/records/15657829,new,new-verified
+32,colorado-electrothermal-mpc,University of Colorado Colorado Springs,https://data.mendeley.com/datasets/p8kf893yv3/1,new,new-verified
+33,munich-multistage-aging,Munich University of Applied Sciences,https://figshare.com/articles/dataset/Multi-Stage_Lithium_Ion_Battery_Aging_Study/25975315,new,new-verified
+34,panasonic-18650pf,University of Wisconsin Madison / McMaster University,https://data.mendeley.com/datasets/wykht8y7tg/1,existing,none
+35,bilkent-zenodo-14606633,Bilkent University,https://zenodo.org/records/14606633,new,none
+36,hkust-fewshot-firstcycle,Hong Kong University of Science and Technology,https://drive.google.com/drive/folders/1wMoXu-G9zC6CPyo-t742XNEkHYbPnWmb,new,new-verified
+37,tsinghua-early-decoupling,Tsinghua University,https://zenodo.org/records/10715209,new,new-verified
+38,pavia-calb-l148n58a,University of Pavia / University of Trieste,https://data.mendeley.com/datasets/ycx459r5c3/2,new,new-verified
+39,onroad-20ev-capacity,Chang'an University,https://github.com/BatICM/battery-charging-data-of-on-road-electric-vehicles,existing,not-a-paper
+40,hkust-batterylife-processed-v11,Hong Kong University of Science and Technology,https://zenodo.org/records/19688272,new,new-verified
+41,cmu-evtol-duty-cycle,Carnegie Mellon University,https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830/2,new,new-verified

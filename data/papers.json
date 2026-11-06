@@ -1,0 +1,2069 @@
+[
+  {
+    "index": 1,
+    "id": "doi:10.1038/s41560-019-0356-8",
+    "title": "Data-driven prediction of battery cycle life before capacity degradation",
+    "authors": "K. A. Severson et al.",
+    "journal_or_source": "Nature Energy",
+    "year": 2019,
+    "doi": "10.1038/s41560-019-0356-8",
+    "url": "https://doi.org/10.1038/s41560-019-0356-8",
+    "record_type": "数据配对",
+    "keywords": [
+      "早期寿命预测",
+      "RUL",
+      "寿命预测",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "matr-severson"
+    ]
+  },
+  {
+    "index": 2,
+    "id": "doi:10.1038/s41586-020-1994-5",
+    "title": "Closed-loop optimization of fast-charging protocols for batteries with machine learning",
+    "authors": "Peter M. Attia et al.",
+    "journal_or_source": "Nature 578, 397–402",
+    "year": 2020,
+    "doi": "10.1038/s41586-020-1994-5",
+    "url": "https://doi.org/10.1038/s41586-020-1994-5",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "快充",
+      "RUL",
+      "贝叶斯优化"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "matr-attia"
+    ]
+  },
+  {
+    "index": 3,
+    "id": "doi:10.1016/j.jpowsour.2016.12.121",
+    "title": "Degradation diagnostics for lithium ion cells",
+    "authors": "C. R. Birkl et al.",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2017,
+    "doi": "10.1016/j.jpowsour.2016.12.121",
+    "url": "https://doi.org/10.1016/j.jpowsour.2016.12.121",
+    "record_type": "数据配对",
+    "keywords": [
+      "长期退化",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "oxford-001"
+    ]
+  },
+  {
+    "index": 4,
+    "id": "doi:10.1016/j.jpowsour.2020.229355",
+    "title": "Unlocking extra value from grid batteries using advanced models",
+    "authors": "J. M. Reniers, G. Mulder, D. A. Howey",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2021,
+    "doi": "10.1016/j.jpowsour.2020.229355",
+    "url": "https://doi.org/10.1016/j.jpowsour.2020.229355",
+    "record_type": "数据配对",
+    "keywords": [
+      "实际工况退化",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "oxford-trading"
+    ]
+  },
+  {
+    "index": 5,
+    "id": "doi:10.1038/s41467-020-15235-7",
+    "title": "Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning",
+    "authors": "Y. Zhang et al.",
+    "journal_or_source": "Nature Communications",
+    "year": 2020,
+    "doi": "10.1038/s41467-020-15235-7",
+    "url": "https://doi.org/10.1038/s41467-020-15235-7",
+    "record_type": "数据配对",
+    "keywords": [
+      "EIS 诊断",
+      "EIS",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "cambridge-eis"
+    ]
+  },
+  {
+    "index": 6,
+    "id": "doi:10.1038/s41467-022-29837-w",
+    "title": "Data-driven capacity estimation of commercial lithium-ion batteries from voltage relaxation",
+    "authors": "J. Zhu et al.",
+    "journal_or_source": "Nature Communications",
+    "year": 2022,
+    "doi": "10.1038/s41467-022-29837-w",
+    "url": "https://doi.org/10.1038/s41467-022-29837-w",
+    "record_type": "数据配对",
+    "keywords": [
+      "容量估计",
+      "SOH",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "tongji-relaxation"
+    ]
+  },
+  {
+    "index": 7,
+    "id": "doi:10.1016/j.jpowsour.2021.230024",
+    "title": "One-shot battery degradation trajectory prediction with deep learning",
+    "authors": "W. Li et al.",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2021,
+    "doi": "10.1016/j.jpowsour.2021.230024",
+    "url": "https://doi.org/10.1016/j.jpowsour.2021.230024",
+    "record_type": "数据配对",
+    "keywords": [
+      "轨迹预测",
+      "RUL",
+      "寿命预测",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "rwth-trajectory"
+    ]
+  },
+  {
+    "index": 8,
+    "id": "doi:10.1038/s41467-024-48779-z",
+    "title": "Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis",
+    "authors": "F. Wang et al.",
+    "journal_or_source": "Nature Communications",
+    "year": 2024,
+    "doi": "10.1038/s41467-024-48779-z",
+    "url": "https://doi.org/10.1038/s41467-024-48779-z",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH / RUL",
+      "SOH",
+      "RUL",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "xjtu-pinn"
+    ]
+  },
+  {
+    "index": 9,
+    "id": "doi:10.1016/j.jpowsour.2024.234185",
+    "title": "Lithium-ion battery degradation: comprehensive cycle ageing data and analysis for commercial 21700 cells",
+    "authors": "N. Kirkaldy et al.",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2024,
+    "doi": "10.1016/j.jpowsour.2024.234185",
+    "url": "https://doi.org/10.1016/j.jpowsour.2024.234185",
+    "record_type": "数据配对",
+    "keywords": [
+      "退化机理分析",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "imperial-21700"
+    ]
+  },
+  {
+    "index": 10,
+    "id": "doi:10.1021/acsaem.2c02047",
+    "title": "Lithium-ion battery degradation: measuring rapid loss of active silicon in silicon–graphite composite electrodes",
+    "authors": "N. Kirkaldy et al.",
+    "journal_or_source": "ACS Applied Energy Materials",
+    "year": 2022,
+    "doi": "10.1021/acsaem.2c02047",
+    "url": "https://doi.org/10.1021/acsaem.2c02047",
+    "record_type": "数据配对",
+    "keywords": [
+      "硅负极退化",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "imperial-silicon"
+    ]
+  },
+  {
+    "index": 11,
+    "id": "doi:10.1038/s41586-025-09951-7",
+    "title": "Discovery Learning predicts battery cycle life from minimal experiments",
+    "authors": "Jiawei Zhang, Yifei Zhang, Baozhao Yi, Yao Ren, Qi Jiao, Hanyu Bai, Weiran Jiang, Ziyou Song",
+    "journal_or_source": "Nature 650, 110–115",
+    "year": 2026,
+    "doi": "10.1038/s41586-025-09951-7",
+    "url": "https://doi.org/10.1038/s41586-025-09951-7",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "寿命预测",
+      "RUL",
+      "机器学习"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "discovery-learning"
+    ]
+  },
+  {
+    "index": 12,
+    "id": "doi:10.1039/d2ee01676a",
+    "title": "Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning",
+    "authors": "Y. Che et al.",
+    "journal_or_source": "Energy & Environmental Science",
+    "year": 2022,
+    "doi": "10.1039/D2EE01676A",
+    "url": "https://doi.org/10.1039/D2EE01676A",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH / 迁移学习",
+      "SOH",
+      "机器学习",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "hust-personalized"
+    ]
+  },
+  {
+    "index": 13,
+    "id": "doi:10.1109/tie.2017.2787586",
+    "title": "Long Short-Term Memory Networks for Accurate State-of-Charge Estimation of Li-ion Batteries",
+    "authors": "E. Chemali et al.",
+    "journal_or_source": "IEEE Transactions on Industrial Electronics",
+    "year": 2018,
+    "doi": "10.1109/TIE.2017.2787586",
+    "url": "https://doi.org/10.1109/TIE.2017.2787586",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOC 估计",
+      "SOC",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "panasonic-18650pf"
+    ]
+  },
+  {
+    "index": 14,
+    "id": "doi:10.1016/j.etran.2024.100361",
+    "title": "Towards real-world state of health estimation: Part 2, system level method using electric vehicle field data",
+    "authors": "S. Shen et al.",
+    "journal_or_source": "eTransportation",
+    "year": 2024,
+    "doi": "10.1016/j.etran.2024.100361",
+    "url": "https://doi.org/10.1016/j.etran.2024.100361",
+    "record_type": "数据配对",
+    "keywords": [
+      "实车 SOH 估计",
+      "SOH",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "tsinghua-ev-field"
+    ]
+  },
+  {
+    "index": 15,
+    "id": "doi:10.1016/j.est.2023.106798",
+    "title": "Mechanically induced thermal runaway severity analysis for Li-ion batteries",
+    "authors": "L. S. Lin, J. L. Li, I. M. Fishman, L. Torres-Castro, Y. Preger, V. De Angelis, J. Lamb, X. Zhu, S. Allu, H. Wang",
+    "journal_or_source": "Journal of Energy Storage 61, 106798",
+    "year": 2023,
+    "doi": "10.1016/j.est.2023.106798",
+    "url": "https://doi.org/10.1016/j.est.2023.106798",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "热安全",
+      "安全"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "ornl-thermal-runaway"
+    ]
+  },
+  {
+    "index": 16,
+    "id": "doi:10.1109/itec.2019.8790543",
+    "title": "Li-ion Battery SOC Estimation Using Long Short-Term Memory Recurrent Neural Network with Transfer Learning",
+    "authors": "E. Chemali et al.",
+    "journal_or_source": "IEEE Transportation Electrification Conference and Expo",
+    "year": 2019,
+    "doi": "10.1109/ITEC.2019.8790543",
+    "url": "https://doi.org/10.1109/ITEC.2019.8790543",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOC / 迁移学习",
+      "SOC",
+      "机器学习",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "lg-hg2"
+    ]
+  },
+  {
+    "index": 17,
+    "id": "doi:10.1016/j.dib.2024.111046",
+    "title": "Second-life lithium-ion battery aging dataset based on grid storage cycling",
+    "authors": "Kevin Moy, Muhammad Aadil Khan, Simone Fasolato, Gabriele Pozzato, Anirudh Allam, Simona Onori",
+    "journal_or_source": "Data in Brief 57, 111046",
+    "year": 2024,
+    "doi": "10.1016/j.dib.2024.111046",
+    "url": "https://doi.org/10.1016/j.dib.2024.111046",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH",
+      "EIS",
+      "储能",
+      "二次寿命"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "stanford-second-life"
+    ]
+  },
+  {
+    "index": 18,
+    "id": "doi:10.1016/j.dib.2025.111531",
+    "title": "Dataset of lithium-ion cell degradation under randomized current profiles for NMC, NCA, and LFP chemistries",
+    "authors": "Aalto University and VTT researchers",
+    "journal_or_source": "Data in Brief",
+    "year": 2025,
+    "doi": "10.1016/j.dib.2025.111531",
+    "url": "https://doi.org/10.1016/j.dib.2025.111531",
+    "record_type": "数据配对",
+    "keywords": [
+      "跨体系退化建模",
+      "RUL",
+      "寿命预测",
+      "机器学习",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "randomized-multichem"
+    ]
+  },
+  {
+    "index": 19,
+    "id": "doi:10.1038/s41467-025-56485-7",
+    "title": "Multi-modal framework for battery state of health evaluation using open-source electric vehicle data",
+    "authors": "H. Liu, C. Li, X. Hu et al.",
+    "journal_or_source": "Nature Communications",
+    "year": 2025,
+    "doi": "10.1038/s41467-025-56485-7",
+    "url": "https://doi.org/10.1038/s41467-025-56485-7",
+    "record_type": "数据配对",
+    "keywords": [
+      "实车 SOC / SOH",
+      "SOC",
+      "SOH",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "changan-300ev"
+    ]
+  },
+  {
+    "index": 20,
+    "id": "doi:10.36001/phmconf.2023.v15i1.3463",
+    "title": "Prognosis of Li-ion Batteries Under Large Load Variations Using Hybrid Physics-Informed Neural Networks",
+    "authors": "Kajetan Fricke, Renato Nascimento, Matteo Corbetta, Chetan Kulkarni, Felipe Viana",
+    "journal_or_source": "Annual Conference of the PHM Society, 15(1)",
+    "year": 2023,
+    "doi": "10.36001/phmconf.2023.v15i1.3463",
+    "url": "https://doi.org/10.36001/phmconf.2023.v15i1.3463",
+    "record_type": "数据配对",
+    "keywords": [
+      "寿命预测",
+      "RUL",
+      "寿命预测",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "nasa-accelerated-battery-life"
+    ]
+  },
+  {
+    "index": 21,
+    "id": "doi:10.1002/batt.202000160",
+    "title": "Investigation of Path-Dependent Degradation in Lithium-Ion Batteries",
+    "authors": "Trishna Raj, Andrew A. Wang, Charles W. Monroe, David A. Howey",
+    "journal_or_source": "Batteries & Supercaps, 3(12), 1377–1385",
+    "year": 2020,
+    "doi": "10.1002/batt.202000160",
+    "url": "https://doi.org/10.1002/batt.202000160",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH / 退化建模",
+      "SOH",
+      "RUL",
+      "寿命预测",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "oxford-path-dependent-part1"
+    ]
+  },
+  {
+    "index": 22,
+    "id": "doi:10.1149/1945-7111/ad1450",
+    "title": "Characterization of Cycle-Aged Commercial NMC and NCA Lithium-ion Cells: I. Temperature-Dependent Degradation",
+    "authors": "Reed Wittman et al.",
+    "journal_or_source": "Journal of The Electrochemical Society, 170, 120538",
+    "year": 2023,
+    "doi": "10.1149/1945-7111/ad1450",
+    "url": "https://doi.org/10.1149/1945-7111/ad1450",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH / 退化建模",
+      "SOH",
+      "RUL",
+      "寿命预测",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "sandia-temperature-dependent-18650"
+    ]
+  },
+  {
+    "index": 23,
+    "id": "doi:10.1149/1945-7111/ac0699",
+    "title": "Investigating the Role of Energy Density in Thermal Runaway of Lithium-Ion Batteries with Accelerating Rate Calorimetry",
+    "authors": "Joshua Lamb, Loraine Torres-Castro, Randy Shurtz, John C. Hewson, Yuliya Preger",
+    "journal_or_source": "Journal of The Electrochemical Society, 168, 060516",
+    "year": 2021,
+    "doi": "10.1149/1945-7111/ac0699",
+    "url": "https://doi.org/10.1149/1945-7111/ac0699",
+    "record_type": "数据配对",
+    "keywords": [
+      "热失控",
+      "热失控",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "sandia-arc-different-soc"
+    ]
+  },
+  {
+    "index": 24,
+    "id": "doi:10.1149/1945-7111/ab8fd9",
+    "title": "Review—Materials Science Predictions of Thermal Runaway in Layered Metal-Oxide Cathodes: A Review of Thermodynamics",
+    "authors": "Randy C. Shurtz, John C. Hewson",
+    "journal_or_source": "Journal of The Electrochemical Society, 167, 090543",
+    "year": 2020,
+    "doi": "10.1149/1945-7111/ab8fd9",
+    "url": "https://doi.org/10.1149/1945-7111/ab8fd9",
+    "record_type": "数据配对",
+    "keywords": [
+      "热失控",
+      "热失控",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "sandia-cathode-reaction-heats"
+    ]
+  },
+  {
+    "index": 25,
+    "id": "doi:10.1115/1.4044156",
+    "title": "Open Data, Models, and Codes for Vanadium Redox Batch Cell Systems: A Systems Approach Using Zero-Dimensional Models",
+    "authors": "Seong Beom Lee, Kishalay Mitra, Harry D. Pratt III, Travis M. Anderson, Venkatasailanathan Ramadesigan, Babu R. Chalamala, Venkat R. Subramanian",
+    "journal_or_source": "Journal of Electrochemical Energy Conversion and Storage, 17(1), 011008",
+    "year": 2020,
+    "doi": "10.1115/1.4044156",
+    "url": "https://doi.org/10.1115/1.4044156",
+    "record_type": "数据配对",
+    "keywords": [
+      "建模 / 实验数据",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "sandia-vanadium-flow-cell"
+    ]
+  },
+  {
+    "index": 26,
+    "id": "doi:10.1016/j.jpowsour.2019.226777",
+    "title": "Multi-scale thermal stability study of commercial lithium-ion batteries as a function of cathode chemistry and state-of-charge",
+    "authors": "Heather M. Barkholtz, Yuliya Preger, Sergei Ivanov, Jill Langendorf, Loraine Torres-Castro, Joshua Lamb, Babu Chalamala, Summer R. Ferreira",
+    "journal_or_source": "Journal of Power Sources, 435, 226777",
+    "year": 2019,
+    "doi": "10.1016/j.jpowsour.2019.226777",
+    "url": "https://doi.org/10.1016/j.jpowsour.2019.226777",
+    "record_type": "数据配对",
+    "keywords": [
+      "热失控",
+      "热失控",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "sandia-cell-arc",
+      "sandia-cell-tga-dsc"
+    ]
+  },
+  {
+    "index": 27,
+    "id": "doi:10.1149/2.1701712jes",
+    "title": "A Database for Comparative Electrochemical Performance of Commercial 18650-Format Lithium-Ion Cells",
+    "authors": "Heather M. Barkholtz, Armando Fresquez, Babu R. Chalamala, Summer R. Ferreira",
+    "journal_or_source": "Journal of The Electrochemical Society, 164, A2697–A2706",
+    "year": 2017,
+    "doi": "10.1149/2.1701712jes",
+    "url": "https://doi.org/10.1149/2.1701712jes",
+    "record_type": "数据配对",
+    "keywords": [
+      "热失控",
+      "热失控",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "sandia-cell-abuse",
+      "sandia-cell-cycle",
+      "sandia-cell-eis"
+    ]
+  },
+  {
+    "index": 28,
+    "id": "doi:10.1038/s41467-023-38458-w",
+    "title": "Deep learning to estimate lithium-ion battery state of health without additional degradation experiments",
+    "authors": "Jiahuan Lu, Rui Xiong, Jinpeng Tian, Chenxu Wang, Fengchun Sun",
+    "journal_or_source": "Nature Communications, 14, 2760",
+    "year": 2023,
+    "doi": "10.1038/s41467-023-38458-w",
+    "url": "https://doi.org/10.1038/s41467-023-38458-w",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH / 退化建模",
+      "SOH",
+      "RUL",
+      "寿命预测",
+      "数据集配对"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "bit-two-chemistries-degradation"
+    ]
+  },
+  {
+    "index": 29,
+    "id": "doi:10.1016/j.jpowsour.2017.03.001",
+    "title": "On state-of-charge determination for lithium-ion batteries",
+    "authors": "Z. Li, J. Huang, B. Y. Liaw, J. Zhang",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2017,
+    "doi": "10.1016/j.jpowsour.2017.03.001",
+    "url": "https://doi.org/10.1016/j.jpowsour.2017.03.001",
+    "record_type": "基础综述",
+    "keywords": [
+      "SOC",
+      "综述",
+      "电池模型"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 30,
+    "id": "doi:10.1016/j.est.2023.108707",
+    "title": "Review on state of charge estimation techniques of lithium-ion batteries: A control-oriented approach",
+    "authors": "O. Demirci et al.",
+    "journal_or_source": "Journal of Energy Storage",
+    "year": 2023,
+    "doi": "10.1016/j.est.2023.108707",
+    "url": "https://doi.org/10.1016/j.est.2023.108707",
+    "record_type": "方法综述",
+    "keywords": [
+      "SOC",
+      "BMS",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 31,
+    "id": "doi:10.1016/j.jclepro.2020.124110",
+    "title": "Data-driven state of charge estimation of lithium-ion batteries: Algorithms, implementation factors, limitations and future trends",
+    "authors": "M. S. H. Lipu et al.",
+    "journal_or_source": "Journal of Cleaner Production",
+    "year": 2020,
+    "doi": "10.1016/j.jclepro.2020.124110",
+    "url": "https://doi.org/10.1016/j.jclepro.2020.124110",
+    "record_type": "方法综述",
+    "keywords": [
+      "SOC",
+      "机器学习",
+      "深度学习",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 32,
+    "id": "doi:10.1016/j.egyr.2024.04.039",
+    "title": "Recent advancement of remaining useful life prediction of lithium-ion battery in electric vehicle applications",
+    "authors": "M. S. H. Lipu et al.",
+    "journal_or_source": "Energy Reports",
+    "year": 2024,
+    "doi": "10.1016/j.egyr.2024.04.039",
+    "url": "https://doi.org/10.1016/j.egyr.2024.04.039",
+    "record_type": "方法综述",
+    "keywords": [
+      "RUL",
+      "寿命预测",
+      "机器学习",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 33,
+    "id": "doi:10.1016/j.apenergy.2024.124171",
+    "title": "Predict the lifetime of lithium-ion batteries using early cycles: A review",
+    "authors": "Y. Ma et al.",
+    "journal_or_source": "Applied Energy",
+    "year": 2024,
+    "doi": "10.1016/j.apenergy.2024.124171",
+    "url": "https://doi.org/10.1016/j.apenergy.2024.124171",
+    "record_type": "前沿综述",
+    "keywords": [
+      "RUL",
+      "早期预测",
+      "退化机理",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 34,
+    "id": "doi:10.1038/s41560-019-0405-3",
+    "title": "Challenges and opportunities towards fast-charging battery materials",
+    "authors": "Y. Liu, Y. Zhu, Y. Cui",
+    "journal_or_source": "Nature Energy",
+    "year": 2019,
+    "doi": "10.1038/s41560-019-0405-3",
+    "url": "https://doi.org/10.1038/s41560-019-0405-3",
+    "record_type": "基础综述",
+    "keywords": [
+      "快充",
+      "材料",
+      "锂析出",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 35,
+    "id": "doi:10.1038/s41586-022-05281-0",
+    "title": "Fast charging of energy-dense lithium-ion batteries",
+    "authors": "C.-Y. Wang et al.",
+    "journal_or_source": "Nature",
+    "year": 2022,
+    "doi": "10.1038/s41586-022-05281-0",
+    "url": "https://doi.org/10.1038/s41586-022-05281-0",
+    "record_type": "研究论文",
+    "keywords": [
+      "快充",
+      "热管理",
+      "电解液"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 36,
+    "id": "doi:10.1021/acs.chemmater.2c01976",
+    "title": "Differential Analysis of Galvanostatic Cycle Data from Li-Ion Batteries: Interpretative Insights and Graphical Heuristics",
+    "authors": "J. Z. Olson, C. M. López, E. J. F. Dickinson",
+    "journal_or_source": "Chemistry of Materials",
+    "year": 2023,
+    "doi": "10.1021/acs.chemmater.2c01976",
+    "url": "https://doi.org/10.1021/acs.chemmater.2c01976",
+    "record_type": "方法论文",
+    "keywords": [
+      "ICA/DVA",
+      "退化诊断",
+      "机理"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 37,
+    "id": "doi:10.1016/j.measurement.2024.115148",
+    "title": "State of charge estimation of lithium batteries: Review for equivalent circuit model methods",
+    "authors": "Z. Tao et al.",
+    "journal_or_source": "Measurement",
+    "year": 2024,
+    "doi": "10.1016/j.measurement.2024.115148",
+    "url": "https://doi.org/10.1016/j.measurement.2024.115148",
+    "record_type": "方法综述",
+    "keywords": [
+      "SOC",
+      "等效电路",
+      "参数辨识",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 38,
+    "id": "doi:10.1016/j.est.2024.113850",
+    "title": "A systematic review of electrochemical model-based lithium-ion battery state estimation in battery management systems",
+    "authors": "F. Guo et al.",
+    "journal_or_source": "Journal of Energy Storage",
+    "year": 2024,
+    "doi": "10.1016/j.est.2024.113850",
+    "url": "https://doi.org/10.1016/j.est.2024.113850",
+    "record_type": "系统综述",
+    "keywords": [
+      "电化学模型",
+      "状态估计",
+      "BMS",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 39,
+    "id": "doi:10.1016/j.nxener.2024.100186",
+    "title": "Thermal runaway process in lithium-ion batteries: A review",
+    "authors": "K. M. Takla et al.",
+    "journal_or_source": "Next Energy",
+    "year": 2025,
+    "doi": "10.1016/j.nxener.2024.100186",
+    "url": "https://doi.org/10.1016/j.nxener.2024.100186",
+    "record_type": "安全综述",
+    "keywords": [
+      "热失控",
+      "安全",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 40,
+    "id": "doi:10.1016/j.ensm.2024.103417",
+    "title": "Thermal runaway modeling of lithium-ion batteries at different scales: Recent advances and perspectives",
+    "authors": "X. Feng et al.",
+    "journal_or_source": "Energy Storage Materials",
+    "year": 2024,
+    "doi": "10.1016/j.ensm.2024.103417",
+    "url": "https://doi.org/10.1016/j.ensm.2024.103417",
+    "record_type": "建模综述",
+    "keywords": [
+      "热失控",
+      "多物理场",
+      "仿真",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 41,
+    "id": "doi:10.1016/j.jtte.2024.09.004",
+    "title": "A review of lithium-ion battery state of health and remaining useful life estimation methods based on bibliometric analysis",
+    "authors": "X. Wang et al.",
+    "journal_or_source": "Journal of Traffic and Transportation Engineering",
+    "year": 2024,
+    "doi": "10.1016/j.jtte.2024.09.004",
+    "url": "https://doi.org/10.1016/j.jtte.2024.09.004",
+    "record_type": "计量综述",
+    "keywords": [
+      "SOH",
+      "RUL",
+      "机器学习",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 42,
+    "id": "doi:10.5334/jors.309",
+    "title": "PyBaMM: Python Battery Mathematical Modelling",
+    "authors": "V. Sulzer et al.",
+    "journal_or_source": "Journal of Open Research Software",
+    "year": 2021,
+    "doi": "10.5334/jors.309",
+    "url": "https://doi.org/10.5334/jors.309",
+    "record_type": "软件论文",
+    "keywords": [
+      "电化学模型",
+      "仿真",
+      "开源工具"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 43,
+    "id": "doi:10.1126/sciadv.aas9820",
+    "title": "Materials for lithium-ion battery safety",
+    "authors": "K. Liu, Y. Liu, D. Lin, A. Pei, Y. Cui",
+    "journal_or_source": "Science Advances",
+    "year": 2018,
+    "doi": "10.1126/sciadv.aas9820",
+    "url": "https://doi.org/10.1126/sciadv.aas9820",
+    "record_type": "基础综述",
+    "keywords": [
+      "安全",
+      "材料",
+      "热失控",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 44,
+    "id": "doi:10.1016/j.est.2021.102457",
+    "title": "State-of-charge estimation of lithium-ion battery pack by using an adaptive extended Kalman filter for electric vehicles",
+    "authors": "L. Chen et al.",
+    "journal_or_source": "Journal of Energy Storage",
+    "year": 2021,
+    "doi": "10.1016/j.est.2021.102457",
+    "url": "https://doi.org/10.1016/j.est.2021.102457",
+    "record_type": "方法论文",
+    "keywords": [
+      "SOC",
+      "等效电路",
+      "状态估计"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 45,
+    "id": "doi:10.1016/j.energy.2018.03.023",
+    "title": "Incremental capacity analysis and differential voltage analysis based state of charge and capacity estimation for lithium-ion batteries",
+    "authors": "X. Li et al.",
+    "journal_or_source": "Energy",
+    "year": 2018,
+    "doi": "10.1016/j.energy.2018.03.023",
+    "url": "https://doi.org/10.1016/j.energy.2018.03.023",
+    "record_type": "方法论文",
+    "keywords": [
+      "ICA/DVA",
+      "SOC",
+      "SOH",
+      "容量估计"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 46,
+    "id": "doi:10.1016/j.est.2021.103669",
+    "title": "Peak-tracking method to quantify degradation modes in lithium-ion batteries via differential voltage and incremental capacity",
+    "authors": "C. R. Birkl et al.",
+    "journal_or_source": "Journal of Energy Storage",
+    "year": 2022,
+    "doi": "10.1016/j.est.2021.103669",
+    "url": "https://doi.org/10.1016/j.est.2021.103669",
+    "record_type": "方法论文",
+    "keywords": [
+      "ICA/DVA",
+      "SOH",
+      "退化机理"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 47,
+    "id": "doi:10.1016/j.etran.2024.100356",
+    "title": "Battery pack diagnostics for electric vehicles: Transfer of differential voltage and incremental capacity analysis from cell to vehicle level",
+    "authors": "P. Bilfinger et al.",
+    "journal_or_source": "eTransportation",
+    "year": 2024,
+    "doi": "10.1016/j.etran.2024.100356",
+    "url": "https://doi.org/10.1016/j.etran.2024.100356",
+    "record_type": "应用研究",
+    "keywords": [
+      "ICA/DVA",
+      "SOH",
+      "实车数据"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 48,
+    "id": "doi:10.1016/j.jpowsour.2014.10.132",
+    "title": "Online estimation of lithium-ion battery remaining discharge capacity through differential voltage analysis",
+    "authors": "M. Berecibar et al.",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2015,
+    "doi": "10.1016/j.jpowsour.2014.10.132",
+    "url": "https://doi.org/10.1016/j.jpowsour.2014.10.132",
+    "record_type": "方法论文",
+    "keywords": [
+      "ICA/DVA",
+      "SOC",
+      "SOH",
+      "容量估计"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 49,
+    "id": "doi:10.1016/j.apenergy.2020.115074",
+    "title": "Incremental capacity analysis based adaptive capacity estimation for lithium-ion battery considering charging condition",
+    "authors": "C. Weng et al.",
+    "journal_or_source": "Applied Energy",
+    "year": 2020,
+    "doi": "10.1016/j.apenergy.2020.115074",
+    "url": "https://doi.org/10.1016/j.apenergy.2020.115074",
+    "record_type": "方法论文",
+    "keywords": [
+      "ICA/DVA",
+      "SOH",
+      "容量估计"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 50,
+    "id": "doi:10.1016/j.jpowsour.2020.228742",
+    "title": "Application of electrochemical impedance spectroscopy to commercial Li-ion cells: A review",
+    "authors": "J. P. Schmidt et al.",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2020,
+    "doi": "10.1016/j.jpowsour.2020.228742",
+    "url": "https://doi.org/10.1016/j.jpowsour.2020.228742",
+    "record_type": "方法综述",
+    "keywords": [
+      "EIS",
+      "等效电路",
+      "SOH",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 51,
+    "id": "doi:10.1016/j.etran.2025.100456",
+    "title": "Extraction of health indicators from electrochemical impedance spectroscopy for state of health estimation of lithium-ion batteries",
+    "authors": "H. Wen et al.",
+    "journal_or_source": "eTransportation",
+    "year": 2025,
+    "doi": "10.1016/j.etran.2025.100456",
+    "url": "https://doi.org/10.1016/j.etran.2025.100456",
+    "record_type": "系统综述",
+    "keywords": [
+      "EIS",
+      "SOH",
+      "机器学习",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 52,
+    "id": "doi:10.1016/j.apenergy.2026.127736",
+    "title": "Impedance characterization for electrode-level aging diagnosis of lithium-ion battery: A critical review",
+    "authors": "S. Yin et al.",
+    "journal_or_source": "Applied Energy",
+    "year": 2026,
+    "doi": "10.1016/j.apenergy.2026.127736",
+    "url": "https://doi.org/10.1016/j.apenergy.2026.127736",
+    "record_type": "方法综述",
+    "keywords": [
+      "EIS",
+      "SOH",
+      "电化学模型",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 53,
+    "id": "doi:10.1073/pnas.1807115115",
+    "title": "Fast charging of lithium-ion batteries at all temperatures",
+    "authors": "X.-G. Yang et al.",
+    "journal_or_source": "Proceedings of the National Academy of Sciences",
+    "year": 2018,
+    "doi": "10.1073/pnas.1807115115",
+    "url": "https://doi.org/10.1073/pnas.1807115115",
+    "record_type": "实验研究",
+    "keywords": [
+      "快充",
+      "热管理",
+      "安全"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 54,
+    "id": "doi:10.1016/j.joule.2019.09.021",
+    "title": "Asymmetric temperature modulation for extreme fast charging of lithium-ion batteries",
+    "authors": "X.-G. Yang et al.",
+    "journal_or_source": "Joule",
+    "year": 2019,
+    "doi": "10.1016/j.joule.2019.09.021",
+    "url": "https://doi.org/10.1016/j.joule.2019.09.021",
+    "record_type": "实验研究",
+    "keywords": [
+      "快充",
+      "热管理",
+      "安全"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 55,
+    "id": "doi:10.1016/j.jpowsour.2025.236566",
+    "title": "Fast-charging lithium-ion batteries: Synergy of carbon nanotubes and laser ablation",
+    "authors": "S. M. Brown et al.",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2025,
+    "doi": "10.1016/j.jpowsour.2025.236566",
+    "url": "https://doi.org/10.1016/j.jpowsour.2025.236566",
+    "record_type": "实验研究",
+    "keywords": [
+      "快充",
+      "材料",
+      "析锂"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 56,
+    "id": "doi:10.1016/j.ensm.2017.05.013",
+    "title": "Thermal runaway mechanism of lithium ion battery for electric vehicles: A review",
+    "authors": "X. Feng et al.",
+    "journal_or_source": "Energy Storage Materials",
+    "year": 2018,
+    "doi": "10.1016/j.ensm.2017.05.013",
+    "url": "https://doi.org/10.1016/j.ensm.2017.05.013",
+    "record_type": "安全综述",
+    "keywords": [
+      "热失控",
+      "安全",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 57,
+    "id": "doi:10.1016/j.est.2023.108569",
+    "title": "Thermal runaway and mitigation strategies for electric vehicle lithium-ion batteries using battery cooling approach: A review of the current status and challenges",
+    "authors": "M. A. Hannan et al.",
+    "journal_or_source": "Journal of Energy Storage",
+    "year": 2023,
+    "doi": "10.1016/j.est.2023.108569",
+    "url": "https://doi.org/10.1016/j.est.2023.108569",
+    "record_type": "安全综述",
+    "keywords": [
+      "热失控",
+      "安全",
+      "热管理",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 58,
+    "id": "doi:10.1016/j.est.2023.106894",
+    "title": "Thermal behaviour and thermal runaway propagation in lithium-ion battery systems – A critical review",
+    "authors": "R. Arora et al.",
+    "journal_or_source": "Journal of Energy Storage",
+    "year": 2023,
+    "doi": "10.1016/j.est.2023.106894",
+    "url": "https://doi.org/10.1016/j.est.2023.106894",
+    "record_type": "安全综述",
+    "keywords": [
+      "热失控",
+      "安全",
+      "传播",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 59,
+    "id": "doi:10.1016/j.energy.2021.122881",
+    "title": "A review on second-life of Li-ion batteries: prospects, challenges, and issues",
+    "authors": "M. A. Hossain et al.",
+    "journal_or_source": "Energy",
+    "year": 2022,
+    "doi": "10.1016/j.energy.2021.122881",
+    "url": "https://doi.org/10.1016/j.energy.2021.122881",
+    "record_type": "系统综述",
+    "keywords": [
+      "二次寿命",
+      "SOH",
+      "安全",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 60,
+    "id": "doi:10.1016/j.rser.2018.04.035",
+    "title": "Battery second life: Hype, hope or reality? A critical review of the state of the art",
+    "authors": "E. Martinez-Laserna et al.",
+    "journal_or_source": "Renewable and Sustainable Energy Reviews",
+    "year": 2018,
+    "doi": "10.1016/j.rser.2018.04.035",
+    "url": "https://doi.org/10.1016/j.rser.2018.04.035",
+    "record_type": "系统综述",
+    "keywords": [
+      "二次寿命",
+      "SOH",
+      "经济性",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 61,
+    "id": "doi:10.1016/j.heliyon.2024.e37423",
+    "title": "Barriers and framework conditions for the market entry of second-life lithium-ion batteries from electric vehicles",
+    "authors": "S. Wrålsen et al.",
+    "journal_or_source": "Heliyon",
+    "year": 2024,
+    "doi": "10.1016/j.heliyon.2024.e37423",
+    "url": "https://doi.org/10.1016/j.heliyon.2024.e37423",
+    "record_type": "应用研究",
+    "keywords": [
+      "二次寿命",
+      "安全",
+      "循环经济"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 62,
+    "id": "doi:10.1016/j.spc.2025.01.003",
+    "title": "Environmental performance of second-life lithium-ion batteries repurposed from electric vehicles for household storage systems",
+    "authors": "L. Kamath et al.",
+    "journal_or_source": "Sustainable Production and Consumption",
+    "year": 2025,
+    "doi": "10.1016/j.spc.2025.01.003",
+    "url": "https://doi.org/10.1016/j.spc.2025.01.003",
+    "record_type": "应用研究",
+    "keywords": [
+      "二次寿命",
+      "生命周期评价",
+      "储能"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 63,
+    "id": "doi:10.1016/j.est.2026.124307",
+    "title": "Fast estimation of equivalent circuit parameters for second-life batteries using electrochemical impedance spectroscopy",
+    "authors": "C. Hernández-Lenis et al.",
+    "journal_or_source": "Journal of Energy Storage",
+    "year": 2026,
+    "doi": "10.1016/j.est.2026.124307",
+    "url": "https://doi.org/10.1016/j.est.2026.124307",
+    "record_type": "方法论文",
+    "keywords": [
+      "二次寿命",
+      "EIS",
+      "等效电路",
+      "SOH"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 64,
+    "id": "doi:10.1038/s44359-026-00148-3",
+    "title": "Electrochemical impedance spectroscopy for full-cell battery characterization",
+    "authors": "N. H. Hawari",
+    "journal_or_source": "Nature Reviews Clean Technology",
+    "year": 2026,
+    "doi": "10.1038/s44359-026-00148-3",
+    "url": "https://doi.org/10.1038/s44359-026-00148-3",
+    "record_type": "方法综述",
+    "keywords": [
+      "EIS",
+      "电化学模型",
+      "SOH"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 65,
+    "id": "doi:10.1016/j.jpowsour.2016.03.042",
+    "title": "A systematic review of lumped-parameter equivalent circuit models for real-time estimation of lithium-ion battery states",
+    "authors": "S. Nejad, D. T. Gladwin, D. A. Stone",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2016,
+    "doi": "10.1016/j.jpowsour.2016.03.042",
+    "url": "https://doi.org/10.1016/j.jpowsour.2016.03.042",
+    "record_type": "方法综述",
+    "keywords": [
+      "等效电路",
+      "SOC",
+      "状态估计",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 66,
+    "id": "doi:10.3390/app8050659",
+    "title": "Overview of Lithium-Ion Battery Modeling Methods for State-of-Charge Estimation in Electrical Vehicles",
+    "authors": "J. Meng, G. Luo, M. Ricco, M. Swierczynski, D.-I. Stroe, R. Teodorescu",
+    "journal_or_source": "Applied Sciences",
+    "year": 2018,
+    "doi": "10.3390/app8050659",
+    "url": "https://doi.org/10.3390/app8050659",
+    "record_type": "方法综述",
+    "keywords": [
+      "SOC",
+      "电化学模型",
+      "等效电路",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 67,
+    "id": "doi:10.1016/j.jpowsour.2017.01.126",
+    "title": "A novel method for identification of lithium-ion battery equivalent circuit model parameters considering electrochemical properties",
+    "authors": "X. Zhang, J. Lu, S. Yuan, J. Yang, X. Zhou",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2017,
+    "doi": "10.1016/j.jpowsour.2017.01.126",
+    "url": "https://doi.org/10.1016/j.jpowsour.2017.01.126",
+    "record_type": "方法论文",
+    "keywords": [
+      "等效电路",
+      "电化学模型",
+      "参数辨识"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 68,
+    "id": "doi:10.1016/j.egypro.2017.09.525",
+    "title": "Systematic experimental pulse test investigation for parameter identification of an equivalent based lithium-ion battery model",
+    "authors": "M. Böttiger, M. Paulitschke, T. Bocklisch",
+    "journal_or_source": "Energy Procedia",
+    "year": 2017,
+    "doi": "10.1016/j.egypro.2017.09.525",
+    "url": "https://doi.org/10.1016/j.egypro.2017.09.525",
+    "record_type": "实验研究",
+    "keywords": [
+      "等效电路",
+      "SOC",
+      "参数辨识"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 69,
+    "id": "doi:10.1016/j.jclepro.2018.09.065",
+    "title": "A review of state of health and remaining useful life estimation methods for lithium-ion battery in electric vehicles: Challenges and recommendations",
+    "authors": "M. S. Hossain Lipu, M. A. Hannan, A. Hussain, M. M. Hoque, P. J. Ker, M. H. M. Saad, A. Ayob",
+    "journal_or_source": "Journal of Cleaner Production",
+    "year": 2018,
+    "doi": "10.1016/j.jclepro.2018.09.065",
+    "url": "https://doi.org/10.1016/j.jclepro.2018.09.065",
+    "record_type": "系统综述",
+    "keywords": [
+      "SOH",
+      "RUL",
+      "寿命预测",
+      "综述"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 70,
+    "id": "doi:10.1016/j.jpowsour.2020.228740",
+    "title": "A rapid online calculation method for state of health of lithium-ion battery based on coulomb counting method and differential voltage analysis",
+    "authors": "S. Zhang, X. Guo, X. Dou, X. Zhang",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2020,
+    "doi": "10.1016/j.jpowsour.2020.228740",
+    "url": "https://doi.org/10.1016/j.jpowsour.2020.228740",
+    "record_type": "方法论文",
+    "keywords": [
+      "ICA/DVA",
+      "SOH",
+      "容量估计"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 71,
+    "id": "doi:10.1016/j.jpowsour.2018.10.069",
+    "title": "State-of-health estimation for Li-ion batteries by combing the incremental capacity analysis method with grey relational analysis",
+    "authors": "X. Li, Z. Wang, L. Zhang, C. Zou, D. D. Dorrell",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2019,
+    "doi": "10.1016/j.jpowsour.2018.10.069",
+    "url": "https://doi.org/10.1016/j.jpowsour.2018.10.069",
+    "record_type": "方法论文",
+    "keywords": [
+      "ICA/DVA",
+      "SOH",
+      "健康特征"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": []
+  },
+  {
+    "index": 72,
+    "id": "doi:10.1109/tim.2008.2005965",
+    "title": "Prognostics Methods for Battery Health Monitoring Using a Bayesian Framework",
+    "authors": "B. Saha, K. Goebel, S. Poll, J. Christophersen",
+    "journal_or_source": "IEEE Transactions on Instrumentation and Measurement",
+    "year": 2009,
+    "doi": "10.1109/TIM.2008.2005965",
+    "url": "https://doi.org/10.1109/TIM.2008.2005965",
+    "record_type": "数据配对",
+    "keywords": [],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "nasa-pcoe"
+    ]
+  },
+  {
+    "index": 73,
+    "id": "title:adaptation of an electrochemistry-based li-ion battery model to account for deterioration observed under randomized use",
+    "title": "Adaptation of an Electrochemistry-based Li-Ion Battery Model to Account for Deterioration Observed Under Randomized Use",
+    "authors": "B. Bole, C. Kulkarni, M. Daigle",
+    "journal_or_source": "Annual Conference of the PHM Society",
+    "year": 2014,
+    "doi": "",
+    "url": "https://papers.phmsociety.org/index.php/phmconf/article/view/2480",
+    "record_type": "数据配对",
+    "keywords": [],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "nasa-randomized"
+    ]
+  },
+  {
+    "index": 74,
+    "id": "doi:10.1016/j.jpowsour.2011.08.040",
+    "title": "Prognostics of lithium-ion batteries based on Dempster–Shafer theory and the Bayesian Monte Carlo method",
+    "authors": "W. He, N. Williard, M. Osterman, M. Pecht",
+    "journal_or_source": "Journal of Power Sources",
+    "year": 2011,
+    "doi": "10.1016/j.jpowsour.2011.08.040",
+    "url": "https://doi.org/10.1016/j.jpowsour.2011.08.040",
+    "record_type": "数据配对",
+    "keywords": [],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "calce-open"
+    ]
+  },
+  {
+    "index": 75,
+    "id": "doi:10.21227/ce9q-jr19",
+    "title": "Automotive Li-ion Cell Usage Data Set",
+    "authors": "Massimiliano Luzi",
+    "journal_or_source": "IEEE DataPort（数据集出版记录，非期刊论文）",
+    "year": 2022,
+    "doi": "10.21227/CE9Q-JR19",
+    "url": "https://doi.org/10.21227/CE9Q-JR19",
+    "record_type": "数据配对",
+    "keywords": [],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "automotive-liion-cell-usage"
+    ]
+  },
+  {
+    "index": 76,
+    "id": "doi:10.1109/itec60657.2024.10599015",
+    "title": "Experimental Performance Analysis of LG E-66 Cells from a Fast-Charging Porsche Taycan Battery Module",
+    "authors": "L. Uwalaka, Q. Yao, J. Duque, P. Kollmeyer, A. Emadi",
+    "journal_or_source": "2024 IEEE Transportation Electrification Conference and Expo (ITEC)",
+    "year": 2024,
+    "doi": "10.1109/ITEC60657.2024.10599015",
+    "url": "https://doi.org/10.1109/ITEC60657.2024.10599015",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOC",
+      "快充",
+      "电池建模"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "porsche-taycan-lg-e66"
+    ]
+  },
+  {
+    "index": 77,
+    "id": "doi:10.1016/j.apenergy.2016.09.010",
+    "title": "Influence of different open circuit voltage tests on state of charge online estimation for lithium-ion batteries",
+    "authors": "Fangdan Zheng, Yinjiao Xing, Jiuchun Jiang, Bingxiang Sun, Jonghoon Kim, Michael Pecht",
+    "journal_or_source": "Applied Energy 183, 513–525",
+    "year": 2016,
+    "doi": "10.1016/j.apenergy.2016.09.010",
+    "url": "https://doi.org/10.1016/j.apenergy.2016.09.010",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOC",
+      "OCV",
+      "实验数据"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "calce-inr18650-20r-ocv"
+    ]
+  },
+  {
+    "index": 78,
+    "id": "doi:10.1038/s41467-025-63678-7",
+    "title": "Large lithium-ion battery model for secure shared electric bike battery in smart cities",
+    "authors": "Donghui Ding, Zhao Li, Linhao Luo, Ming Jin, Bin Zhu, Yichen Zhong, Junhao Hu, Peng Cai, Huiqi Hu",
+    "journal_or_source": "Nature Communications 16, 8415",
+    "year": 2025,
+    "doi": "10.1038/s41467-025-63678-7",
+    "url": "https://doi.org/10.1038/s41467-025-63678-7",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH",
+      "故障诊断",
+      "实车数据",
+      "剩余里程",
+      "自监督"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "llim-figshare-three-tasks"
+    ]
+  },
+  {
+    "index": 79,
+    "id": "doi:10.1016/j.dib.2022.107995",
+    "title": "Lithium-ion battery aging dataset based on electric vehicle real-driving profiles",
+    "authors": "Gabriele Pozzato, Anirudh Allam, Simona Onori",
+    "journal_or_source": "Data in Brief 41, 107995",
+    "year": 2022,
+    "doi": "10.1016/j.dib.2022.107995",
+    "url": "https://doi.org/10.1016/j.dib.2022.107995",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH",
+      "EIS",
+      "RUL",
+      "动态工况"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "stanford-ev-real-driving-2022"
+    ]
+  },
+  {
+    "index": 80,
+    "id": "doi:10.1038/s41597-025-05725-y",
+    "title": "High-power lithium-ion battery characterization dataset for stochastic battery modeling",
+    "authors": "Muhammad Aadil Khan, Sai Thatipamula, Luigi Tresca, Le Xu, Amalie Trewartha, Simona Onori",
+    "journal_or_source": "Scientific Data 12, 1506",
+    "year": 2025,
+    "doi": "10.1038/s41597-025-05725-y",
+    "url": "https://doi.org/10.1038/s41597-025-05725-y",
+    "record_type": "数据配对",
+    "keywords": [
+      "EIS",
+      "快充",
+      "参数辨识",
+      "电池建模"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "stanford-highpower-p42a-2025"
+    ]
+  },
+  {
+    "index": 81,
+    "id": "doi:10.1038/s41597-025-05360-7",
+    "title": "Long-Term Sweat Testing Dataset for Second-Life Batteries",
+    "authors": "Matthew Beatty, Dani Strickland, Joe Warren, John Chan, Pedro Ferreira",
+    "journal_or_source": "Scientific Data 12, 1068",
+    "year": 2025,
+    "doi": "10.1038/s41597-025-05360-7",
+    "url": "https://doi.org/10.1038/s41597-025-05360-7",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH",
+      "储能",
+      "二次寿命",
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "loughborough-second-life-sweat"
+    ]
+  },
+  {
+    "index": 82,
+    "id": "doi:10.1016/j.apenergy.2023.120954",
+    "title": "Prognostics of battery capacity based on charging data and data-driven methods for on-road vehicles",
+    "authors": "Zhongwei Deng, Le Xu, Hongao Liu, Xiaosong Hu, Zhixuan Duan, Yu Xu",
+    "journal_or_source": "Applied Energy 339, 120954",
+    "year": 2023,
+    "doi": "10.1016/j.apenergy.2023.120954",
+    "url": "https://doi.org/10.1016/j.apenergy.2023.120954",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOH",
+      "容量预测",
+      "实车数据",
+      "机器学习"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "onroad-20ev-capacity"
+    ]
+  },
+  {
+    "index": 83,
+    "id": "doi:10.1016/j.seta.2020.100752",
+    "title": "A data-driven coulomb counting method for state of charge calibration and estimation of lithium-ion battery",
+    "authors": "Shuzhi Zhang, Xu Guo, Xiaoxin Dou, Xiongwen Zhang",
+    "journal_or_source": "Sustainable Energy Technologies and Assessments 40, 100752",
+    "year": 2020,
+    "doi": "10.1016/j.seta.2020.100752",
+    "url": "https://doi.org/10.1016/j.seta.2020.100752",
+    "record_type": "数据配对",
+    "keywords": [
+      "SOC",
+      "ICA/DVA",
+      "库仑计数"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "xjtu-coulomb-calibration-2020"
+    ]
+  },
+  {
+    "index": 84,
+    "id": "doi:10.1038/s41467-025-58192-9",
+    "title": "Data-driven energy management for electric vehicles using offline reinforcement learning",
+    "authors": "Yong Wang, Jingda Wu, Hongwen He, Zhongbao Wei, Fengchun Sun",
+    "journal_or_source": "Nature Communications 16, 2835",
+    "year": 2025,
+    "doi": "10.1038/s41467-025-58192-9",
+    "url": "https://doi.org/10.1038/s41467-025-58192-9",
+    "record_type": "数据配对",
+    "keywords": [
+      "强化学习",
+      "能量管理",
+      "实车数据"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "bit-offline-ems-2025"
+    ]
+  },
+  {
+    "index": 85,
+    "id": "doi:10.1038/s41467-025-56832-8",
+    "title": "Model-constrained deep learning for online fault diagnosis in Li-ion batteries over stochastic conditions",
+    "authors": "Rui Cao, Zhengjie Zhang, Runwu Shi, Jiayi Lu, Yifan Zheng, Yefan Sun, Xinhua Liu, Shichun Yang",
+    "journal_or_source": "Nature Communications 16, 1651",
+    "year": 2025,
+    "doi": "10.1038/s41467-025-56832-8",
+    "url": "https://doi.org/10.1038/s41467-025-56832-8",
+    "record_type": "数据配对",
+    "keywords": [
+      "故障诊断",
+      "热安全",
+      "实车数据",
+      "机器学习"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "buaa-fault-515ev-2025"
+    ]
+  },
+  {
+    "index": 86,
+    "id": "doi:10.5281/zenodo.20813753",
+    "title": "280 Ah prismatic LFP cell: characterisation and aging data",
+    "authors": "Robert Gray; Christopher Vagg",
+    "journal_or_source": "Zenodo",
+    "year": 2026,
+    "doi": "10.5281/zenodo.20813753",
+    "url": "https://doi.org/10.5281/zenodo.20813753",
+    "record_type": "数据集正式引用",
+    "keywords": [
+      "SOH"
+    ],
+    "is_dataset_record": true,
+    "linked_dataset_ids": [
+      "bath-280ah-lfp"
+    ]
+  },
+  {
+    "index": 87,
+    "id": "doi:10.17632/7dkmgbspfg.2",
+    "title": "EV Lithium Ion Battery State of Charge Dataset",
+    "authors": "Venkataramana Veeramsetty; Keerthi Sri G. V.; Vinod Kumar D. M.",
+    "journal_or_source": "Mendeley Data",
+    "year": 2026,
+    "doi": "10.17632/7dkmgbspfg.2",
+    "url": "https://doi.org/10.17632/7dkmgbspfg.2",
+    "record_type": "数据集正式引用",
+    "keywords": [
+      "SOC"
+    ],
+    "is_dataset_record": true,
+    "linked_dataset_ids": [
+      "ev-soc-mendeley-2026"
+    ]
+  },
+  {
+    "index": 88,
+    "id": "doi:10.5281/zenodo.18471156",
+    "title": "Energy Storage Power Station Lithium-Ion Battery Real-World Operation Dataset",
+    "authors": "Slam Idea",
+    "journal_or_source": "Zenodo",
+    "year": 2026,
+    "doi": "10.5281/zenodo.18471156",
+    "url": "https://doi.org/10.5281/zenodo.18471156",
+    "record_type": "数据集正式引用",
+    "keywords": [],
+    "is_dataset_record": true,
+    "linked_dataset_ids": [
+      "zenodo-ess-operation-2026"
+    ]
+  },
+  {
+    "index": 89,
+    "id": "doi:10.1039/d4ee04787g",
+    "title": "Degradation path prediction of lithium-ion batteries under dynamic operating sequences",
+    "authors": "Inwoo Kim; Hyunjae Kim; Seongha An; Jihoon Oh; Minsoo Kim; Jang Wook Choi",
+    "journal_or_source": "Energy & Environmental Science",
+    "year": 2025,
+    "doi": "10.1039/D4EE04787G",
+    "url": "https://doi.org/10.1039/D4EE04787G",
+    "record_type": "数据关联文献",
+    "keywords": [
+      "SOH",
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "seoul-dynamic-degradation"
+    ]
+  },
+  {
+    "index": 90,
+    "id": "doi:10.1016/j.joule.2026.102343",
+    "title": "Rapid and non-destructive diagnosis of lithium-ion batteries via quantification of anode spatial degradation",
+    "authors": "Inwoo Kim; Seongha An; Hyunjae Kim; Jaewook Lee; Hobyung Chae; Wanchuck Woo; Jang Wook Choi",
+    "journal_or_source": "Joule",
+    "year": 2026,
+    "doi": "10.1016/j.joule.2026.102343",
+    "url": "https://doi.org/10.1016/j.joule.2026.102343",
+    "record_type": "数据关联文献",
+    "keywords": [
+      "SOH"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "seoul-spatial-anode"
+    ]
+  },
+  {
+    "index": 91,
+    "id": "doi:10.1038/s41597-024-03831-x",
+    "title": "Comprehensive battery aging dataset: capacity and impedance fade measurements of a lithium-ion NMC/C-SiO cell",
+    "authors": "Matthias Luh; Thomas Blank",
+    "journal_or_source": "Scientific Data",
+    "year": 2024,
+    "doi": "10.1038/s41597-024-03831-x",
+    "url": "https://doi.org/10.1038/s41597-024-03831-x",
+    "record_type": "数据关联文献",
+    "keywords": [
+      "SOH",
+      "EIS"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "kit-228-nmc-aging",
+      "kit-nmc-sio-v2-logs"
+    ]
+  },
+  {
+    "index": 92,
+    "id": "doi:10.5281/zenodo.7896429",
+    "title": "Ageing Data of Lithium-ion \"Panasonic NCR18650B\" Battery Cells",
+    "authors": "Esma Galijatovics; Jelena Rubesa-Zrim; Franz Pichler; Matthias K. Scharrer",
+    "journal_or_source": "Zenodo",
+    "year": 2023,
+    "doi": "10.5281/zenodo.7896429",
+    "url": "https://doi.org/10.5281/zenodo.7896429",
+    "record_type": "数据集正式引用",
+    "keywords": [
+      "SOC",
+      "SOH"
+    ],
+    "is_dataset_record": true,
+    "linked_dataset_ids": [
+      "panasonic-ncr18650b-aging"
+    ]
+  },
+  {
+    "index": 93,
+    "id": "doi:10.1016/j.etran.2024.100338",
+    "title": "Towards real-world state of health estimation, Part 1: Cell-level method using lithium-ion battery laboratory data",
+    "authors": "Yufang Lu et al.",
+    "journal_or_source": "eTransportation",
+    "year": 2024,
+    "doi": "10.1016/j.etran.2024.100338",
+    "url": "https://doi.org/10.1016/j.etran.2024.100338",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "tsinghua-lab-soh-part1"
+    ]
+  },
+  {
+    "index": 94,
+    "id": "doi:10.1016/j.ensm.2026.104892",
+    "title": "Large battery model for multi-state co-estimation and intelligent recommendation using mixed data sources",
+    "authors": "Not recorded",
+    "journal_or_source": "Energy Storage Materials",
+    "year": 2026,
+    "doi": "10.1016/j.ensm.2026.104892",
+    "url": "https://doi.org/10.1016/j.ensm.2026.104892",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "MODEL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "shandong-mixed-state-lbm"
+    ]
+  },
+  {
+    "index": 95,
+    "id": "doi:10.1016/j.xcrp.2025.102657",
+    "title": "Deep sorting of reused batteries for enabling long-term consistency grouping with unknown prior conditions",
+    "authors": "Shuquan Wang et al.",
+    "journal_or_source": "Cell Reports Physical Science",
+    "year": 2025,
+    "doi": "10.1016/j.xcrp.2025.102657",
+    "url": "https://doi.org/10.1016/j.xcrp.2025.102657",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH",
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "shandong-reuse-sorting"
+    ]
+  },
+  {
+    "index": 96,
+    "id": "doi:10.1016/j.xcrp.2025.102442",
+    "title": "Battery health prognosis in data-deficient practical scenarios via reconstructed voltage-based machine learning",
+    "authors": "Not independently checked",
+    "journal_or_source": "Cell Reports Physical Science",
+    "year": 2025,
+    "doi": "10.1016/j.xcrp.2025.102442",
+    "url": "https://doi.org/10.1016/j.xcrp.2025.102442",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "sjtu-degradation-limited-data"
+    ]
+  },
+  {
+    "index": 97,
+    "id": "doi:10.1016/j.ensm.2022.05.007",
+    "title": "Battery degradation prediction against uncertain future conditions with recurrent neural network enabled deep learning",
+    "authors": "Not recorded",
+    "journal_or_source": "Energy Storage Materials",
+    "year": 2022,
+    "doi": "10.1016/j.ensm.2022.05.007",
+    "url": "https://doi.org/10.1016/j.ensm.2022.05.007",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "mit-bit-uncertain-future"
+    ]
+  },
+  {
+    "index": 98,
+    "id": "doi:10.1002/advs.202503583",
+    "title": "Smart Health Evaluation for Lithium-Ion Battery With Super-Short-Segment Charging",
+    "authors": "Qinghua Li et al.",
+    "journal_or_source": "Advanced Science",
+    "year": 2025,
+    "doi": "10.1002/advs.202503583",
+    "url": "https://doi.org/10.1002/advs.202503583",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "bit-shortsegment-health"
+    ]
+  },
+  {
+    "index": 99,
+    "id": "doi:10.1016/j.xcrp.2024.102258",
+    "title": "Gaussian process-based online health monitoring and fault analysis of lithium-ion battery systems from field data",
+    "authors": "Joachim Schaeffer et al.",
+    "journal_or_source": "Cell Reports Physical Science",
+    "year": 2024,
+    "doi": "10.1016/j.xcrp.2024.102258",
+    "url": "https://doi.org/10.1016/j.xcrp.2024.102258",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH",
+      "SAFETY",
+      "FIELD"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "darmstadt-field-battgp"
+    ]
+  },
+  {
+    "index": 100,
+    "id": "doi:10.1149/1945-7111/addd50",
+    "title": "Searching for a Pulse: Evaluating the Use of Rapid DC Pulses for Diagnosing Battery Health, State-of-Charge, and Safety",
+    "authors": "Paul Gasper et al.",
+    "journal_or_source": "Journal of The Electrochemical Society",
+    "year": 2025,
+    "doi": "10.1149/1945-7111/addd50",
+    "url": "https://doi.org/10.1149/1945-7111/addd50",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH",
+      "SOC",
+      "SAFETY"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "nrel-pulse-diagnostics"
+    ]
+  },
+  {
+    "index": 101,
+    "id": "doi:10.1016/j.electacta.2025.145988",
+    "title": "Advanced machine learning techniques for State-of-Health estimation in lithium-ion batteries: A comparative study",
+    "authors": "Marek Sedlarik et al.",
+    "journal_or_source": "Electrochimica Acta",
+    "year": 2025,
+    "doi": "10.1016/j.electacta.2025.145988",
+    "url": "https://doi.org/10.1016/j.electacta.2025.145988",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "limerick-battery-soh-ml"
+    ]
+  },
+  {
+    "index": 102,
+    "id": "doi:10.1109/apec39645.2020.9124431",
+    "title": "Lithium-Ion Battery Charging Control Using a Coupled Electro-Thermal Model and Model Predictive Control",
+    "authors": "Not recorded",
+    "journal_or_source": "IEEE APEC",
+    "year": 2020,
+    "doi": "10.1109/APEC39645.2020.9124431",
+    "url": "https://doi.org/10.1109/APEC39645.2020.9124431",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "MODEL",
+      "FAST"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "colorado-electrothermal-mpc"
+    ]
+  },
+  {
+    "index": 103,
+    "id": "doi:10.1038/s41597-024-03859-z",
+    "title": "A multi-stage lithium-ion battery aging dataset using various experimental design methodologies",
+    "authors": "Florian Stroebl et al.",
+    "journal_or_source": "Scientific Data",
+    "year": 2024,
+    "doi": "10.1038/s41597-024-03859-z",
+    "url": "https://doi.org/10.1038/s41597-024-03859-z",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH",
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "munich-multistage-aging"
+    ]
+  },
+  {
+    "index": 104,
+    "id": "doi:10.1002/advs.202305315",
+    "title": "Detecting Abnormality of Battery Lifetime from First-Cycle Data Using Few-Shot Learning",
+    "authors": "Xiaopeng Tang et al.",
+    "journal_or_source": "Advanced Science",
+    "year": 2024,
+    "doi": "10.1002/advs.202305315",
+    "url": "https://doi.org/10.1002/advs.202305315",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "hkust-fewshot-firstcycle"
+    ]
+  },
+  {
+    "index": 105,
+    "id": "doi:10.1039/d4ee03839h",
+    "title": "Non-destructive degradation pattern decoupling for early battery trajectory prediction via physics-informed learning",
+    "authors": "S. Tao et al.",
+    "journal_or_source": "Energy & Environmental Science",
+    "year": 2025,
+    "doi": "10.1039/D4EE03839H",
+    "url": "https://doi.org/10.1039/D4EE03839H",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOH",
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "tsinghua-early-decoupling"
+    ]
+  },
+  {
+    "index": 106,
+    "id": "doi:10.1016/j.dib.2025.111301",
+    "title": "A dataset for large prismatic lithium-ion battery cells (CALB L148N58A): Comprehensive characterization and real-world driving cycles",
+    "authors": "Simone Fasolato et al.",
+    "journal_or_source": "Data in Brief",
+    "year": 2025,
+    "doi": "10.1016/j.dib.2025.111301",
+    "url": "https://doi.org/10.1016/j.dib.2025.111301",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "SOC",
+      "EIS",
+      "MODEL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "pavia-calb-l148n58a"
+    ]
+  },
+  {
+    "index": 107,
+    "id": "doi:10.1145/3711896.3737372",
+    "title": "BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction",
+    "authors": "Ruifeng Tan et al.",
+    "journal_or_source": "KDD 2025",
+    "year": 2025,
+    "doi": "10.1145/3711896.3737372",
+    "url": "https://doi.org/10.1145/3711896.3737372",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "hkust-batterylife-processed-v11"
+    ]
+  },
+  {
+    "index": 108,
+    "id": "doi:10.1038/s41597-023-02180-5",
+    "title": "A battery dataset for electric vertical takeoff and landing aircraft",
+    "authors": "Alexander Bills et al.",
+    "journal_or_source": "Scientific Data",
+    "year": 2023,
+    "doi": "10.1038/s41597-023-02180-5",
+    "url": "https://doi.org/10.1038/s41597-023-02180-5",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "MODEL",
+      "RUL"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "cmu-evtol-duty-cycle"
+    ]
+  }
+]

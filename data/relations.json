@@ -1,0 +1,554 @@
+[
+  {
+    "id": "automotive-liion-cell-usage::doi:10.21227/ce9q-jr19",
+    "dataset_id": "automotive-liion-cell-usage",
+    "paper_id": "doi:10.21227/ce9q-jr19",
+    "relation_type": "dataset_record",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "bath-280ah-lfp::doi:10.5281/zenodo.20813753",
+    "dataset_id": "bath-280ah-lfp",
+    "paper_id": "doi:10.5281/zenodo.20813753",
+    "relation_type": "dataset_record",
+    "review_status": "source-recorded",
+    "evidence_url": "https://zenodo.org/records/20813753"
+  },
+  {
+    "id": "bit-offline-ems-2025::doi:10.1038/s41467-025-58192-9",
+    "dataset_id": "bit-offline-ems-2025",
+    "paper_id": "doi:10.1038/s41467-025-58192-9",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1038/s41467-025-58192-9"
+  },
+  {
+    "id": "bit-two-chemistries-degradation::doi:10.1038/s41467-023-38458-w",
+    "dataset_id": "bit-two-chemistries-degradation",
+    "paper_id": "doi:10.1038/s41467-023-38458-w",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "buaa-fault-515ev-2025::doi:10.1038/s41467-025-56832-8",
+    "dataset_id": "buaa-fault-515ev-2025",
+    "paper_id": "doi:10.1038/s41467-025-56832-8",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1038/s41467-025-56832-8"
+  },
+  {
+    "id": "calce-inr18650-20r-ocv::doi:10.1016/j.apenergy.2016.09.010",
+    "dataset_id": "calce-inr18650-20r-ocv",
+    "paper_id": "doi:10.1016/j.apenergy.2016.09.010",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1016/j.apenergy.2016.09.010"
+  },
+  {
+    "id": "calce-open::doi:10.1016/j.jpowsour.2011.08.040",
+    "dataset_id": "calce-open",
+    "paper_id": "doi:10.1016/j.jpowsour.2011.08.040",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "cambridge-eis::doi:10.1038/s41467-020-15235-7",
+    "dataset_id": "cambridge-eis",
+    "paper_id": "doi:10.1038/s41467-020-15235-7",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "changan-300ev::doi:10.1038/s41467-025-56485-7",
+    "dataset_id": "changan-300ev",
+    "paper_id": "doi:10.1038/s41467-025-56485-7",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "discovery-learning::doi:10.1038/s41586-025-09951-7",
+    "dataset_id": "discovery-learning",
+    "paper_id": "doi:10.1038/s41586-025-09951-7",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "ev-soc-mendeley-2026::doi:10.17632/7dkmgbspfg.2",
+    "dataset_id": "ev-soc-mendeley-2026",
+    "paper_id": "doi:10.17632/7dkmgbspfg.2",
+    "relation_type": "dataset_record",
+    "review_status": "source-recorded",
+    "evidence_url": "https://data.mendeley.com/datasets/7dkmgbspfg/2"
+  },
+  {
+    "id": "hust-personalized::doi:10.1039/d2ee01676a",
+    "dataset_id": "hust-personalized",
+    "paper_id": "doi:10.1039/d2ee01676a",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "imperial-21700::doi:10.1016/j.jpowsour.2024.234185",
+    "dataset_id": "imperial-21700",
+    "paper_id": "doi:10.1016/j.jpowsour.2024.234185",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "imperial-silicon::doi:10.1021/acsaem.2c02047",
+    "dataset_id": "imperial-silicon",
+    "paper_id": "doi:10.1021/acsaem.2c02047",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "kit-228-nmc-aging::doi:10.1038/s41597-024-03831-x",
+    "dataset_id": "kit-228-nmc-aging",
+    "paper_id": "doi:10.1038/s41597-024-03831-x",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://www.nature.com/articles/s41597-024-03831-x"
+  },
+  {
+    "id": "lg-hg2::doi:10.1109/itec.2019.8790543",
+    "dataset_id": "lg-hg2",
+    "paper_id": "doi:10.1109/itec.2019.8790543",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "llim-figshare-three-tasks::doi:10.1038/s41467-025-63678-7",
+    "dataset_id": "llim-figshare-three-tasks",
+    "paper_id": "doi:10.1038/s41467-025-63678-7",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1038/s41467-025-63678-7"
+  },
+  {
+    "id": "loughborough-second-life-sweat::doi:10.1038/s41597-025-05360-7",
+    "dataset_id": "loughborough-second-life-sweat",
+    "paper_id": "doi:10.1038/s41597-025-05360-7",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1038/s41597-025-05360-7"
+  },
+  {
+    "id": "matr-attia::doi:10.1038/s41586-020-1994-5",
+    "dataset_id": "matr-attia",
+    "paper_id": "doi:10.1038/s41586-020-1994-5",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "matr-severson::doi:10.1038/s41560-019-0356-8",
+    "dataset_id": "matr-severson",
+    "paper_id": "doi:10.1038/s41560-019-0356-8",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "nasa-accelerated-battery-life::doi:10.36001/phmconf.2023.v15i1.3463",
+    "dataset_id": "nasa-accelerated-battery-life",
+    "paper_id": "doi:10.36001/phmconf.2023.v15i1.3463",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "nasa-pcoe::doi:10.1109/tim.2008.2005965",
+    "dataset_id": "nasa-pcoe",
+    "paper_id": "doi:10.1109/tim.2008.2005965",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "nasa-randomized::title:adaptation of an electrochemistry-based li-ion battery model to account for deterioration observed under randomized use",
+    "dataset_id": "nasa-randomized",
+    "paper_id": "title:adaptation of an electrochemistry-based li-ion battery model to account for deterioration observed under randomized use",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "onroad-20ev-capacity::doi:10.1016/j.apenergy.2023.120954",
+    "dataset_id": "onroad-20ev-capacity",
+    "paper_id": "doi:10.1016/j.apenergy.2023.120954",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1016/j.apenergy.2023.120954"
+  },
+  {
+    "id": "ornl-thermal-runaway::doi:10.1016/j.est.2023.106798",
+    "dataset_id": "ornl-thermal-runaway",
+    "paper_id": "doi:10.1016/j.est.2023.106798",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "oxford-001::doi:10.1016/j.jpowsour.2016.12.121",
+    "dataset_id": "oxford-001",
+    "paper_id": "doi:10.1016/j.jpowsour.2016.12.121",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "oxford-path-dependent-part1::doi:10.1002/batt.202000160",
+    "dataset_id": "oxford-path-dependent-part1",
+    "paper_id": "doi:10.1002/batt.202000160",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "oxford-trading::doi:10.1016/j.jpowsour.2020.229355",
+    "dataset_id": "oxford-trading",
+    "paper_id": "doi:10.1016/j.jpowsour.2020.229355",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "panasonic-18650pf::doi:10.1109/tie.2017.2787586",
+    "dataset_id": "panasonic-18650pf",
+    "paper_id": "doi:10.1109/tie.2017.2787586",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "panasonic-ncr18650b-aging::doi:10.5281/zenodo.7896429",
+    "dataset_id": "panasonic-ncr18650b-aging",
+    "paper_id": "doi:10.5281/zenodo.7896429",
+    "relation_type": "dataset_record",
+    "review_status": "source-recorded",
+    "evidence_url": "https://zenodo.org/records/7896429"
+  },
+  {
+    "id": "porsche-taycan-lg-e66::doi:10.1109/itec60657.2024.10599015",
+    "dataset_id": "porsche-taycan-lg-e66",
+    "paper_id": "doi:10.1109/itec60657.2024.10599015",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1109/ITEC60657.2024.10599015"
+  },
+  {
+    "id": "randomized-multichem::doi:10.1016/j.dib.2025.111531",
+    "dataset_id": "randomized-multichem",
+    "paper_id": "doi:10.1016/j.dib.2025.111531",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "rwth-trajectory::doi:10.1016/j.jpowsour.2021.230024",
+    "dataset_id": "rwth-trajectory",
+    "paper_id": "doi:10.1016/j.jpowsour.2021.230024",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-arc-different-soc::doi:10.1149/1945-7111/ac0699",
+    "dataset_id": "sandia-arc-different-soc",
+    "paper_id": "doi:10.1149/1945-7111/ac0699",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-cathode-reaction-heats::doi:10.1149/1945-7111/ab8fd9",
+    "dataset_id": "sandia-cathode-reaction-heats",
+    "paper_id": "doi:10.1149/1945-7111/ab8fd9",
+    "relation_type": "review",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-cell-abuse::doi:10.1149/2.1701712jes",
+    "dataset_id": "sandia-cell-abuse",
+    "paper_id": "doi:10.1149/2.1701712jes",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-cell-arc::doi:10.1016/j.jpowsour.2019.226777",
+    "dataset_id": "sandia-cell-arc",
+    "paper_id": "doi:10.1016/j.jpowsour.2019.226777",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-cell-cycle::doi:10.1149/2.1701712jes",
+    "dataset_id": "sandia-cell-cycle",
+    "paper_id": "doi:10.1149/2.1701712jes",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-cell-eis::doi:10.1149/2.1701712jes",
+    "dataset_id": "sandia-cell-eis",
+    "paper_id": "doi:10.1149/2.1701712jes",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-cell-tga-dsc::doi:10.1016/j.jpowsour.2019.226777",
+    "dataset_id": "sandia-cell-tga-dsc",
+    "paper_id": "doi:10.1016/j.jpowsour.2019.226777",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-temperature-dependent-18650::doi:10.1149/1945-7111/ad1450",
+    "dataset_id": "sandia-temperature-dependent-18650",
+    "paper_id": "doi:10.1149/1945-7111/ad1450",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "sandia-vanadium-flow-cell::doi:10.1115/1.4044156",
+    "dataset_id": "sandia-vanadium-flow-cell",
+    "paper_id": "doi:10.1115/1.4044156",
+    "relation_type": "official_citation",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "seoul-dynamic-degradation::doi:10.1039/d4ee04787g",
+    "dataset_id": "seoul-dynamic-degradation",
+    "paper_id": "doi:10.1039/d4ee04787g",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://snu.elsevierpure.com/en/publications/degradation-path-prediction-of-lithium-ion-batteries-under-dynami/"
+  },
+  {
+    "id": "seoul-spatial-anode::doi:10.1016/j.joule.2026.102343",
+    "dataset_id": "seoul-spatial-anode",
+    "paper_id": "doi:10.1016/j.joule.2026.102343",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://snu.elsevierpure.com/en/publications/rapid-and-non-destructive-diagnosis-of-lithium-ion-batteries-via-/"
+  },
+  {
+    "id": "stanford-ev-real-driving-2022::doi:10.1016/j.dib.2022.107995",
+    "dataset_id": "stanford-ev-real-driving-2022",
+    "paper_id": "doi:10.1016/j.dib.2022.107995",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1016/j.dib.2022.107995"
+  },
+  {
+    "id": "stanford-highpower-p42a-2025::doi:10.1038/s41597-025-05725-y",
+    "dataset_id": "stanford-highpower-p42a-2025",
+    "paper_id": "doi:10.1038/s41597-025-05725-y",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1038/s41597-025-05725-y"
+  },
+  {
+    "id": "stanford-second-life::doi:10.1016/j.dib.2024.111046",
+    "dataset_id": "stanford-second-life",
+    "paper_id": "doi:10.1016/j.dib.2024.111046",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "tongji-relaxation::doi:10.1038/s41467-022-29837-w",
+    "dataset_id": "tongji-relaxation",
+    "paper_id": "doi:10.1038/s41467-022-29837-w",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "tsinghua-ev-field::doi:10.1016/j.etran.2024.100361",
+    "dataset_id": "tsinghua-ev-field",
+    "paper_id": "doi:10.1016/j.etran.2024.100361",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "xjtu-coulomb-calibration-2020::doi:10.1016/j.seta.2020.100752",
+    "dataset_id": "xjtu-coulomb-calibration-2020",
+    "paper_id": "doi:10.1016/j.seta.2020.100752",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1016/j.seta.2020.100752"
+  },
+  {
+    "id": "xjtu-pinn::doi:10.1038/s41467-024-48779-z",
+    "dataset_id": "xjtu-pinn",
+    "paper_id": "doi:10.1038/s41467-024-48779-z",
+    "relation_type": "catalogued",
+    "review_status": "pending",
+    "evidence_url": ""
+  },
+  {
+    "id": "zenodo-ess-operation-2026::doi:10.5281/zenodo.18471156",
+    "dataset_id": "zenodo-ess-operation-2026",
+    "paper_id": "doi:10.5281/zenodo.18471156",
+    "relation_type": "dataset_record",
+    "review_status": "source-recorded",
+    "evidence_url": "https://zenodo.org/records/18471156"
+  },
+  {
+    "id": "tsinghua-lab-soh-part1::doi:10.1016/j.etran.2024.100338",
+    "dataset_id": "tsinghua-lab-soh-part1",
+    "paper_id": "doi:10.1016/j.etran.2024.100338",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "shandong-mixed-state-lbm::doi:10.1016/j.ensm.2026.104892",
+    "dataset_id": "shandong-mixed-state-lbm",
+    "paper_id": "doi:10.1016/j.ensm.2026.104892",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "shandong-reuse-sorting::doi:10.1016/j.xcrp.2025.102657",
+    "dataset_id": "shandong-reuse-sorting",
+    "paper_id": "doi:10.1016/j.xcrp.2025.102657",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "sjtu-degradation-limited-data::doi:10.1016/j.xcrp.2025.102442",
+    "dataset_id": "sjtu-degradation-limited-data",
+    "paper_id": "doi:10.1016/j.xcrp.2025.102442",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "mit-bit-uncertain-future::doi:10.1016/j.ensm.2022.05.007",
+    "dataset_id": "mit-bit-uncertain-future",
+    "paper_id": "doi:10.1016/j.ensm.2022.05.007",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "bit-shortsegment-health::doi:10.1002/advs.202503583",
+    "dataset_id": "bit-shortsegment-health",
+    "paper_id": "doi:10.1002/advs.202503583",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "darmstadt-field-battgp::doi:10.1016/j.xcrp.2024.102258",
+    "dataset_id": "darmstadt-field-battgp",
+    "paper_id": "doi:10.1016/j.xcrp.2024.102258",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "kit-nmc-sio-v2-logs::doi:10.1038/s41597-024-03831-x",
+    "dataset_id": "kit-nmc-sio-v2-logs",
+    "paper_id": "doi:10.1038/s41597-024-03831-x",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "nrel-pulse-diagnostics::doi:10.1149/1945-7111/addd50",
+    "dataset_id": "nrel-pulse-diagnostics",
+    "paper_id": "doi:10.1149/1945-7111/addd50",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "limerick-battery-soh-ml::doi:10.1016/j.electacta.2025.145988",
+    "dataset_id": "limerick-battery-soh-ml",
+    "paper_id": "doi:10.1016/j.electacta.2025.145988",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "colorado-electrothermal-mpc::doi:10.1109/apec39645.2020.9124431",
+    "dataset_id": "colorado-electrothermal-mpc",
+    "paper_id": "doi:10.1109/apec39645.2020.9124431",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "munich-multistage-aging::doi:10.1038/s41597-024-03859-z",
+    "dataset_id": "munich-multistage-aging",
+    "paper_id": "doi:10.1038/s41597-024-03859-z",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "hkust-fewshot-firstcycle::doi:10.1002/advs.202305315",
+    "dataset_id": "hkust-fewshot-firstcycle",
+    "paper_id": "doi:10.1002/advs.202305315",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "tsinghua-early-decoupling::doi:10.1039/d4ee03839h",
+    "dataset_id": "tsinghua-early-decoupling",
+    "paper_id": "doi:10.1039/d4ee03839h",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "pavia-calb-l148n58a::doi:10.1016/j.dib.2025.111301",
+    "dataset_id": "pavia-calb-l148n58a",
+    "paper_id": "doi:10.1016/j.dib.2025.111301",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "hkust-batterylife-processed-v11::doi:10.1145/3711896.3737372",
+    "dataset_id": "hkust-batterylife-processed-v11",
+    "paper_id": "doi:10.1145/3711896.3737372",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "cmu-evtol-duty-cycle::doi:10.1038/s41597-023-02180-5",
+    "dataset_id": "cmu-evtol-duty-cycle",
+    "paper_id": "doi:10.1038/s41597-023-02180-5",
+    "relation_type": "catalogued",
+    "review_status": "publisher-doi-verified-source-link-pending",
+    "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  }
+]
