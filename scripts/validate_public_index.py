@@ -59,9 +59,9 @@ def main():
     topics=(ROOT/"docs/TOPICS.md").read_text("utf-8")
     papers_md=(ROOT/"docs/PAPERS.md").read_text("utf-8")
     for txt in (readme,readme_en):
-        count=len(re.findall(r"^\| \d{2} \|",txt,flags=re.M))
+        count=len(re.findall(r"^\| \d{2,} \|",txt,flags=re.M))
         assert count==len(ds),("README table entries",count,len(ds))
-    assert len(re.findall(r'<a id="dataset-\d{2}"></a>',details))==len(ds)
+    assert len(re.findall(r'<a id="dataset-\d{2,}"></a>',details))==len(ds)
     assert len(re.findall(r"^\| \d{3} \|",papers_md,flags=re.M))==len(ps)
     for k in TAGS:
         assert re.search(r"^## "+re.escape(k)+r"$",topics,flags=re.M), ("missing topic",k)
