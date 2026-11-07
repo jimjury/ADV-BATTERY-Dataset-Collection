@@ -8,7 +8,7 @@
 
 **SOC 估计 / State of charge**
 
-**14 条相关资源**（含门户和工具，如适用）。
+**21 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -26,12 +26,19 @@
 | 70 | [McMaster 电池数据记录 9xyvy2njj3](DATASET_DETAILS.md#dataset-70) | 2023 | McMaster University | [访问](<https://data.mendeley.com/datasets/9xyvy2njj3/2>) |
 | 71 | [McMaster 电池数据记录 cp3473x7xv](DATASET_DETAILS.md#dataset-71) | 2020 | McMaster University | [访问](<https://data.mendeley.com/datasets/cp3473x7xv/3>) |
 | 78 | [Pavia/Trieste CALB 58Ah 方形电池工况数据](DATASET_DETAILS.md#dataset-78) | 2025 | University of Pavia / University of Trieste | [访问](<https://data.mendeley.com/datasets/ycx459r5c3/2>) |
+| 86 | [Tesla Model 3 2170 六温度 SOC 开放/盲测基准](DATASET_DETAILS.md#dataset-86) | 2023 | McMaster University / Borealis | [访问](<https://doi.org/10.5683/SP3/ZVTR4B>) |
+| 87 | [深圳真实电动汽车充电故障数据（标注）](DATASET_DETAILS.md#dataset-87) | 2024 | Shenzhen Autosun / Hong Kong Polytechnic University | [访问](<https://data.mendeley.com/datasets/c7gg94tmvz/3>) |
+| 88 | [MATLAB 模拟动力电池过放/短路故障分类](DATASET_DETAILS.md#dataset-88) | 2026 | SR University / Mendeley Data | [访问](<https://data.mendeley.com/datasets/t42ynjk936/2>) |
+| 89 | [11 节磷酸铁锂电池 SOC—EIS 多频率实测](DATASET_DETAILS.md#dataset-89) | 2024 | University of Cassino and Southern Lazio | [访问](<https://data.mendeley.com/datasets/cb887gkmxw/1>) |
+| 101 | [两辆真实纯电动车 LFP/NCA 行驶充电记录](DATASET_DETAILS.md#dataset-101) | 2024 | KU Leuven / RDR | [访问](<https://doi.org/10.48804/8KPDTW>) |
+| 112 | [Battery Data Commons 电池数据资源共享门户](DATASET_DETAILS.md#dataset-112) | 2026 | Battery Data Commons | [访问](<https://batterydatacommons.org/>) |
+| 113 | [Battery Hub 电池研究数据集目录](DATASET_DETAILS.md#dataset-113) | 2026 | Battery Hub | [访问](<https://battery-hub.org/datasets>) |
 
 ## SOH
 
 **SOH 估计 / State of health**
 
-**48 条相关资源**（含门户和工具，如适用）。
+**68 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -83,12 +90,32 @@
 | 77 | [清华大学早期退化模式解耦数据](DATASET_DETAILS.md#dataset-77) | 2024 | Tsinghua University | [访问](<https://zenodo.org/records/10715209>) |
 | 83 | [BatteryArchive Sandia 商用 18650 电池长期退化研究](DATASET_DETAILS.md#dataset-83) | 2020 | Sandia National Laboratories / BatteryArchive.org | [访问](<https://www.batteryarchive.org/snl_study.html>) |
 | 84 | [BatteryArchive 循环测试数据目录](DATASET_DETAILS.md#dataset-84) | — | BatteryArchive.org | [访问](<https://www.batteryarchive.org/cycle_list.html?t=0001>) |
+| 87 | [深圳真实电动汽车充电故障数据（标注）](DATASET_DETAILS.md#dataset-87) | 2024 | Shenzhen Autosun / Hong Kong Polytechnic University | [访问](<https://data.mendeley.com/datasets/c7gg94tmvz/3>) |
+| 90 | [Samsung 30Q 八电芯阻抗与老化机制数据](DATASET_DETAILS.md#dataset-90) | 2025 | CNR ITAE / University of Messina | [访问](<https://data.mendeley.com/datasets/g7ncmhrcrz/1>) |
+| 91 | [新旧 NMC 电芯及模块热失控多尺度实验](DATASET_DETAILS.md#dataset-91) | 2026 | Scientific Data / OSF | [访问](<https://osf.io/c2hnq/>) |
+| 96 | [NASA 随机工况 RW9–RW11 事件级加工特征](DATASET_DETAILS.md#dataset-96) | 2026 | Zenodo (NASA 衍生处理) | [访问](<https://zenodo.org/records/23180066>) |
+| 97 | [多公开电池库统一 RUL 特征与建模表](DATASET_DETAILS.md#dataset-97) | 2026 | UFCG / Zenodo | [访问](<https://zenodo.org/records/20753515>) |
+| 98 | [德国电动汽车电池包 DVA/ICA 实测档案](DATASET_DETAILS.md#dataset-98) | 2024 | Technical University of Munich / mediaTUM | [访问](<https://mediatum.ub.tum.de/1737452>) |
+| 99 | [12 辆实车电池包 SOH 标准化测量数据](DATASET_DETAILS.md#dataset-99) | 2025 | Technical University of Munich / mediaTUM | [访问](<https://mediatum.ub.tum.de/1765567>) |
+| 100 | [车辆级差分电压分析与 SOH 测量鲁棒性](DATASET_DETAILS.md#dataset-100) | 2026 | Technical University of Munich / mediaTUM | [访问](<https://mediatum.ub.tum.de/1840112>) |
+| 101 | [两辆真实纯电动车 LFP/NCA 行驶充电记录](DATASET_DETAILS.md#dataset-101) | 2024 | KU Leuven / RDR | [访问](<https://doi.org/10.48804/8KPDTW>) |
+| 102 | [271 组轻型电动车 LFP 电池包真实多故障诊断](DATASET_DETAILS.md#dataset-102) | 2026 | Harbin Institute of Technology / Zenodo | [访问](<https://zenodo.org/records/18328701>) |
+| 103 | [瑞典退役电池梯次利用储能 SOH 实测数据](DATASET_DETAILS.md#dataset-103) | 2025 | RISE Research Institutes of Sweden / Zenodo | [访问](<https://zenodo.org/records/17287096>) |
+| 104 | [工业自动导引车锂电池快充与功率衰减](DATASET_DETAILS.md#dataset-104) | 2023 | Industry researchers / Zenodo | [访问](<https://zenodo.org/records/7748947>) |
+| 105 | [家庭储能电池真实运行大样本](DATASET_DETAILS.md#dataset-105) | 2024 | RWTH Aachen / Zenodo | [访问](<https://zenodo.org/records/12091223>) |
+| 106 | [16 座储能系统多尺度电芯—电池包运行数据](DATASET_DETAILS.md#dataset-106) | 2026 | Field data research group / Zenodo | [访问](<https://zenodo.org/records/20132842>) |
+| 107 | [PNNL/EPRI 多化学体系储能现场运行档案](DATASET_DETAILS.md#dataset-107) | 2026 | PNNL / EPRI / Zenodo | [访问](<https://zenodo.org/records/22947521>) |
+| 108 | [美国公用事业级 BESS 长期现场记录](DATASET_DETAILS.md#dataset-108) | 2026 | PPL Research / GitHub | [访问](<https://github.com/PPLResearch/BESS-Analysis>) |
+| 111 | [NASA 数据加工版 SOC/SOH 训练样本](DATASET_DETAILS.md#dataset-111) | 2026 | Mendeley Data | [访问](<https://data.mendeley.com/datasets/7ctkcfnsdw/2>) |
+| 112 | [Battery Data Commons 电池数据资源共享门户](DATASET_DETAILS.md#dataset-112) | 2026 | Battery Data Commons | [访问](<https://batterydatacommons.org/>) |
+| 113 | [Battery Hub 电池研究数据集目录](DATASET_DETAILS.md#dataset-113) | 2026 | Battery Hub | [访问](<https://battery-hub.org/datasets>) |
+| 114 | [公开电池实车实站运行数据统一入口](DATASET_DETAILS.md#dataset-114) | 2026 | Astrolabe Analytics / community | [访问](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>) |
 
 ## RUL
 
 **剩余寿命 / Remaining useful life**
 
-**25 条相关资源**（含门户和工具，如适用）。
+**34 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -117,12 +144,21 @@
 | 80 | [CMU eVTOL 电动航空电池任务工况数据](DATASET_DETAILS.md#dataset-80) | 2023 | Carnegie Mellon University | [访问](<https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830/2>) |
 | 83 | [BatteryArchive Sandia 商用 18650 电池长期退化研究](DATASET_DETAILS.md#dataset-83) | 2020 | Sandia National Laboratories / BatteryArchive.org | [访问](<https://www.batteryarchive.org/snl_study.html>) |
 | 84 | [BatteryArchive 循环测试数据目录](DATASET_DETAILS.md#dataset-84) | — | BatteryArchive.org | [访问](<https://www.batteryarchive.org/cycle_list.html?t=0001>) |
+| 90 | [Samsung 30Q 八电芯阻抗与老化机制数据](DATASET_DETAILS.md#dataset-90) | 2025 | CNR ITAE / University of Messina | [访问](<https://data.mendeley.com/datasets/g7ncmhrcrz/1>) |
+| 96 | [NASA 随机工况 RW9–RW11 事件级加工特征](DATASET_DETAILS.md#dataset-96) | 2026 | Zenodo (NASA 衍生处理) | [访问](<https://zenodo.org/records/23180066>) |
+| 97 | [多公开电池库统一 RUL 特征与建模表](DATASET_DETAILS.md#dataset-97) | 2026 | UFCG / Zenodo | [访问](<https://zenodo.org/records/20753515>) |
+| 103 | [瑞典退役电池梯次利用储能 SOH 实测数据](DATASET_DETAILS.md#dataset-103) | 2025 | RISE Research Institutes of Sweden / Zenodo | [访问](<https://zenodo.org/records/17287096>) |
+| 105 | [家庭储能电池真实运行大样本](DATASET_DETAILS.md#dataset-105) | 2024 | RWTH Aachen / Zenodo | [访问](<https://zenodo.org/records/12091223>) |
+| 106 | [16 座储能系统多尺度电芯—电池包运行数据](DATASET_DETAILS.md#dataset-106) | 2026 | Field data research group / Zenodo | [访问](<https://zenodo.org/records/20132842>) |
+| 111 | [NASA 数据加工版 SOC/SOH 训练样本](DATASET_DETAILS.md#dataset-111) | 2026 | Mendeley Data | [访问](<https://data.mendeley.com/datasets/7ctkcfnsdw/2>) |
+| 112 | [Battery Data Commons 电池数据资源共享门户](DATASET_DETAILS.md#dataset-112) | 2026 | Battery Data Commons | [访问](<https://batterydatacommons.org/>) |
+| 113 | [Battery Hub 电池研究数据集目录](DATASET_DETAILS.md#dataset-113) | 2026 | Battery Hub | [访问](<https://battery-hub.org/datasets>) |
 
 ## EIS
 
 **电化学阻抗谱 / Electrochemical impedance spectroscopy**
 
-**11 条相关资源**（含门户和工具，如适用）。
+**14 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -137,12 +173,15 @@
 | 66 | [KIT NMC/C-SiO 老化数据 V2 原始日志](DATASET_DETAILS.md#dataset-66) | 2024 | Karlsruhe Institute of Technology | [访问](<https://radar.kit.edu/radar/en/dataset/kww7jv8ajuvchcah>) |
 | 75 | [Bilkent 电池数据记录 14606633](DATASET_DETAILS.md#dataset-75) | 2025 | Bilkent University | [访问](<https://zenodo.org/records/14606633>) |
 | 78 | [Pavia/Trieste CALB 58Ah 方形电池工况数据](DATASET_DETAILS.md#dataset-78) | 2025 | University of Pavia / University of Trieste | [访问](<https://data.mendeley.com/datasets/ycx459r5c3/2>) |
+| 89 | [11 节磷酸铁锂电池 SOC—EIS 多频率实测](DATASET_DETAILS.md#dataset-89) | 2024 | University of Cassino and Southern Lazio | [访问](<https://data.mendeley.com/datasets/cb887gkmxw/1>) |
+| 90 | [Samsung 30Q 八电芯阻抗与老化机制数据](DATASET_DETAILS.md#dataset-90) | 2025 | CNR ITAE / University of Messina | [访问](<https://data.mendeley.com/datasets/g7ncmhrcrz/1>) |
+| 112 | [Battery Data Commons 电池数据资源共享门户](DATASET_DETAILS.md#dataset-112) | 2026 | Battery Data Commons | [访问](<https://batterydatacommons.org/>) |
 
 ## FAST
 
 **快充 / Fast charging**
 
-**5 条相关资源**（含门户和工具，如适用）。
+**6 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -151,12 +190,13 @@
 | 44 | [保时捷 Taycan LG E66 电芯与模组快充测试数据](DATASET_DETAILS.md#dataset-44) | 2024 | McMaster University / Borealis | [访问](<https://doi.org/10.5683/SP3/7JP3NM>) |
 | 48 | [Stanford 12 电芯高功率 P42A 多温度特性数据](DATASET_DETAILS.md#dataset-48) | 2025 | Stanford Energy Control Lab / OSF | [访问](<https://osf.io/9ceav/>) |
 | 73 | [Colorado 电池电热耦合模型充电控制数据](DATASET_DETAILS.md#dataset-73) | 2021 | University of Colorado Colorado Springs | [访问](<https://data.mendeley.com/datasets/p8kf893yv3/1>) |
+| 104 | [工业自动导引车锂电池快充与功率衰减](DATASET_DETAILS.md#dataset-104) | 2023 | Industry researchers / Zenodo | [访问](<https://zenodo.org/records/7748947>) |
 
 ## FIELD
 
 **实车数据 / Real-world vehicle data**
 
-**8 条相关资源**（含门户和工具，如适用）。
+**22 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -168,12 +208,26 @@
 | 52 | [离线强化学习电动汽车能量管理论文源数据](DATASET_DETAILS.md#dataset-52) | 2025 | Beijing Institute of Technology / Nature Communications | [访问](<https://pmc.ncbi.nlm.nih.gov/articles/instance/11929786/bin/41467_2025_58192_MOESM3_ESM.zip>) |
 | 53 | [北航 515 辆实车电池安全故障诊断数据](DATASET_DETAILS.md#dataset-53) | 2024 | Beihang University / Zenodo | [访问](<https://zenodo.org/records/10656500>) |
 | 64 | [Darmstadt 实场电池在线监测与故障数据](DATASET_DETAILS.md#dataset-64) | 2024 | Technische Universitaet Darmstadt | [访问](<https://zenodo.org/records/13715694>) |
+| 87 | [深圳真实电动汽车充电故障数据（标注）](DATASET_DETAILS.md#dataset-87) | 2024 | Shenzhen Autosun / Hong Kong Polytechnic University | [访问](<https://data.mendeley.com/datasets/c7gg94tmvz/3>) |
+| 93 | [UL 9540A 储能系统安装级热失控实验](DATASET_DETAILS.md#dataset-93) | 2022 | UL Fire Safety Research Institute | [访问](<https://zenodo.org/records/7003380>) |
+| 98 | [德国电动汽车电池包 DVA/ICA 实测档案](DATASET_DETAILS.md#dataset-98) | 2024 | Technical University of Munich / mediaTUM | [访问](<https://mediatum.ub.tum.de/1737452>) |
+| 99 | [12 辆实车电池包 SOH 标准化测量数据](DATASET_DETAILS.md#dataset-99) | 2025 | Technical University of Munich / mediaTUM | [访问](<https://mediatum.ub.tum.de/1765567>) |
+| 100 | [车辆级差分电压分析与 SOH 测量鲁棒性](DATASET_DETAILS.md#dataset-100) | 2026 | Technical University of Munich / mediaTUM | [访问](<https://mediatum.ub.tum.de/1840112>) |
+| 101 | [两辆真实纯电动车 LFP/NCA 行驶充电记录](DATASET_DETAILS.md#dataset-101) | 2024 | KU Leuven / RDR | [访问](<https://doi.org/10.48804/8KPDTW>) |
+| 102 | [271 组轻型电动车 LFP 电池包真实多故障诊断](DATASET_DETAILS.md#dataset-102) | 2026 | Harbin Institute of Technology / Zenodo | [访问](<https://zenodo.org/records/18328701>) |
+| 103 | [瑞典退役电池梯次利用储能 SOH 实测数据](DATASET_DETAILS.md#dataset-103) | 2025 | RISE Research Institutes of Sweden / Zenodo | [访问](<https://zenodo.org/records/17287096>) |
+| 104 | [工业自动导引车锂电池快充与功率衰减](DATASET_DETAILS.md#dataset-104) | 2023 | Industry researchers / Zenodo | [访问](<https://zenodo.org/records/7748947>) |
+| 105 | [家庭储能电池真实运行大样本](DATASET_DETAILS.md#dataset-105) | 2024 | RWTH Aachen / Zenodo | [访问](<https://zenodo.org/records/12091223>) |
+| 106 | [16 座储能系统多尺度电芯—电池包运行数据](DATASET_DETAILS.md#dataset-106) | 2026 | Field data research group / Zenodo | [访问](<https://zenodo.org/records/20132842>) |
+| 107 | [PNNL/EPRI 多化学体系储能现场运行档案](DATASET_DETAILS.md#dataset-107) | 2026 | PNNL / EPRI / Zenodo | [访问](<https://zenodo.org/records/22947521>) |
+| 108 | [美国公用事业级 BESS 长期现场记录](DATASET_DETAILS.md#dataset-108) | 2026 | PPL Research / GitHub | [访问](<https://github.com/PPLResearch/BESS-Analysis>) |
+| 114 | [公开电池实车实站运行数据统一入口](DATASET_DETAILS.md#dataset-114) | 2026 | Astrolabe Analytics / community | [访问](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>) |
 
 ## MODEL
 
 **电池建模 / Battery modeling**
 
-**14 条相关资源**（含门户和工具，如适用）。
+**22 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -191,12 +245,20 @@
 | 73 | [Colorado 电池电热耦合模型充电控制数据](DATASET_DETAILS.md#dataset-73) | 2021 | University of Colorado Colorado Springs | [访问](<https://data.mendeley.com/datasets/p8kf893yv3/1>) |
 | 78 | [Pavia/Trieste CALB 58Ah 方形电池工况数据](DATASET_DETAILS.md#dataset-78) | 2025 | University of Pavia / University of Trieste | [访问](<https://data.mendeley.com/datasets/ycx459r5c3/2>) |
 | 80 | [CMU eVTOL 电动航空电池任务工况数据](DATASET_DETAILS.md#dataset-80) | 2023 | Carnegie Mellon University | [访问](<https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830/2>) |
+| 86 | [Tesla Model 3 2170 六温度 SOC 开放/盲测基准](DATASET_DETAILS.md#dataset-86) | 2023 | McMaster University / Borealis | [访问](<https://doi.org/10.5683/SP3/ZVTR4B>) |
+| 88 | [MATLAB 模拟动力电池过放/短路故障分类](DATASET_DETAILS.md#dataset-88) | 2026 | SR University / Mendeley Data | [访问](<https://data.mendeley.com/datasets/t42ynjk936/2>) |
+| 96 | [NASA 随机工况 RW9–RW11 事件级加工特征](DATASET_DETAILS.md#dataset-96) | 2026 | Zenodo (NASA 衍生处理) | [访问](<https://zenodo.org/records/23180066>) |
+| 97 | [多公开电池库统一 RUL 特征与建模表](DATASET_DETAILS.md#dataset-97) | 2026 | UFCG / Zenodo | [访问](<https://zenodo.org/records/20753515>) |
+| 108 | [美国公用事业级 BESS 长期现场记录](DATASET_DETAILS.md#dataset-108) | 2026 | PPL Research / GitHub | [访问](<https://github.com/PPLResearch/BESS-Analysis>) |
+| 109 | [锂电生产流程制造质量及报废仿真数据](DATASET_DETAILS.md#dataset-109) | 2026 | Université / Recherche Data Gouv | [访问](<https://doi.org/10.57745/KD7JAA>) |
+| 110 | [电池内部短路研究证据矩阵（文献编码）](DATASET_DETAILS.md#dataset-110) | 2026 | Mendeley Data | [访问](<https://data.mendeley.com/datasets/xbjn8rpkn7/1>) |
+| 111 | [NASA 数据加工版 SOC/SOH 训练样本](DATASET_DETAILS.md#dataset-111) | 2026 | Mendeley Data | [访问](<https://data.mendeley.com/datasets/7ctkcfnsdw/2>) |
 
 ## SAFETY
 
 **电池安全 / Safety and fault diagnosis**
 
-**14 条相关资源**（含门户和工具，如适用）。
+**27 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -214,4 +276,16 @@
 | 81 | [NLR Battery Failure Databank 热失控与滥用测试数据库](DATASET_DETAILS.md#dataset-81) | 2024 | National Laboratory of the Rockies (formerly NREL) | [访问](<https://www.nlr.gov/transportation/battery-failure>) |
 | 82 | [RWTH 电池热失控文献实验数据库](DATASET_DETAILS.md#dataset-82) | 2026 | RWTH Aachen University / Zenodo | [访问](<https://zenodo.org/records/18232447>) |
 | 85 | [BatteryArchive 破坏性测试数据目录](DATASET_DETAILS.md#dataset-85) | — | BatteryArchive.org | [访问](<https://www.batteryarchive.org/disruptive_list.html?t=0001>) |
-
+| 87 | [深圳真实电动汽车充电故障数据（标注）](DATASET_DETAILS.md#dataset-87) | 2024 | Shenzhen Autosun / Hong Kong Polytechnic University | [访问](<https://data.mendeley.com/datasets/c7gg94tmvz/3>) |
+| 88 | [MATLAB 模拟动力电池过放/短路故障分类](DATASET_DETAILS.md#dataset-88) | 2026 | SR University / Mendeley Data | [访问](<https://data.mendeley.com/datasets/t42ynjk936/2>) |
+| 91 | [新旧 NMC 电芯及模块热失控多尺度实验](DATASET_DETAILS.md#dataset-91) | 2026 | Scientific Data / OSF | [访问](<https://osf.io/c2hnq/>) |
+| 92 | [热失控中圆柱电芯内部温度与气压同步监测](DATASET_DETAILS.md#dataset-92) | 2026 | University of Warwick / Mendeley Data | [访问](<https://data.mendeley.com/datasets/rgfhdhcd9k/2>) |
+| 93 | [UL 9540A 储能系统安装级热失控实验](DATASET_DETAILS.md#dataset-93) | 2022 | UL Fire Safety Research Institute | [访问](<https://zenodo.org/records/7003380>) |
+| 94 | [模拟热失控产气部分容积爆燃试验](DATASET_DETAILS.md#dataset-94) | 2024 | UL Fire Safety Research Institute | [访问](<https://zenodo.org/records/13333118>) |
+| 95 | [半固态电池过充热失控及液冷抑制实验](DATASET_DETAILS.md#dataset-95) | 2026 | Universitat Politècnica de València | [访问](<https://zenodo.org/records/22273467>) |
+| 102 | [271 组轻型电动车 LFP 电池包真实多故障诊断](DATASET_DETAILS.md#dataset-102) | 2026 | Harbin Institute of Technology / Zenodo | [访问](<https://zenodo.org/records/18328701>) |
+| 109 | [锂电生产流程制造质量及报废仿真数据](DATASET_DETAILS.md#dataset-109) | 2026 | Université / Recherche Data Gouv | [访问](<https://doi.org/10.57745/KD7JAA>) |
+| 110 | [电池内部短路研究证据矩阵（文献编码）](DATASET_DETAILS.md#dataset-110) | 2026 | Mendeley Data | [访问](<https://data.mendeley.com/datasets/xbjn8rpkn7/1>) |
+| 112 | [Battery Data Commons 电池数据资源共享门户](DATASET_DETAILS.md#dataset-112) | 2026 | Battery Data Commons | [访问](<https://batterydatacommons.org/>) |
+| 113 | [Battery Hub 电池研究数据集目录](DATASET_DETAILS.md#dataset-113) | 2026 | Battery Hub | [访问](<https://battery-hub.org/datasets>) |
+| 114 | [公开电池实车实站运行数据统一入口](DATASET_DETAILS.md#dataset-114) | 2026 | Astrolabe Analytics / community | [访问](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>) |
