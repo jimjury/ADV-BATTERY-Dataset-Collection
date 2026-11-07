@@ -6,9 +6,11 @@
 
 ## 双向入口
 
-- **GitHub → V2：** 中文与英文 README 顶部的 V2 在线版链接，目标 `https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/`。
+- **GitHub → V2：** 七种语言 README 顶部的 V2 在线版链接，目标 `https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/`。
 - **V2 → GitHub：** 站点导航的“GitHub 目录 ↗”和页脚“投稿纠错 ↗”，都打开 `https://github.com/jimjury/ADV-BATTERY-Dataset-Collection`。
 - **在线 V2 / 离线 V2：** 功能相同；浏览器收藏、笔记和个人论文只保存在浏览器本地，不在 GitHub 仓库同步。设备/网址变化时使用工作区导出/导入备份。
+
+**多语言状态：** GitHub README 已提供七种语言的完整资源目录；V2 在线网页界面目前并未提供七语切换。参见 [多语言说明](I18N.md)。
 
 ## 首次启用 GitHub Pages
 

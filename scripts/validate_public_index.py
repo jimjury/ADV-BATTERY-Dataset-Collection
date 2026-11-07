@@ -9,6 +9,7 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import urlsplit
 from build_public_index import TAGS, validate, clean_url
+from readme_locales import LOCALES, LANGUAGE_LINKS
 
 ROOT=Path(__file__).resolve().parent.parent
 
@@ -58,7 +59,10 @@ def main():
     details=(ROOT/"docs/DATASET_DETAILS.md").read_text("utf-8")
     topics=(ROOT/"docs/TOPICS.md").read_text("utf-8")
     papers_md=(ROOT/"docs/PAPERS.md").read_text("utf-8")
-    for txt in (readme,readme_en):
+    localized=[(ROOT/f"README_{locale}.md").read_text("utf-8") for locale in LOCALES]
+    for txt in [readme,readme_en,*localized]:
+        for _,language_path in LANGUAGE_LINKS:
+            assert "]("+language_path+")" in txt, ("language link missing",language_path)
         count=len(re.findall(r"^\| \d{2,} \|",txt,flags=re.M))
         assert count==len(ds),("README table entries",count,len(ds))
     assert len(re.findall(r'<a id="dataset-\d{2,}"></a>',details))==len(ds)

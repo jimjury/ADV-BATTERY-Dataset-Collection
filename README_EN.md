@@ -1,5 +1,7 @@
 # ADV·BATTERY | Open Battery Dataset Collection
 
+🌐 **语言 / Languages:** [简体中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md) · [Deutsch](README_DE.md) · [Français](README_FR.md)
+
 **An open, traceable directory of battery data sources, associated publications, and research topics.**
 
 **114 resources** · **105 datasets** · **8 portals + 1 tool** · **111 publication/catalogue records** · **72 registered dataset–publication relations**

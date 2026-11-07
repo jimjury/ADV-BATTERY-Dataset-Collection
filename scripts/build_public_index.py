@@ -13,6 +13,7 @@ from datetime import date
 from collections import Counter, defaultdict
 from pathlib import Path
 from urllib.parse import urlsplit, parse_qsl
+from readme_locales import LOCALES, language_nav, render_localized_readme
 
 TAGS = {
     "SOC": ("SOC 估计", "State of charge"),
@@ -283,7 +284,7 @@ def render_readme(ds,ps,rs,english=False,snapshot_date="2026-11-06"):
         .replace("108 条文献/目录记录",f"{len(ps)} 条文献/目录记录")
         .replace("69 条显式关联",f"{len(rs)} 条显式关联"))
     license_sec=license_sec.replace("80 resources",str(n)+" resources").replace("76 dataset entries",str(counts["dataset"])+" dataset entries").replace("4 resource pages",str(counts["portal"]+counts["tool"])+" resource pages").replace("3 portals + 1 tool",str(counts["portal"])+" portals + "+str(counts["tool"])+" tool").replace("108 records",str(np)+" records").replace("69 explicit relations",str(nr)+" explicit relations").replace("80 条资源",str(n)+" 条资源").replace("76 条数据集条目",str(counts["dataset"])+" 条数据集条目").replace("4 个资料入口",str(counts["portal"]+counts["tool"])+" 个资料入口").replace("3 个门户、1 个工具",str(counts["portal"])+" 个门户、"+str(counts["tool"])+" 个工具").replace("108 条文献/目录记录",str(np)+" 条文献/目录记录").replace("69 条显式关联",str(nr)+" 条显式关联")
-    return title + intro + summary + notes + other + online + toc + how + head + table + counts_title + topic_body + topic_note + license_sec
+    return title + language_nav() + intro + summary + notes + other + online + toc + how + head + table + counts_title + topic_body + topic_note + license_sec
 
 def render_topics(ds):
     lines=["# 按研究方向浏览 / Explore by research topic","",
@@ -674,6 +675,11 @@ def build_repo(ds,ps,rs,source_map,output,info,check=False):
     ])
     export_files["README.md"]=render_readme(ds,ps,rs,snapshot_date=info["snapshot_date"])
     export_files["README_EN.md"]=render_readme(ds,ps,rs,english=True,snapshot_date=info["snapshot_date"])
+    for locale in LOCALES:
+        export_files[f"README_{locale}.md"] = render_localized_readme(
+            ds,ps,rs,locale,info["snapshot_date"],
+            md=md,disp=disp,link=link,tags_text=tags_text,
+            primary_paper=primary_paper,tags_order=TAGS_ORDER)
     export_files["docs/TOPICS.md"]=render_topics(ds)
     export_files["docs/DATASET_DETAILS.md"]=render_details(ds,ps)
     export_files["docs/PAPERS.md"]=render_papers(ps)

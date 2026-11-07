@@ -1,5 +1,7 @@
 # ADV·BATTERY｜公开电池数据资源索引
 
+🌐 **语言 / Languages:** [简体中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md) · [Deutsch](README_DE.md) · [Français](README_FR.md)
+
 **开放数据，关联文献，服务电池科研。**
 
 **114 条数据资源** · **105 条数据集** · **8 个数据门户 + 1 个工具** · **111 条文献/目录记录** · **72 条已登记数据—文献关联**

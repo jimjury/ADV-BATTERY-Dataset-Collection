@@ -4,11 +4,11 @@
 
 **ADV·BATTERY 本地工程中的 `engine/catalog/` 才是最初的正式事实来源。** 本 GitHub 仓库是其**公开目录快照**。
 
-- `data/datasets.json`：80 条资源的公开字段快照。
-- `data/papers.json`：108 条文献与目录记录的公开字段快照。
-- `data/relations.json`：69 条明确记录的关联。
+- `data/datasets.json`：114 条资源的公开字段快照。
+- `data/papers.json`：111 条文献与目录记录的公开字段快照。
+- `data/relations.json`：72 条明确记录的关联。
 - `data/source_41_mapping.csv`：来源 41 条数据的去重映射。
-- `README.md` / `README_EN.md` / `docs/*.md` / `data/*.csv`：由同一脚本生成，不要长期维护多份独立手工数据。
+- `README.md` / `README_EN.md` / `README_JA.md` / `README_KO.md` / `README_ES.md` / `README_DE.md` / `README_FR.md` 及生成的 `docs/*.md`、`data/*.csv`：由同一构建脚本生成，不要长期维护多份独立手工数据。`docs/I18N.md` 为单独维护的语言指南。
 
 本 GitHub 包**没有包含**原本地项目的 `admin/`、`staging/`、`history/`、`releases/`、API 密钥、个人笔记等。
 
@@ -38,6 +38,8 @@ python scripts/build_public_index.py --check
 
 ## 四、改动和发布检查
 
+- [ ] 七种语言 README 顶部的切换链接均正确，表格资源条目数一致（语言词条在 `scripts/readme_locales.py` 中修改）。
+
 - [ ] 修改前留存当前公开仓库版本。
 - [ ] 数据集稳定 ID 未被意外删除或重命名。
 - [ ] 数据来源网址、版本、论文 DOI 有明确出处。
@@ -50,6 +52,8 @@ python scripts/build_public_index.py --check
 - [ ] 写清楚本次新增、合并、修正数量，及尚未验证项目。
 
 ## 五、遇到错误
+
+- 某种语言仍为旧统计：运行 `python scripts/build_public_index.py --write` 重新生成全部 README；避免只修改单份 README。
 
 - 中文乱码：所有 Python 文件使用 `encoding="utf-8"`；CSV 以 UTF-8 with BOM 导出，便于 Windows Excel 打开。
 - 统计数字不一致：通过脚本从公开 JSON **动态生成**，不要直接手改 `README.md` 的数字。
