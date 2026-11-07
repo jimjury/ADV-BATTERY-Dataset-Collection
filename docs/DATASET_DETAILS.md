@@ -1,4 +1,4 @@
-# ADV·BATTERY 资源详情索引（85 条）
+# ADV·BATTERY 资源详情索引（114 条）
 
 从正式资料库按源文件字段导出。**以下电池体系、实验条件、大小、许可证文字均为目录记录，并未逐项重新下载原始文件核对。** 不明字段按原值呈现，不作推测。
 
@@ -2469,3 +2469,843 @@
 
 ---
 
+<a id="dataset-86"></a>
+## 86. Tesla Model 3 2170 六温度 SOC 开放/盲测基准
+
+**英文名称：** Tesla Model 3 2170 Li-ion Cell Dataset and Blind SOC Benchmark  
+**内部稳定 ID：** `mcmaster-tesla2170-soc-blind`  
+**资源类型：** 数据集  
+**发布机构：** McMaster University / Borealis  
+**年份（目录记录）：** 2023  
+**国家/地区：** 多国/见来源  
+**研究标签：** SOC / MODEL  
+**电池体系：** NCA  
+**样本规模/电芯：** 4 个 2170 电芯  
+**测试条件：** -20/-10/0/10/25/40°C，HPPC、C/20、UDDS、HWFET、LA92、US06；1 Hz；公开/盲测分区  
+**数据格式：** MAT  
+**规模备注：** 开放数据约 672 MB；全档案约 791 MB  
+**数据集 DOI：** [10.5683/SP3/ZVTR4B](<https://doi.org/10.5683/SP3/ZVTR4B>)  
+**来源站：** [来源主页](<https://doi.org/10.5683/SP3/ZVTR4B>)  
+**获取入口：** [数据入口（可能为资料页）](<https://doi.org/10.5683/SP3/ZVTR4B>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 2170 电芯真实台架数据，驱动循环由车辆模型生成；仅公开部分可供下载，盲测工况必须在线提交算法评估。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-87"></a>
+## 87. 深圳真实电动汽车充电故障数据（标注）
+
+**英文名称：** Autosun–Hong Kong Polytechnic University Real EV Charging and Fault Labels  
+**内部稳定 ID：** `shenzhen-autosun-ev-charging-fault`  
+**资源类型：** 数据集  
+**发布机构：** Shenzhen Autosun / Hong Kong Polytechnic University  
+**年份（目录记录）：** 2024  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SAFETY / SOH / SOC  
+**电池体系：** 多化学体系  
+**样本规模/电芯：** 10,154 辆车 / 21,175 充电会话  
+**测试条件：** 30 个公共充电站；2020–2023；1 分钟采样，充电枪温度、电压、电流、SOC 与故障标签  
+**数据格式：** XLSX  
+**规模备注：** 2 个 Excel 表  
+**数据集 DOI：** [10.17632/c7gg94tmvz.3](<https://doi.org/10.17632/c7gg94tmvz.3>)  
+**来源站：** [来源主页](<https://data.mendeley.com/datasets/c7gg94tmvz/3>)  
+**获取入口：** [数据入口（可能为资料页）](<https://data.mendeley.com/datasets/c7gg94tmvz/3>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 处理后长于30分钟的充电记录共 21,175 段，覆盖 10,154 辆车；包含运维人员报告的故障和充电站高温断连标签。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-88"></a>
+## 88. MATLAB 模拟动力电池过放/短路故障分类
+
+**英文名称：** EV Lithium Ion Battery Fault Diagnosis Dataset  
+**内部稳定 ID：** `matlab-ev-fault-multiclass`  
+**资源类型：** 数据集  
+**发布机构：** SR University / Mendeley Data  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** SAFETY / SOC / MODEL  
+**电池体系：** 未注明  
+**样本规模/电芯：** 仿真样本  
+**测试条件：** MATLAB 电池建模生成 SOC、温度、电压；健康、过放和短路分类  
+**数据格式：** XLSX  
+**规模备注：** 约 100 KB  
+**数据集 DOI：** [10.17632/t42ynjk936.2](<https://doi.org/10.17632/t42ynjk936.2>)  
+**来源站：** [来源主页](<https://data.mendeley.com/datasets/t42ynjk936/2>)  
+**获取入口：** [数据入口（可能为资料页）](<https://data.mendeley.com/datasets/t42ynjk936/2>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 两份 XLSX 分别支持健康/异常二分类与健康/过放/短路三分类；模拟数据，不是实车故障实测。【来源类型：仿真数据】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-89"></a>
+## 89. 11 节磷酸铁锂电池 SOC—EIS 多频率实测
+
+**英文名称：** SoC Estimation on Li-ion Batteries: EIS Dataset for Data-Driven Applications  
+**内部稳定 ID：** `cassino-lfp-eis-soc`  
+**资源类型：** 数据集  
+**发布机构：** University of Cassino and Southern Lazio  
+**年份（目录记录）：** 2024  
+**国家/地区：** 见来源  
+**研究标签：** SOC / EIS  
+**电池体系：** LFP  
+**样本规模/电芯：** 11 节圆柱电芯  
+**测试条件：** SOC 5%–100% 多档；0.01–1000 Hz 多频点；2 次放电循环  
+**数据格式：** CSV  
+**规模备注：** 见发布页  
+**数据集 DOI：** [10.17632/cb887gkmxw.1](<https://doi.org/10.17632/cb887gkmxw.1>)  
+**来源站：** [来源主页](<https://data.mendeley.com/datasets/cb887gkmxw/1>)  
+**获取入口：** [数据入口（可能为资料页）](<https://data.mendeley.com/datasets/cb887gkmxw/1>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 11 节新 LFP 圆柱电芯在多 SOC 下进行阻抗谱及容量测试，适合 SOC—阻抗建模与诊断。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-90"></a>
+## 90. Samsung 30Q 八电芯阻抗与老化机制数据
+
+**英文名称：** Lithium-Ion Cells EIS Dataset with Fitting and Degradation Modes  
+**内部稳定 ID：** `samsung30q-eis-degradation`  
+**资源类型：** 数据集  
+**发布机构：** CNR ITAE / University of Messina  
+**年份（目录记录）：** 2025  
+**国家/地区：** 多国/见来源  
+**研究标签：** EIS / SOH / RUL  
+**电池体系：** NMC  
+**样本规模/电芯：** 8 节 INR18650-30Q  
+**测试条件：** 四种老化协议；每 25 周期参数测试，容量衰减与多 SOC 阻抗谱  
+**数据格式：** XLSX  
+**规模备注：** Excel 文件与拟合结果  
+**数据集 DOI：** [10.17632/g7ncmhrcrz.1](<https://doi.org/10.17632/g7ncmhrcrz.1>)  
+**来源站：** [来源主页](<https://data.mendeley.com/datasets/g7ncmhrcrz/1>)  
+**获取入口：** [数据入口（可能为资料页）](<https://data.mendeley.com/datasets/g7ncmhrcrz/1>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 8 节 Samsung INR18650-30Q 电芯，提供实测 EIS、内阻和拟合电路参数以及老化模式输出。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-91"></a>
+## 91. 新旧 NMC 电芯及模块热失控多尺度实验
+
+**英文名称：** Multiscale Thermal Runaway Data of Fresh and Aged NMC Cells and Modules  
+**内部稳定 ID：** `osf-nmc-tr-multiscale-2026`  
+**资源类型：** 数据集  
+**发布机构：** Scientific Data / OSF  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** SAFETY / SOH  
+**电池体系：** NMC  
+**样本规模/电芯：** 电芯及模块  
+**测试条件：** 电芯/模块，初始 SOH 比较，温度与压力热失控过程  
+**数据格式：** CSV  
+**规模备注：** 见 OSF 页面  
+**数据集 DOI：** [10.17605/OSF.IO/C2HNQ](<https://doi.org/10.17605/OSF.IO/C2HNQ>)  
+**来源站：** [来源主页](<https://osf.io/c2hnq/>)  
+**获取入口：** [数据入口（可能为资料页）](<https://osf.io/c2hnq/>)  
+**许可记录（未统一核验）：** OSF 页面许可需核对  
+**来源收录状态：** catalogued；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 新电池与老化 NMC 电池热失控试验的多模态记录；引用研究论文与 OSF 原始归档，原始文件需在 OSF 再次核对。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-92"></a>
+## 92. 热失控中圆柱电芯内部温度与气压同步监测
+
+**英文名称：** Internal Temperature and Gas Pressure in Cylindrical Li-ion Cells During Thermal Runaway  
+**内部稳定 ID：** `warwick-internal-thermobaric-runaway`  
+**资源类型：** 数据集  
+**发布机构：** University of Warwick / Mendeley Data  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** SAFETY  
+**电池体系：** 未注明  
+**样本规模/电芯：** 3 节圆柱电芯  
+**测试条件：** 圆柱电芯热失控诱发实验；嵌入式传感器、内部气压、温度  
+**数据格式：** CSV, XLSX  
+**规模备注：** 见发布页  
+**数据集 DOI：** [10.17632/rgfhdhcd9k.2](<https://doi.org/10.17632/rgfhdhcd9k.2>)  
+**来源站：** [来源主页](<https://data.mendeley.com/datasets/rgfhdhcd9k/2>)  
+**获取入口：** [数据入口（可能为资料页）](<https://data.mendeley.com/datasets/rgfhdhcd9k/2>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 热失控事件内部状态测量，可用于预警信号研究和热失控物理演化分析。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-93"></a>
+## 93. UL 9540A 储能系统安装级热失控实验
+
+**英文名称：** 2020 UL 9540A Installation-Level Test Experimental Data  
+**内部稳定 ID：** `ulfsri-ul9540a-installation`  
+**资源类型：** 数据集  
+**发布机构：** UL Fire Safety Research Institute  
+**年份（目录记录）：** 2022  
+**国家/地区：** 见来源  
+**研究标签：** SAFETY / FIELD  
+**电池体系：** 锂离子，具体材料见原报告  
+**样本规模/电芯：** 机架级储能实验  
+**测试条件：** 步入式储能舱；强制机架热失控；温度、气体与环境传感  
+**数据格式：** ZIP  
+**规模备注：** 约 8.2 MB（v1.0）  
+**数据集 DOI：** [10.5281/zenodo.7003380](<https://doi.org/10.5281/zenodo.7003380>)  
+**来源站：** [来源主页](<https://zenodo.org/records/7003380>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/7003380>)  
+**许可记录（未统一核验）：** 发布页未清晰标注许可  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 系统级热失控和火灾传播测量，可用于电站消防、热失控扩散与安全评估。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-94"></a>
+## 94. 模拟热失控产气部分容积爆燃试验
+
+**英文名称：** Partial Volume Deflagration of Synthesized Lithium-Ion Battery TR Effluent Gas  
+**内部稳定 ID：** `ulfsri-tr-offgas-deflagration`  
+**资源类型：** 数据集  
+**发布机构：** UL Fire Safety Research Institute  
+**年份（目录记录）：** 2024  
+**国家/地区：** 见来源  
+**研究标签：** SAFETY  
+**电池体系：** 混合热失控排气  
+**样本规模/电芯：** 模拟产气爆燃试验  
+**测试条件：** 模拟热失控产气，局部容积爆燃与超压传感  
+**数据格式：** ZIP, CSV  
+**规模备注：** 约 71 MB  
+**数据集 DOI：** [10.5281/zenodo.13333118](<https://doi.org/10.5281/zenodo.13333118>)  
+**来源站：** [来源主页](<https://zenodo.org/records/13333118>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/13333118>)  
+**许可记录（未统一核验）：** 发布页未清晰标注许可  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 记录模拟气体的爆燃、传感器电压和压力信号；并非完整电芯直接热失控实验。【来源类型：模拟气体实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-95"></a>
+## 95. 半固态电池过充热失控及液冷抑制实验
+
+**英文名称：** Overcharge-Induced Thermal Runaway of Semi-Solid-State Cell and Mini-Module  
+**内部稳定 ID：** `upv-semisolid-overcharge-cooling-tr`  
+**资源类型：** 数据集  
+**发布机构：** Universitat Politècnica de València  
+**年份（目录记录）：** 2026  
+**国家/地区：** 见来源  
+**研究标签：** SAFETY  
+**电池体系：** 半固态锂离子  
+**样本规模/电芯：** 单电芯与 3 电芯模组  
+**测试条件：** 单电芯、三电芯迷你模组；有无液冷，多个热电偶及压力通道  
+**数据格式：** ZIP  
+**规模备注：** 数据 ZIP 13.8 MB  
+**数据集 DOI：** [10.5281/zenodo.22273467](<https://doi.org/10.5281/zenodo.22273467>)  
+**来源站：** [来源主页](<https://zenodo.org/records/22273467>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/22273467>)  
+**许可记录（未统一核验）：** 发布页许可需核对  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 三组过充滥用试验覆盖有液冷/无液冷状态、空间温度分布与热失控传播。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-96"></a>
+## 96. NASA 随机工况 RW9–RW11 事件级加工特征
+
+**英文名称：** NASA Randomized RW9–RW11 Event-Level Processed Battery Features  
+**内部稳定 ID：** `nasa-random-rw9-rw11-processed`  
+**资源类型：** 数据集  
+**发布机构：** Zenodo (NASA 衍生处理)  
+**年份（目录记录）：** 2026  
+**国家/地区：** 见来源  
+**研究标签：** SOH / RUL / MODEL  
+**电池体系：** 见 NASA 原始数据  
+**样本规模/电芯：** NASA 公开样本衍生  
+**测试条件：** NASA RW9–RW11 原始随机电流、放电事件的衍生统计特征  
+**数据格式：** CSV  
+**规模备注：** 见发布页  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://zenodo.org/records/23180066>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/23180066>)  
+**许可记录（未统一核验）：** 依发布页具体条款  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 既有 NASA 随机工况数据的再加工版本，用于特征分析、监督学习和数据处理复现；不是全新电芯试验。【来源类型：二次加工】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-97"></a>
+## 97. 多公开电池库统一 RUL 特征与建模表
+
+**英文名称：** Feature-Based and Modeling Dataset for Li-ion RUL Across Multiple Public Datasets  
+**内部稳定 ID：** `multi-public-rul-modelready-2026`  
+**资源类型：** 数据集  
+**发布机构：** UFCG / Zenodo  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** SOH / RUL / MODEL  
+**电池体系：** 多化学体系  
+**样本规模/电芯：** 多个原始实验源  
+**测试条件：** CALCE、HUST、MATR、RWTH、XJTU 等公开电池试验的统一特征与 RUL 标签  
+**数据格式：** TAR.GZ  
+**规模备注：** 约 3.8 GB  
+**数据集 DOI：** [10.5281/zenodo.20753515](<https://doi.org/10.5281/zenodo.20753515>)  
+**来源站：** [来源主页](<https://zenodo.org/records/20753515>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/20753515>)  
+**许可记录（未统一核验）：** 发布页未清晰标注许可  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 整合多个现有公开数据集的机器学习特征、RUL 标签与 LODO 验证协议；是衍生基准，不是新的实测。【来源类型：二次加工】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-98"></a>
+## 98. 德国电动汽车电池包 DVA/ICA 实测档案
+
+**英文名称：** Vehicle-Level Differential Voltage Analysis EV Battery Pack Data  
+**内部稳定 ID：** `tum-ev-pack-dva-2024`  
+**资源类型：** 数据集  
+**发布机构：** Technical University of Munich / mediaTUM  
+**年份（目录记录）：** 2024  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH  
+**电池体系：** NMC/LFP  
+**样本规模/电芯：** 2 辆乘用车  
+**测试条件：** 两辆乘用电动汽车，电池包电压、容量与微分电压曲线  
+**数据格式：** ZIP, CSV  
+**规模备注：** 见 mediaTUM  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://mediatum.ub.tum.de/1737452>)  
+**获取入口：** [数据入口（可能为资料页）](<https://mediatum.ub.tum.de/1737452>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 公开电动汽车电池包诊断数据，适用于整包层 DVA/ICA SOH 测量；媒体中心页面下载。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-99"></a>
+## 99. 12 辆实车电池包 SOH 标准化测量数据
+
+**英文名称：** Standardized Vehicle-Level SOH Measurements for EV Packs  
+**内部稳定 ID：** `tum-ev-pack-soh-2025`  
+**资源类型：** 数据集  
+**发布机构：** Technical University of Munich / mediaTUM  
+**年份（目录记录）：** 2025  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH  
+**电池体系：** NMC/LFP  
+**样本规模/电芯：** 12 辆 EV  
+**测试条件：** 12 辆乘用 EV，多化学体系，电池包标定与容量健康评估  
+**数据格式：** ZIP, CSV  
+**规模备注：** 约 306 MB  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://mediatum.ub.tum.de/1765567>)  
+**获取入口：** [数据入口（可能为资料页）](<https://mediatum.ub.tum.de/1765567>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 车辆层健康状态比较与测量方法研究；提供可从 mediaTUM 下载的实验数据包。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-100"></a>
+## 100. 车辆级差分电压分析与 SOH 测量鲁棒性
+
+**英文名称：** Vehicle-Level DVA Robustness Against Measurement Conditions  
+**内部稳定 ID：** `tum-ev-pack-dva-2026`  
+**资源类型：** 数据集  
+**发布机构：** Technical University of Munich / mediaTUM  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH  
+**电池体系：** NMC/LFP  
+**样本规模/电芯：** 7 辆 EV  
+**测试条件：** 7 辆乘用 EV；不同功率、温度和 SOC 条件，电池包诊断数据  
+**数据格式：** ZIP, CSV  
+**规模备注：** 约 0.3 GB  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://mediatum.ub.tum.de/1840112>)  
+**获取入口：** [数据入口（可能为资料页）](<https://mediatum.ub.tum.de/1840112>)  
+**许可记录（未统一核验）：** CC BY-NC-ND 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 评估实际测量条件对车辆层 SOH/DVA 结果的影响，需从 mediaTUM 手动下载。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-101"></a>
+## 101. 两辆真实纯电动车 LFP/NCA 行驶充电记录
+
+**英文名称：** High-Resolution Battery Data from Two Battery Electric Vehicles  
+**内部稳定 ID：** `kuleuven-two-bev-field`  
+**资源类型：** 数据集  
+**发布机构：** KU Leuven / RDR  
+**年份（目录记录）：** 2024  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOC / SOH  
+**电池体系：** LFP/NCA  
+**样本规模/电芯：** 2 辆纯电动汽车  
+**测试条件：** 两辆纯电汽车，实车行驶与充电电池记录  
+**数据格式：** CSV  
+**规模备注：** 见 RDR  
+**数据集 DOI：** [10.48804/8KPDTW](<https://doi.org/10.48804/8KPDTW>)  
+**来源站：** [来源主页](<https://doi.org/10.48804/8KPDTW>)  
+**获取入口：** [数据入口（可能为资料页）](<https://doi.org/10.48804/8KPDTW>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 可用于电动汽车实用工况、充放电分析和数据驱动状态估计，温度与具体采样字段以原库为准。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-102"></a>
+## 102. 271 组轻型电动车 LFP 电池包真实多故障诊断
+
+**英文名称：** Realistic Multi-Fault Diagnostics of Millions-Scale Li-ion Batteries  
+**内部稳定 ID：** `xie-light-ev-lfp-multifault`  
+**资源类型：** 数据集  
+**发布机构：** Harbin Institute of Technology / Zenodo  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SAFETY / SOH  
+**电池体系：** LFP  
+**样本规模/电芯：** 271 组电池包  
+**测试条件：** 271 组轻型电动车电池包，电芯电压等原始信号与故障数据  
+**数据格式：** RAR, JSON, CSV  
+**规模备注：** 约 155 MB RAR  
+**数据集 DOI：** [10.5281/zenodo.18328701](<https://doi.org/10.5281/zenodo.18328701>)  
+**来源站：** [来源主页](<https://zenodo.org/records/18328701>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/18328701>)  
+**许可记录（未统一核验）：** 作者版权声明；具体再利用许可需核对  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 真实运行电池包的故障诊断数据与衍生样本；用于异常识别、无监督故障检测及快速标签分析。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-103"></a>
+## 103. 瑞典退役电池梯次利用储能 SOH 实测数据
+
+**英文名称：** Conbat Swedish Second-Life Battery Storage Field Dataset  
+**内部稳定 ID：** `rise-conbat-grid-secondlife`  
+**资源类型：** 数据集  
+**发布机构：** RISE Research Institutes of Sweden / Zenodo  
+**年份（目录记录）：** 2025  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH / RUL  
+**电池体系：** 多种锂离子  
+**样本规模/电芯：** 88 个储能系统 / 约 1,056 节电芯  
+**测试条件：** 瑞典电池储能系统，梯次利用及容量健康状态  
+**数据格式：** CSV, ZIP  
+**规模备注：** 见 Zenodo  
+**数据集 DOI：** [10.5281/zenodo.17287096](<https://doi.org/10.5281/zenodo.17287096>)  
+**来源站：** [来源主页](<https://zenodo.org/records/17287096>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/17287096>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** catalogued；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 真实电池系统运行与筛选数据，适用于二次利用、系统级 SOH 推断。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-104"></a>
+## 104. 工业自动导引车锂电池快充与功率衰减
+
+**英文名称：** Lithium-Ion Batteries in Automated Guided Vehicles: Fast Charge/Discharge Operations  
+**内部稳定 ID：** `agv-industrial-fastcharge-field`  
+**资源类型：** 数据集  
+**发布机构：** Industry researchers / Zenodo  
+**年份（目录记录）：** 2023  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / FAST / SOH  
+**电池体系：** 锂离子，细分见发布页  
+**样本规模/电芯：** 10 辆 AGV  
+**测试条件：** 工业 AGV 高频快速充放电与运行磨损  
+**数据格式：** CSV, ZIP  
+**规模备注：** 见 Zenodo  
+**数据集 DOI：** [10.5281/zenodo.7748947](<https://doi.org/10.5281/zenodo.7748947>)  
+**来源站：** [来源主页](<https://zenodo.org/records/7748947>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/7748947>)  
+**许可记录（未统一核验）：** 发布页许可需核对  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 10 辆自动导引车的工业现场电池数据，关注长期快充功率衰退和动态负载。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-105"></a>
+## 105. 家庭储能电池真实运行大样本
+
+**英文名称：** Home Battery Storage Field Data Across Residential Installations  
+**内部稳定 ID：** `rwth-home-bess-field`  
+**资源类型：** 数据集  
+**发布机构：** RWTH Aachen / Zenodo  
+**年份（目录记录）：** 2024  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH / RUL  
+**电池体系：** LFP/LMO/NMC  
+**样本规模/电芯：** 21 套系统 / 约 12,036 节电芯  
+**测试条件：** 21 套家用锂电储能系统，长期运行与温度/功率工况  
+**数据格式：** CSV, ZIP  
+**规模备注：** 见 Zenodo  
+**数据集 DOI：** [10.5281/zenodo.12091223](<https://doi.org/10.5281/zenodo.12091223>)  
+**来源站：** [来源主页](<https://zenodo.org/records/12091223>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/12091223>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 家庭储能在真实负荷及气温变化下的寿命与运行分析。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-106"></a>
+## 106. 16 座储能系统多尺度电芯—电池包运行数据
+
+**英文名称：** Cell-to-Pack Multi-Scale Grid Storage Battery Field Dataset  
+**内部稳定 ID：** `grid-cell-to-pack-2026`  
+**资源类型：** 数据集  
+**发布机构：** Field data research group / Zenodo  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH / RUL  
+**电池体系：** LFP/NMC  
+**样本规模/电芯：** 16 套储能系统 / 约 6,656 节电芯  
+**测试条件：** 16 个电网储能系统，电芯与电池包层级真实运行  
+**数据格式：** CSV, ZIP  
+**规模备注：** 见 Zenodo  
+**数据集 DOI：** [10.5281/zenodo.20132842](<https://doi.org/10.5281/zenodo.20132842>)  
+**来源站：** [来源主页](<https://zenodo.org/records/20132842>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/20132842>)  
+**许可记录（未统一核验）：** CC BY 4.0  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 多尺度储能现场状态数据，适用于电芯不一致性、整包老化与健康估计。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-107"></a>
+## 107. PNNL/EPRI 多化学体系储能现场运行档案
+
+**英文名称：** PNNL/EPRI Grid Battery Systems Field Dataset  
+**内部稳定 ID：** `pnnl-epri-grid-battery-field`  
+**资源类型：** 数据集  
+**发布机构：** PNNL / EPRI / Zenodo  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH  
+**电池体系：** LFP/NMC/LMO/其他（含非锂）  
+**样本规模/电芯：** 12 套混合化学体系系统  
+**测试条件：** 12 个储能系统，长周期现场运行（部分系统含液流电池）  
+**数据格式：** CSV, ZIP  
+**规模备注：** 见 Zenodo  
+**数据集 DOI：** [10.5281/zenodo.22947521](<https://doi.org/10.5281/zenodo.22947521>)  
+**来源站：** [来源主页](<https://zenodo.org/records/22947521>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/22947521>)  
+**许可记录（未统一核验）：** 发布页许可需核对  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 可筛选锂离子子集研究储能应用与状态估计；并非所有设备属于锂离子化学体系。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-108"></a>
+## 108. 美国公用事业级 BESS 长期现场记录
+
+**英文名称：** Utility-Scale BESS Field Pilot 2017–2025  
+**内部稳定 ID：** `ppl-utility-bess-longterm`  
+**资源类型：** 数据集  
+**发布机构：** PPL Research / GitHub  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH / MODEL  
+**电池体系：** 锂离子，具体体系以项目说明为准  
+**样本规模/电芯：** 1 套公用事业级储能现场  
+**测试条件：** 约 1MW/2MWh 储能，2017–2025 月度现场运行与部分电芯数据  
+**数据格式：** CSV  
+**规模备注：** GitHub CSV；另有大体积档案  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://github.com/PPLResearch/BESS-Analysis>)  
+**获取入口：** [数据入口（可能为资料页）](<https://github.com/PPLResearch/BESS-Analysis>)  
+**许可记录（未统一核验）：** 未发现明确开源数据许可  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 公开月度运行 CSV；详细电芯级历史另存外部大容量仓库，可能需要手动分批访问。【来源类型：原始实验】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-109"></a>
+## 109. 锂电生产流程制造质量及报废仿真数据
+
+**英文名称：** Battery Production Process Discrete-Event Simulation and Quality Dataset  
+**内部稳定 ID：** `production-des-synthetic-2026`  
+**资源类型：** 数据集  
+**发布机构：** Université / Recherche Data Gouv  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** MODEL / SAFETY  
+**电池体系：** 锂离子工艺  
+**样本规模/电芯：** 模拟制造样本  
+**测试条件：** 电池生产制造流程、质量、返工、报废的离散事件模拟  
+**数据格式：** CSV  
+**规模备注：** 约 10,000 条示例  
+**数据集 DOI：** [10.57745/KD7JAA](<https://doi.org/10.57745/KD7JAA>)  
+**来源站：** [来源主页](<https://doi.org/10.57745/KD7JAA>)  
+**获取入口：** [数据入口（可能为资料页）](<https://doi.org/10.57745/KD7JAA>)  
+**许可记录（未统一核验）：** Etalab Open Licence 2.0（发布页记载）  
+**来源收录状态：** catalogued；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 用于电池制造异常、生产质量控制和效率研究；属于模拟数据而非工厂实测。【来源类型：仿真数据】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-110"></a>
+## 110. 电池内部短路研究证据矩阵（文献编码）
+
+**英文名称：** Internal Short Circuit Literature-Coded Evidence Matrices  
+**内部稳定 ID：** `internal-short-meta-2026`  
+**资源类型：** 数据集  
+**发布机构：** Mendeley Data  
+**年份（目录记录）：** 2026  
+**国家/地区：** 见来源  
+**研究标签：** SAFETY / MODEL  
+**电池体系：** 多种锂离子  
+**样本规模/电芯：** 159 篇文献编码  
+**测试条件：** 159 篇研究的内短路触发、机理和关键实验条件汇总  
+**数据格式：** CSV, XLSX  
+**规模备注：** 见 Mendeley  
+**数据集 DOI：** [10.17632/xbjn8rpkn7.1](<https://doi.org/10.17632/xbjn8rpkn7.1>)  
+**来源站：** [来源主页](<https://data.mendeley.com/datasets/xbjn8rpkn7/1>)  
+**获取入口：** [数据入口（可能为资料页）](<https://data.mendeley.com/datasets/xbjn8rpkn7/1>)  
+**许可记录（未统一核验）：** CC BY 4.0（需页面复核）  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 整理型文献编码证据表，不是从真实试验传感器直接采集的逐时数据。【来源类型：文献汇编】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-111"></a>
+## 111. NASA 数据加工版 SOC/SOH 训练样本
+
+**英文名称：** Processed NASA Battery Degradation Features for SOH Modeling  
+**内部稳定 ID：** `nasa-derived-soh-2026`  
+**资源类型：** 数据集  
+**发布机构：** Mendeley Data  
+**年份（目录记录）：** 2026  
+**国家/地区：** 见来源  
+**研究标签：** SOH / RUL / MODEL  
+**电池体系：** 继承 NASA 数据  
+**样本规模/电芯：** NASA 原始数据衍生  
+**测试条件：** 经典 NASA 老化与放电数据的特征整理与标签加工  
+**数据格式：** CSV  
+**规模备注：** 见 Mendeley  
+**数据集 DOI：** [10.17632/7ctkcfnsdw.2](<https://doi.org/10.17632/7ctkcfnsdw.2>)  
+**来源站：** [来源主页](<https://data.mendeley.com/datasets/7ctkcfnsdw/2>)  
+**获取入口：** [数据入口（可能为资料页）](<https://data.mendeley.com/datasets/7ctkcfnsdw/2>)  
+**许可记录（未统一核验）：** 发布页具体许可需复核  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 便于快速构建训练样本；来源与 NASA 老化集重叠，不能作为独立真实电池试验。【来源类型：二次加工】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-112"></a>
+## 112. Battery Data Commons 电池数据资源共享门户
+
+**英文名称：** Battery Data Commons Registry  
+**内部稳定 ID：** `battery-data-commons-index`  
+**资源类型：** 数据门户  
+**发布机构：** Battery Data Commons  
+**年份（目录记录）：** 2026  
+**国家/地区：** 见来源  
+**研究标签：** SOC / SOH / RUL / EIS / SAFETY  
+**电池体系：** 多化学体系  
+**样本规模/电芯：** 多机构目录  
+**测试条件：** 电池研究数据目录，跨实验、状态估计及安全等方向  
+**数据格式：** WEB  
+**规模备注：** 动态更新  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://batterydatacommons.org/>)  
+**获取入口：** [数据入口（可能为资料页）](<https://batterydatacommons.org/>)  
+**许可记录（未统一核验）：** 以各原始数据发布者许可为准  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 二级检索门户，汇总不同机构原始仓库记录；不是单一实验数据集。【来源类型：数据门户】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-113"></a>
+## 113. Battery Hub 电池研究数据集目录
+
+**英文名称：** Battery Hub Research Dataset Catalog  
+**内部稳定 ID：** `battery-hub-catalog`  
+**资源类型：** 数据门户  
+**发布机构：** Battery Hub  
+**年份（目录记录）：** 2026  
+**国家/地区：** 见来源  
+**研究标签：** SOC / SOH / RUL / SAFETY  
+**电池体系：** 多化学体系  
+**样本规模/电芯：** 跨数据集目录  
+**测试条件：** 跨类型电池研究数据集发现与比较  
+**数据格式：** WEB  
+**规模备注：** 动态更新  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://battery-hub.org/datasets>)  
+**获取入口：** [数据入口（可能为资料页）](<https://battery-hub.org/datasets>)  
+**许可记录（未统一核验）：** 以各原始数据发布者许可为准  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 聚合数据集、任务标签与导航信息；需要沿链接进入原始资料源下载。【来源类型：数据门户】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-114"></a>
+## 114. 公开电池实车实站运行数据统一入口
+
+**英文名称：** Public Battery Field Data Release Registry and Loaders  
+**内部稳定 ID：** `public-battery-field-data-portal`  
+**资源类型：** 数据门户  
+**发布机构：** Astrolabe Analytics / community  
+**年份（目录记录）：** 2026  
+**国家/地区：** 多国/见来源  
+**研究标签：** FIELD / SOH / SAFETY  
+**电池体系：** 多化学体系（部分非锂）  
+**样本规模/电芯：** 多机构目录  
+**测试条件：** 实车、轻型电动车、储能、移动终端、工业机器人实地运行；部分有故障标签  
+**数据格式：** WEB  
+**规模备注：** 动态更新，网页当前约 35 个发布源  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>)  
+**获取入口：** [数据入口（可能为资料页）](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>)  
+**许可记录（未统一核验）：** 按每个子资源分别核对许可  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 汇总实地运行数据来源、许可、下载命令、读取器与校验方法；需按化学体系过滤非锂项目。【来源类型：数据门户】
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
