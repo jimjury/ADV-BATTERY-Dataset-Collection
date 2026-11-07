@@ -2,11 +2,11 @@
 
 **开放数据，关联文献，服务电池科研。**
 
-**85 条数据资源** · **79 条数据集** · **5 个数据门户 + 1 个工具** · **111 条文献/目录记录** · **72 条已登记数据—文献关联**
+**114 条数据资源** · **105 条数据集** · **8 个数据门户 + 1 个工具** · **111 条文献/目录记录** · **72 条已登记数据—文献关联**
 
 > **注意：** 本仓库只整理**数据集目录、研究标签和原始链接**，不托管第三方原始实验数据。开放访问不等于可任意转载或用于商业用途；下载与许可以发布方为准。链接**未全部逐一实时测试**。资料库快照：**2026-11-07**。
 
-[English version](README_EN.md) · [按研究标签浏览](docs/TOPICS.md) · [85 条资源详情](docs/DATASET_DETAILS.md) · [111 条文献索引](docs/PAPERS.md) · [来源与使用说明](NOTICE.md)
+[English version](README_EN.md) · [按研究标签浏览](docs/TOPICS.md) · [资源详情](docs/DATASET_DETAILS.md) · [文献索引](docs/PAPERS.md) · [来源与使用说明](NOTICE.md) · [2026 科研扩充](docs/RESEARCH_EXPANSION_20261107.md)
 
 **[V2 科研工作台在线版](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [联动、发布与启用说明](docs/GITHUB_V2_LINK_SETUP.md)  
 首次使用需在 Settings → Pages 选择 main /docs；未启用前在线网址尚不可访问。
@@ -114,25 +114,54 @@
 | 83 | [BatteryArchive Sandia 商用 18650 电池长期退化研究](docs/DATASET_DETAILS.md#dataset-83) | Sandia National Laboratories / BatteryArchive.org | 2020 | 数据集 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://www.batteryarchive.org/snl_study.html>) | [Degradation of Commercial Lithium-Ion Cells as…](<https://doi.org/10.1149/1945-7111/abae37>) |
 | 84 | [BatteryArchive 循环测试数据目录](docs/DATASET_DETAILS.md#dataset-84) | BatteryArchive.org | — | 数据门户 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://www.batteryarchive.org/cycle_list.html?t=0001>) | — |
 | 85 | [BatteryArchive 破坏性测试数据目录](docs/DATASET_DETAILS.md#dataset-85) | BatteryArchive.org | — | 数据门户 | [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://www.batteryarchive.org/disruptive_list.html?t=0001>) | — |
+| 86 | [Tesla Model 3 2170 六温度 SOC 开放/盲测基准](docs/DATASET_DETAILS.md#dataset-86) | McMaster University / Borealis | 2023 | 数据集 | [SOC](docs/TOPICS.md#soc) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://doi.org/10.5683/SP3/ZVTR4B>) | — |
+| 87 | [深圳真实电动汽车充电故障数据（标注）](docs/DATASET_DETAILS.md#dataset-87) | Shenzhen Autosun / Hong Kong Polytechnic University | 2024 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SAFETY](docs/TOPICS.md#safety) · [SOH](docs/TOPICS.md#soh) · [SOC](docs/TOPICS.md#soc) | [数据入口](<https://data.mendeley.com/datasets/c7gg94tmvz/3>) | — |
+| 88 | [MATLAB 模拟动力电池过放/短路故障分类](docs/DATASET_DETAILS.md#dataset-88) | SR University / Mendeley Data | 2026 | 数据集 | [SAFETY](docs/TOPICS.md#safety) · [SOC](docs/TOPICS.md#soc) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://data.mendeley.com/datasets/t42ynjk936/2>) | — |
+| 89 | [11 节磷酸铁锂电池 SOC—EIS 多频率实测](docs/DATASET_DETAILS.md#dataset-89) | University of Cassino and Southern Lazio | 2024 | 数据集 | [SOC](docs/TOPICS.md#soc) · [EIS](docs/TOPICS.md#eis) | [数据入口](<https://data.mendeley.com/datasets/cb887gkmxw/1>) | — |
+| 90 | [Samsung 30Q 八电芯阻抗与老化机制数据](docs/DATASET_DETAILS.md#dataset-90) | CNR ITAE / University of Messina | 2025 | 数据集 | [EIS](docs/TOPICS.md#eis) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://data.mendeley.com/datasets/g7ncmhrcrz/1>) | — |
+| 91 | [新旧 NMC 电芯及模块热失控多尺度实验](docs/DATASET_DETAILS.md#dataset-91) | Scientific Data / OSF | 2026 | 数据集 | [SAFETY](docs/TOPICS.md#safety) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://osf.io/c2hnq/>) | — |
+| 92 | [热失控中圆柱电芯内部温度与气压同步监测](docs/DATASET_DETAILS.md#dataset-92) | University of Warwick / Mendeley Data | 2026 | 数据集 | [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://data.mendeley.com/datasets/rgfhdhcd9k/2>) | — |
+| 93 | [UL 9540A 储能系统安装级热失控实验](docs/DATASET_DETAILS.md#dataset-93) | UL Fire Safety Research Institute | 2022 | 数据集 | [SAFETY](docs/TOPICS.md#safety) · [FIELD](docs/TOPICS.md#field) | [数据入口](<https://zenodo.org/records/7003380>) | — |
+| 94 | [模拟热失控产气部分容积爆燃试验](docs/DATASET_DETAILS.md#dataset-94) | UL Fire Safety Research Institute | 2024 | 数据集 | [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://zenodo.org/records/13333118>) | — |
+| 95 | [半固态电池过充热失控及液冷抑制实验](docs/DATASET_DETAILS.md#dataset-95) | Universitat Politècnica de València | 2026 | 数据集 | [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://zenodo.org/records/22273467>) | — |
+| 96 | [NASA 随机工况 RW9–RW11 事件级加工特征](docs/DATASET_DETAILS.md#dataset-96) | Zenodo (NASA 衍生处理) | 2026 | 数据集 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://zenodo.org/records/23180066>) | — |
+| 97 | [多公开电池库统一 RUL 特征与建模表](docs/DATASET_DETAILS.md#dataset-97) | UFCG / Zenodo | 2026 | 数据集 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://zenodo.org/records/20753515>) | — |
+| 98 | [德国电动汽车电池包 DVA/ICA 实测档案](docs/DATASET_DETAILS.md#dataset-98) | Technical University of Munich / mediaTUM | 2024 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://mediatum.ub.tum.de/1737452>) | — |
+| 99 | [12 辆实车电池包 SOH 标准化测量数据](docs/DATASET_DETAILS.md#dataset-99) | Technical University of Munich / mediaTUM | 2025 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://mediatum.ub.tum.de/1765567>) | — |
+| 100 | [车辆级差分电压分析与 SOH 测量鲁棒性](docs/DATASET_DETAILS.md#dataset-100) | Technical University of Munich / mediaTUM | 2026 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://mediatum.ub.tum.de/1840112>) | — |
+| 101 | [两辆真实纯电动车 LFP/NCA 行驶充电记录](docs/DATASET_DETAILS.md#dataset-101) | KU Leuven / RDR | 2024 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOC](docs/TOPICS.md#soc) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://doi.org/10.48804/8KPDTW>) | — |
+| 102 | [271 组轻型电动车 LFP 电池包真实多故障诊断](docs/DATASET_DETAILS.md#dataset-102) | Harbin Institute of Technology / Zenodo | 2026 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SAFETY](docs/TOPICS.md#safety) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://zenodo.org/records/18328701>) | — |
+| 103 | [瑞典退役电池梯次利用储能 SOH 实测数据](docs/DATASET_DETAILS.md#dataset-103) | RISE Research Institutes of Sweden / Zenodo | 2025 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://zenodo.org/records/17287096>) | — |
+| 104 | [工业自动导引车锂电池快充与功率衰减](docs/DATASET_DETAILS.md#dataset-104) | Industry researchers / Zenodo | 2023 | 数据集 | [FIELD](docs/TOPICS.md#field) · [FAST](docs/TOPICS.md#fast) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://zenodo.org/records/7748947>) | — |
+| 105 | [家庭储能电池真实运行大样本](docs/DATASET_DETAILS.md#dataset-105) | RWTH Aachen / Zenodo | 2024 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://zenodo.org/records/12091223>) | — |
+| 106 | [16 座储能系统多尺度电芯—电池包运行数据](docs/DATASET_DETAILS.md#dataset-106) | Field data research group / Zenodo | 2026 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://zenodo.org/records/20132842>) | — |
+| 107 | [PNNL/EPRI 多化学体系储能现场运行档案](docs/DATASET_DETAILS.md#dataset-107) | PNNL / EPRI / Zenodo | 2026 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [数据入口](<https://zenodo.org/records/22947521>) | — |
+| 108 | [美国公用事业级 BESS 长期现场记录](docs/DATASET_DETAILS.md#dataset-108) | PPL Research / GitHub | 2026 | 数据集 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://github.com/PPLResearch/BESS-Analysis>) | — |
+| 109 | [锂电生产流程制造质量及报废仿真数据](docs/DATASET_DETAILS.md#dataset-109) | Université / Recherche Data Gouv | 2026 | 数据集 | [MODEL](docs/TOPICS.md#model) · [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://doi.org/10.57745/KD7JAA>) | — |
+| 110 | [电池内部短路研究证据矩阵（文献编码）](docs/DATASET_DETAILS.md#dataset-110) | Mendeley Data | 2026 | 数据集 | [SAFETY](docs/TOPICS.md#safety) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://data.mendeley.com/datasets/xbjn8rpkn7/1>) | — |
+| 111 | [NASA 数据加工版 SOC/SOH 训练样本](docs/DATASET_DETAILS.md#dataset-111) | Mendeley Data | 2026 | 数据集 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://data.mendeley.com/datasets/7ctkcfnsdw/2>) | — |
+| 112 | [Battery Data Commons 电池数据资源共享门户](docs/DATASET_DETAILS.md#dataset-112) | Battery Data Commons | 2026 | 数据门户 | [SOC](docs/TOPICS.md#soc) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [EIS](docs/TOPICS.md#eis) · [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://batterydatacommons.org/>) | — |
+| 113 | [Battery Hub 电池研究数据集目录](docs/DATASET_DETAILS.md#dataset-113) | Battery Hub | 2026 | 数据门户 | [SOC](docs/TOPICS.md#soc) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://battery-hub.org/datasets>) | — |
+| 114 | [公开电池实车实站运行数据统一入口](docs/DATASET_DETAILS.md#dataset-114) | Astrolabe Analytics / community | 2026 | 数据门户 | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>) | — |
 
 ## 按研究方向查找
 
 | 标签 | 相关资源数 | 研究方向 |
 |---|---:|---|
-| [SOC](docs/TOPICS.md#soc) | 14 | SOC 估计 |
-| [SOH](docs/TOPICS.md#soh) | 48 | SOH 估计 |
-| [RUL](docs/TOPICS.md#rul) | 25 | 剩余寿命 |
-| [EIS](docs/TOPICS.md#eis) | 11 | 电化学阻抗谱 |
-| [FAST](docs/TOPICS.md#fast) | 5 | 快充 |
-| [FIELD](docs/TOPICS.md#field) | 8 | 实车数据 |
-| [MODEL](docs/TOPICS.md#model) | 14 | 电池建模 |
-| [SAFETY](docs/TOPICS.md#safety) | 14 | 电池安全 |
+| [SOC](docs/TOPICS.md#soc) | 21 | SOC 估计 |
+| [SOH](docs/TOPICS.md#soh) | 68 | SOH 估计 |
+| [RUL](docs/TOPICS.md#rul) | 34 | 剩余寿命 |
+| [EIS](docs/TOPICS.md#eis) | 14 | 电化学阻抗谱 |
+| [FAST](docs/TOPICS.md#fast) | 6 | 快充 |
+| [FIELD](docs/TOPICS.md#field) | 22 | 实车数据 |
+| [MODEL](docs/TOPICS.md#model) | 22 | 电池建模 |
+| [SAFETY](docs/TOPICS.md#safety) | 27 | 电池安全 |
 
 _同一资源可以有多个研究标签；标签来自现有资料库，不代表已经核对所有原始文件是否具备相应字段。_
 
 ## 来源与核验说明
 
-- **85 条资源**包括 **79 条数据集条目**和 **6 个资料入口**（5 个门户、1 个工具），不是 80 份打包的数据文件。
+- **114 条资源**包括 **105 条数据集条目**和 **9 个资料入口**（8 个门户、1 个工具），不是 80 份打包的数据文件。
 - **111 条文献/目录记录**包含研究论文、综述、数据集正式记录等，并不全是同行评议论文。
 - **72 条显式关联**保留了原资料库中的审核状态，并非全部经过独立验证。
 - 整合了 [PythoniLover 的 41 条来源目录](https://github.com/PythoniLover/battery-dataset-collection)，其中 **14 条匹配原记录、27 条新增**，详见 [来源对应表](docs/SOURCE_41_MAPPING.md)。
