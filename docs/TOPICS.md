@@ -289,3 +289,4 @@
 | 112 | [Battery Data Commons 电池数据资源共享门户](DATASET_DETAILS.md#dataset-112) | 2026 | Battery Data Commons | [访问](<https://batterydatacommons.org/>) |
 | 113 | [Battery Hub 电池研究数据集目录](DATASET_DETAILS.md#dataset-113) | 2026 | Battery Hub | [访问](<https://battery-hub.org/datasets>) |
 | 114 | [公开电池实车实站运行数据统一入口](DATASET_DETAILS.md#dataset-114) | 2026 | Astrolabe Analytics / community | [访问](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>) |
+
