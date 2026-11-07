@@ -2,11 +2,11 @@
 
 **An open, traceable directory of battery data sources, associated publications, and research topics.**
 
-**85 resources** · **79 datasets** · **5 portals + 1 tool** · **111 publication/catalogue records** · **72 registered dataset–publication relations**
+**114 resources** · **105 datasets** · **8 portals + 1 tool** · **111 publication/catalogue records** · **72 registered dataset–publication relations**
 
 > **Scope:** This repository hosts **metadata, descriptions and links only**, not third-party raw datasets. Original providers control downloads, licensing and access. Availability has **not** been exhaustively live-tested; these are catalogue records, not a promise of downloadable files. Last catalogue export: **2026-11-07**.
 
-[中文版](README.md) · [Research topics](docs/TOPICS.md) · [Full details](docs/DATASET_DETAILS.md) · [Publications](docs/PAPERS.md) · [Source & terms](NOTICE.md)
+[中文版](README.md) · [Research topics](docs/TOPICS.md) · [Full details](docs/DATASET_DETAILS.md) · [Publications](docs/PAPERS.md) · [Source & terms](NOTICE.md) · [2026 expansion](docs/RESEARCH_EXPANSION_20261107.md)
 
 **[V2 research workbench (online)](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [Connection and setup](docs/GITHUB_V2_LINK_SETUP.md)  
 GitHub Pages must be enabled once under Settings → Pages (main /docs).
@@ -114,25 +114,54 @@ GitHub Pages must be enabled once under Settings → Pages (main /docs).
 | 83 | [Sandia Commercial 18650 NCA/NMC/LFP Long-Term Cycling Study](docs/DATASET_DETAILS.md#dataset-83) | Sandia National Laboratories / BatteryArchive.org | 2020 | Dataset | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://www.batteryarchive.org/snl_study.html>) | [Degradation of Commercial Lithium-Ion Cells as…](<https://doi.org/10.1149/1945-7111/abae37>) |
 | 84 | [BatteryArchive Cycling Tests Directory](docs/DATASET_DETAILS.md#dataset-84) | BatteryArchive.org | — | Data portal | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://www.batteryarchive.org/cycle_list.html?t=0001>) | — |
 | 85 | [BatteryArchive Disruptive Tests Directory](docs/DATASET_DETAILS.md#dataset-85) | BatteryArchive.org | — | Data portal | [SAFETY](docs/TOPICS.md#safety) | [Access](<https://www.batteryarchive.org/disruptive_list.html?t=0001>) | — |
+| 86 | [Tesla Model 3 2170 Li-ion Cell Dataset and Blind SOC Benchmark](docs/DATASET_DETAILS.md#dataset-86) | McMaster University / Borealis | 2023 | Dataset | [SOC](docs/TOPICS.md#soc) · [MODEL](docs/TOPICS.md#model) | [Access](<https://doi.org/10.5683/SP3/ZVTR4B>) | — |
+| 87 | [Autosun–Hong Kong Polytechnic University Real EV Charging and Fault Labels](docs/DATASET_DETAILS.md#dataset-87) | Shenzhen Autosun / Hong Kong Polytechnic University | 2024 | Dataset | [FIELD](docs/TOPICS.md#field) · [SAFETY](docs/TOPICS.md#safety) · [SOH](docs/TOPICS.md#soh) · [SOC](docs/TOPICS.md#soc) | [Access](<https://data.mendeley.com/datasets/c7gg94tmvz/3>) | — |
+| 88 | [EV Lithium Ion Battery Fault Diagnosis Dataset](docs/DATASET_DETAILS.md#dataset-88) | SR University / Mendeley Data | 2026 | Dataset | [SAFETY](docs/TOPICS.md#safety) · [SOC](docs/TOPICS.md#soc) · [MODEL](docs/TOPICS.md#model) | [Access](<https://data.mendeley.com/datasets/t42ynjk936/2>) | — |
+| 89 | [SoC Estimation on Li-ion Batteries: EIS Dataset for Data-Driven Applications](docs/DATASET_DETAILS.md#dataset-89) | University of Cassino and Southern Lazio | 2024 | Dataset | [SOC](docs/TOPICS.md#soc) · [EIS](docs/TOPICS.md#eis) | [Access](<https://data.mendeley.com/datasets/cb887gkmxw/1>) | — |
+| 90 | [Lithium-Ion Cells EIS Dataset with Fitting and Degradation Modes](docs/DATASET_DETAILS.md#dataset-90) | CNR ITAE / University of Messina | 2025 | Dataset | [EIS](docs/TOPICS.md#eis) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://data.mendeley.com/datasets/g7ncmhrcrz/1>) | — |
+| 91 | [Multiscale Thermal Runaway Data of Fresh and Aged NMC Cells and Modules](docs/DATASET_DETAILS.md#dataset-91) | Scientific Data / OSF | 2026 | Dataset | [SAFETY](docs/TOPICS.md#safety) · [SOH](docs/TOPICS.md#soh) | [Access](<https://osf.io/c2hnq/>) | — |
+| 92 | [Internal Temperature and Gas Pressure in Cylindrical Li-ion Cells During Thermal Runaway](docs/DATASET_DETAILS.md#dataset-92) | University of Warwick / Mendeley Data | 2026 | Dataset | [SAFETY](docs/TOPICS.md#safety) | [Access](<https://data.mendeley.com/datasets/rgfhdhcd9k/2>) | — |
+| 93 | [2020 UL 9540A Installation-Level Test Experimental Data](docs/DATASET_DETAILS.md#dataset-93) | UL Fire Safety Research Institute | 2022 | Dataset | [SAFETY](docs/TOPICS.md#safety) · [FIELD](docs/TOPICS.md#field) | [Access](<https://zenodo.org/records/7003380>) | — |
+| 94 | [Partial Volume Deflagration of Synthesized Lithium-Ion Battery TR Effluent Gas](docs/DATASET_DETAILS.md#dataset-94) | UL Fire Safety Research Institute | 2024 | Dataset | [SAFETY](docs/TOPICS.md#safety) | [Access](<https://zenodo.org/records/13333118>) | — |
+| 95 | [Overcharge-Induced Thermal Runaway of Semi-Solid-State Cell and Mini-Module](docs/DATASET_DETAILS.md#dataset-95) | Universitat Politècnica de València | 2026 | Dataset | [SAFETY](docs/TOPICS.md#safety) | [Access](<https://zenodo.org/records/22273467>) | — |
+| 96 | [NASA Randomized RW9–RW11 Event-Level Processed Battery Features](docs/DATASET_DETAILS.md#dataset-96) | Zenodo (NASA 衍生处理) | 2026 | Dataset | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [MODEL](docs/TOPICS.md#model) | [Access](<https://zenodo.org/records/23180066>) | — |
+| 97 | [Feature-Based and Modeling Dataset for Li-ion RUL Across Multiple Public Datasets](docs/DATASET_DETAILS.md#dataset-97) | UFCG / Zenodo | 2026 | Dataset | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [MODEL](docs/TOPICS.md#model) | [Access](<https://zenodo.org/records/20753515>) | — |
+| 98 | [Vehicle-Level Differential Voltage Analysis EV Battery Pack Data](docs/DATASET_DETAILS.md#dataset-98) | Technical University of Munich / mediaTUM | 2024 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [Access](<https://mediatum.ub.tum.de/1737452>) | — |
+| 99 | [Standardized Vehicle-Level SOH Measurements for EV Packs](docs/DATASET_DETAILS.md#dataset-99) | Technical University of Munich / mediaTUM | 2025 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [Access](<https://mediatum.ub.tum.de/1765567>) | — |
+| 100 | [Vehicle-Level DVA Robustness Against Measurement Conditions](docs/DATASET_DETAILS.md#dataset-100) | Technical University of Munich / mediaTUM | 2026 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [Access](<https://mediatum.ub.tum.de/1840112>) | — |
+| 101 | [High-Resolution Battery Data from Two Battery Electric Vehicles](docs/DATASET_DETAILS.md#dataset-101) | KU Leuven / RDR | 2024 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOC](docs/TOPICS.md#soc) · [SOH](docs/TOPICS.md#soh) | [Access](<https://doi.org/10.48804/8KPDTW>) | — |
+| 102 | [Realistic Multi-Fault Diagnostics of Millions-Scale Li-ion Batteries](docs/DATASET_DETAILS.md#dataset-102) | Harbin Institute of Technology / Zenodo | 2026 | Dataset | [FIELD](docs/TOPICS.md#field) · [SAFETY](docs/TOPICS.md#safety) · [SOH](docs/TOPICS.md#soh) | [Access](<https://zenodo.org/records/18328701>) | — |
+| 103 | [Conbat Swedish Second-Life Battery Storage Field Dataset](docs/DATASET_DETAILS.md#dataset-103) | RISE Research Institutes of Sweden / Zenodo | 2025 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://zenodo.org/records/17287096>) | — |
+| 104 | [Lithium-Ion Batteries in Automated Guided Vehicles: Fast Charge/Discharge Operations](docs/DATASET_DETAILS.md#dataset-104) | Industry researchers / Zenodo | 2023 | Dataset | [FIELD](docs/TOPICS.md#field) · [FAST](docs/TOPICS.md#fast) · [SOH](docs/TOPICS.md#soh) | [Access](<https://zenodo.org/records/7748947>) | — |
+| 105 | [Home Battery Storage Field Data Across Residential Installations](docs/DATASET_DETAILS.md#dataset-105) | RWTH Aachen / Zenodo | 2024 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://zenodo.org/records/12091223>) | — |
+| 106 | [Cell-to-Pack Multi-Scale Grid Storage Battery Field Dataset](docs/DATASET_DETAILS.md#dataset-106) | Field data research group / Zenodo | 2026 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://zenodo.org/records/20132842>) | — |
+| 107 | [PNNL/EPRI Grid Battery Systems Field Dataset](docs/DATASET_DETAILS.md#dataset-107) | PNNL / EPRI / Zenodo | 2026 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) | [Access](<https://zenodo.org/records/22947521>) | — |
+| 108 | [Utility-Scale BESS Field Pilot 2017–2025](docs/DATASET_DETAILS.md#dataset-108) | PPL Research / GitHub | 2026 | Dataset | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [MODEL](docs/TOPICS.md#model) | [Access](<https://github.com/PPLResearch/BESS-Analysis>) | — |
+| 109 | [Battery Production Process Discrete-Event Simulation and Quality Dataset](docs/DATASET_DETAILS.md#dataset-109) | Université / Recherche Data Gouv | 2026 | Dataset | [MODEL](docs/TOPICS.md#model) · [SAFETY](docs/TOPICS.md#safety) | [Access](<https://doi.org/10.57745/KD7JAA>) | — |
+| 110 | [Internal Short Circuit Literature-Coded Evidence Matrices](docs/DATASET_DETAILS.md#dataset-110) | Mendeley Data | 2026 | Dataset | [SAFETY](docs/TOPICS.md#safety) · [MODEL](docs/TOPICS.md#model) | [Access](<https://data.mendeley.com/datasets/xbjn8rpkn7/1>) | — |
+| 111 | [Processed NASA Battery Degradation Features for SOH Modeling](docs/DATASET_DETAILS.md#dataset-111) | Mendeley Data | 2026 | Dataset | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [MODEL](docs/TOPICS.md#model) | [Access](<https://data.mendeley.com/datasets/7ctkcfnsdw/2>) | — |
+| 112 | [Battery Data Commons Registry](docs/DATASET_DETAILS.md#dataset-112) | Battery Data Commons | 2026 | Data portal | [SOC](docs/TOPICS.md#soc) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [EIS](docs/TOPICS.md#eis) · [SAFETY](docs/TOPICS.md#safety) | [Access](<https://batterydatacommons.org/>) | — |
+| 113 | [Battery Hub Research Dataset Catalog](docs/DATASET_DETAILS.md#dataset-113) | Battery Hub | 2026 | Data portal | [SOC](docs/TOPICS.md#soc) · [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [SAFETY](docs/TOPICS.md#safety) | [Access](<https://battery-hub.org/datasets>) | — |
+| 114 | [Public Battery Field Data Release Registry and Loaders](docs/DATASET_DETAILS.md#dataset-114) | Astrolabe Analytics / community | 2026 | Data portal | [FIELD](docs/TOPICS.md#field) · [SOH](docs/TOPICS.md#soh) · [SAFETY](docs/TOPICS.md#safety) | [Access](<https://astrolabe-analytics.github.io/public-battery-field-data/dashboard/>) | — |
 
 ## Explore by topic
 
 | Topic | Items | Description |
 |---|---:|---|
-| [SOC](docs/TOPICS.md#soc) | 14 | State of charge |
-| [SOH](docs/TOPICS.md#soh) | 48 | State of health |
-| [RUL](docs/TOPICS.md#rul) | 25 | Remaining useful life |
-| [EIS](docs/TOPICS.md#eis) | 11 | Electrochemical impedance spectroscopy |
-| [FAST](docs/TOPICS.md#fast) | 5 | Fast charging |
-| [FIELD](docs/TOPICS.md#field) | 8 | Real-world vehicle data |
-| [MODEL](docs/TOPICS.md#model) | 14 | Battery modeling |
-| [SAFETY](docs/TOPICS.md#safety) | 14 | Safety and fault diagnosis |
+| [SOC](docs/TOPICS.md#soc) | 21 | State of charge |
+| [SOH](docs/TOPICS.md#soh) | 68 | State of health |
+| [RUL](docs/TOPICS.md#rul) | 34 | Remaining useful life |
+| [EIS](docs/TOPICS.md#eis) | 14 | Electrochemical impedance spectroscopy |
+| [FAST](docs/TOPICS.md#fast) | 6 | Fast charging |
+| [FIELD](docs/TOPICS.md#field) | 22 | Real-world vehicle data |
+| [MODEL](docs/TOPICS.md#model) | 22 | Battery modeling |
+| [SAFETY](docs/TOPICS.md#safety) | 27 | Safety and fault diagnosis |
 
 _Topic membership is non-exclusive and reflects the existing catalogue labels; it does not prove all raw files contain a specific measured field._
 
 ## Coverage and caveats
 
-- **85 resources** include **79 dataset entries** and **6 resource pages** (5 portals + 1 tool).
+- **114 resources** include **105 dataset entries** and **9 resource pages** (8 portals + 1 tool).
 - **111 records** include research papers, method reviews and dataset catalogue/citation records; they are not all peer-reviewed papers.
 - **72 explicit relations** were carried over from the curated catalogue; relationships have different review statuses.
 - This directory incorporates a [41-entry community list](https://github.com/PythoniLover/battery-dataset-collection) after deduplication (**14 matched existing items, 27 added**). See [source mapping](docs/SOURCE_41_MAPPING.md).
