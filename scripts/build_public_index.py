@@ -224,13 +224,9 @@ def render_readme(ds,ps,rs,english=False,snapshot_date="2026-11-06"):
         "> **注意：** 本仓库只整理**数据集目录、研究标签和原始链接**，不托管第三方原始实验数据。开放访问不等于可任意转载或用于商业用途；下载与许可以发布方为准。链接**未全部逐一实时测试**。资料库快照：**2026-11-06**。\n\n"
     )
     notes=notes.replace("2026-11-06",snapshot_date)
-    other=("[中文版](README.md) · [Research topics](docs/TOPICS.md) · [Full details](docs/DATASET_DETAILS.md) · [Publications](docs/PAPERS.md) · [Source & terms](NOTICE.md)\n\n" if english else
-           "[English version](README_EN.md) · [按研究标签浏览](docs/TOPICS.md) · [80 条资源详情](docs/DATASET_DETAILS.md) · [108 条文献索引](docs/PAPERS.md) · [来源与使用说明](NOTICE.md)\n\n")
-    online=("**[V2 research workbench (online)](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [Connection and setup](docs/GITHUB_V2_LINK_SETUP.md)  \n"\
-            "GitHub Pages must be enabled once under Settings → Pages (main /docs).\n\n"\
-            if english else\
-            "**[V2 科研工作台在线版](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [联动、发布与启用说明](docs/GITHUB_V2_LINK_SETUP.md)  \n"\
-            "首次使用需在 Settings → Pages 选择 main /docs；未启用前在线网址尚不可访问。\n\n")
+    other=("[中文版](README.md) · [Research topics](docs/TOPICS.md) · [Full details](docs/DATASET_DETAILS.md) · [Publications](docs/PAPERS.md) · [Source & terms](NOTICE.md) · [2026 expansion](docs/RESEARCH_EXPANSION_20261107.md)\n\n" if english else
+           "[English version](README_EN.md) · [按研究标签浏览](docs/TOPICS.md) · [资源详情](docs/DATASET_DETAILS.md) · [文献索引](docs/PAPERS.md) · [来源与使用说明](NOTICE.md) · [2026 科研扩充](docs/RESEARCH_EXPANSION_20261107.md)\n\n")
+    online=("**[V2 research workbench (online)](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [Connection and setup](docs/GITHUB_V2_LINK_SETUP.md)  \n"            "GitHub Pages must be enabled once under Settings → Pages (main /docs).\n\n"            if english else            "**[V2 科研工作台在线版](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [联动、发布与启用说明](docs/GITHUB_V2_LINK_SETUP.md)  \n"            "首次使用需在 Settings → Pages 选择 main /docs；未启用前在线网址尚不可访问。\n\n")
     toc=("## Contents\n\n1. [How to use](#how-to-use)\n2. [Full resource directory](#full-resource-directory)\n3. [Explore by topic](#explore-by-topic)\n4. [Coverage and caveats](#coverage-and-caveats)\n5. [Maintaining the collection](#maintaining-the-collection)\n\n"
          if english else
          "## 目录\n\n1. [新手如何使用](#新手如何使用)\n2. [完整资源目录](#完整资源目录)\n3. [按研究方向查找](#按研究方向查找)\n4. [来源与核验说明](#来源与核验说明)\n5. [参与维护与更新](#参与维护与更新)\n\n")
@@ -286,6 +282,7 @@ def render_readme(ds,ps,rs,english=False,snapshot_date="2026-11-06"):
         .replace("3 个门户、1 个工具",f"{counts['portal']} 个门户、{counts['tool']} 个工具")
         .replace("108 条文献/目录记录",f"{len(ps)} 条文献/目录记录")
         .replace("69 条显式关联",f"{len(rs)} 条显式关联"))
+    license_sec=license_sec.replace("80 resources",str(n)+" resources").replace("76 dataset entries",str(counts["dataset"])+" dataset entries").replace("4 resource pages",str(counts["portal"]+counts["tool"])+" resource pages").replace("3 portals + 1 tool",str(counts["portal"])+" portals + "+str(counts["tool"])+" tool").replace("108 records",str(np)+" records").replace("69 explicit relations",str(nr)+" explicit relations").replace("80 条资源",str(n)+" 条资源").replace("76 条数据集条目",str(counts["dataset"])+" 条数据集条目").replace("4 个资料入口",str(counts["portal"]+counts["tool"])+" 个资料入口").replace("3 个门户、1 个工具",str(counts["portal"])+" 个门户、"+str(counts["tool"])+" 个工具").replace("108 条文献/目录记录",str(np)+" 条文献/目录记录").replace("69 条显式关联",str(nr)+" 条显式关联")
     return title + intro + summary + notes + other + online + toc + how + head + table + counts_title + topic_body + topic_note + license_sec
 
 def render_topics(ds):
