@@ -31,7 +31,7 @@
 
 **SOH 估计 / State of health**
 
-**46 条相关资源**（含门户和工具，如适用）。
+**48 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -81,12 +81,14 @@
 | 74 | [Munich 多阶段锂电池老化数据](DATASET_DETAILS.md#dataset-74) | 2024 | Munich University of Applied Sciences | [访问](<https://figshare.com/articles/dataset/Multi-Stage_Lithium_Ion_Battery_Aging_Study/25975315>) |
 | 75 | [Bilkent 电池数据记录 14606633](DATASET_DETAILS.md#dataset-75) | 2025 | Bilkent University | [访问](<https://zenodo.org/records/14606633>) |
 | 77 | [清华大学早期退化模式解耦数据](DATASET_DETAILS.md#dataset-77) | 2024 | Tsinghua University | [访问](<https://zenodo.org/records/10715209>) |
+| 83 | [BatteryArchive Sandia 商用 18650 电池长期退化研究](DATASET_DETAILS.md#dataset-83) | 2020 | Sandia National Laboratories / BatteryArchive.org | [访问](<https://www.batteryarchive.org/snl_study.html>) |
+| 84 | [BatteryArchive 循环测试数据目录](DATASET_DETAILS.md#dataset-84) | — | BatteryArchive.org | [访问](<https://www.batteryarchive.org/cycle_list.html?t=0001>) |
 
 ## RUL
 
 **剩余寿命 / Remaining useful life**
 
-**23 条相关资源**（含门户和工具，如适用）。
+**25 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
@@ -113,6 +115,8 @@
 | 77 | [清华大学早期退化模式解耦数据](DATASET_DETAILS.md#dataset-77) | 2024 | Tsinghua University | [访问](<https://zenodo.org/records/10715209>) |
 | 79 | [HKUST BatteryLife 统一预处理寿命数据 V11](DATASET_DETAILS.md#dataset-79) | 2026 | Hong Kong University of Science and Technology | [访问](<https://zenodo.org/records/19688272>) |
 | 80 | [CMU eVTOL 电动航空电池任务工况数据](DATASET_DETAILS.md#dataset-80) | 2023 | Carnegie Mellon University | [访问](<https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830/2>) |
+| 83 | [BatteryArchive Sandia 商用 18650 电池长期退化研究](DATASET_DETAILS.md#dataset-83) | 2020 | Sandia National Laboratories / BatteryArchive.org | [访问](<https://www.batteryarchive.org/snl_study.html>) |
+| 84 | [BatteryArchive 循环测试数据目录](DATASET_DETAILS.md#dataset-84) | — | BatteryArchive.org | [访问](<https://www.batteryarchive.org/cycle_list.html?t=0001>) |
 
 ## EIS
 
@@ -192,10 +196,11 @@
 
 **电池安全 / Safety and fault diagnosis**
 
-**10 条相关资源**（含门户和工具，如适用）。
+**14 条相关资源**（含门户和工具，如适用）。
 
 | # | 数据集 / 资源名称 | 年份 | 机构 | 数据入口 |
 |---:|---|---:|---|---|
+| 14 | [Battery Archive 跨机构电池数据库](DATASET_DETAILS.md#dataset-14) | 2023 | Sandia National Laboratories · DOE | [访问](<https://www.batteryarchive.org/>) |
 | 19 | [机械诱发热失控实验数据](DATASET_DETAILS.md#dataset-19) | 2023 | Oak Ridge National Laboratory · Sandia National Laboratories | [访问](<https://data.mendeley.com/datasets/sn2kv34r4h/2>) |
 | 34 | [Sandia 不同SOC下的加速量热ARC数据](DATASET_DETAILS.md#dataset-34) | 2021 | Sandia National Laboratories | [访问](<https://www.sandia.gov/energystoragesafety/rd-data-repository/>) |
 | 35 | [Sandia 正极材料反应热计算器](DATASET_DETAILS.md#dataset-35) | 2020 | Sandia National Laboratories | [访问](<https://www.sandia.gov/energystoragesafety/rd-data-repository/>) |
@@ -206,4 +211,7 @@
 | 53 | [北航 515 辆实车电池安全故障诊断数据](DATASET_DETAILS.md#dataset-53) | 2024 | Beihang University / Zenodo | [访问](<https://zenodo.org/records/10656500>) |
 | 64 | [Darmstadt 实场电池在线监测与故障数据](DATASET_DETAILS.md#dataset-64) | 2024 | Technische Universitaet Darmstadt | [访问](<https://zenodo.org/records/13715694>) |
 | 68 | [NREL 快速直流脉冲诊断数据](DATASET_DETAILS.md#dataset-68) | 2025 | National Renewable Energy Laboratory | [访问](<https://data.mendeley.com/datasets/ksc4sv46x6/1>) |
+| 81 | [NLR Battery Failure Databank 热失控与滥用测试数据库](DATASET_DETAILS.md#dataset-81) | 2024 | National Laboratory of the Rockies (formerly NREL) | [访问](<https://www.nlr.gov/transportation/battery-failure>) |
+| 82 | [RWTH 电池热失控文献实验数据库](DATASET_DETAILS.md#dataset-82) | 2026 | RWTH Aachen University / Zenodo | [访问](<https://zenodo.org/records/18232447>) |
+| 85 | [BatteryArchive 破坏性测试数据目录](DATASET_DETAILS.md#dataset-85) | — | BatteryArchive.org | [访问](<https://www.batteryarchive.org/disruptive_list.html?t=0001>) |
 

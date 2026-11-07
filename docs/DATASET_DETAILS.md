@@ -1,4 +1,4 @@
-# ADV·BATTERY 资源详情索引（80 条）
+# ADV·BATTERY 资源详情索引（85 条）
 
 从正式资料库按源文件字段导出。**以下电池体系、实验条件、大小、许可证文字均为目录记录，并未逐项重新下载原始文件核对。** 不明字段按原值呈现，不作推测。
 
@@ -390,7 +390,7 @@
 **发布机构：** Sandia National Laboratories · DOE  
 **年份（目录记录）：** 2023  
 **国家/地区：** 美国  
-**研究标签：** SOH / RUL  
+**研究标签：** SOH / RUL / SAFETY  
 **电池体系：** Multiple  
 **样本规模/电芯：** 多个机构、多种电芯  
 **测试条件：** 循环数据与破坏性测试  
@@ -403,7 +403,7 @@
 **来源收录状态：** checked；**下载记录状态：** untested  
 **原 41 条来源编号：** —
 
-**资料库描述：** 支持按实验条件检索、可视化和跨机构比较的电池数据门户；每个数据来源的许可和下载方式需要单独确认。
+**资料库描述：** 支持按实验条件检索、可视化和跨机构比较的电池数据门户；每个数据来源的许可和下载方式需要单独确认。 已增加 Sandia 长期循环研究、循环测试目录与破坏性测试目录的独立检索入口。
 
 **原资料库关联文献：**
 - 暂无已登记直接关联；不代表该数据集没有发表论文。
@@ -2321,6 +2321,151 @@
 
 **原资料库关联文献：**
 - [A battery dataset for electric vertical takeoff and landing aircraft](<https://doi.org/10.1038/s41597-023-02180-5>) (2023)；`doi:10.1038/s41597-023-02180-5`
+
+---
+
+<a id="dataset-81"></a>
+## 81. NLR Battery Failure Databank 热失控与滥用测试数据库
+
+**英文名称：** Battery Failure Databank (NLR)  
+**内部稳定 ID：** `nlr-battery-failure-databank`  
+**资源类型：** 数据集  
+**发布机构：** National Laboratory of the Rockies (formerly NREL)  
+**年份（目录记录）：** 2024  
+**国家/地区：** 美国  
+**研究标签：** SAFETY  
+**电池体系：** Li-ion  
+**样本规模/电芯：** 商业圆柱电芯（18650、21700、D 型等）  
+**测试条件：** 针刺、热滥用和内部短路；FTRC 分项释热量、喷出物质量和高速 X 射线成像  
+**数据格式：** XLSX, Online  
+**规模备注：** 数百项电芯滥用实验；表格 2024-02 版  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://www.nlr.gov/transportation/battery-failure>)  
+**获取入口：** [数据入口（可能为资料页）](<https://www.nlr.gov/transportation/battery-failure>)  
+**许可记录（未统一核验）：** 以 NLR 官方页面条款为准  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** NLR 提供的 Battery Failure Databank，汇总大量锂电池滥用试验的热输出、喷射质量、测试条件及部分高速 X-ray 影像。数据入口为官方专题页面，含下载工作簿。
+
+**原资料库关联文献：**
+- [The battery failure databank: Insights from an open-access database of thermal runaway behaviors of Li-ion cells and a resource for benchmarking risks](<https://doi.org/10.1016/j.jpowsour.2024.234106>) (2024)；`doi:10.1016/j.jpowsour.2024.234106`
+
+---
+
+<a id="dataset-82"></a>
+## 82. RWTH 电池热失控文献实验数据库
+
+**英文名称：** Thermal Runaway Experiments Database (Elsner &amp; Pischinger)  
+**内部稳定 ID：** `rwth-thermal-runaway-literature-db`  
+**资源类型：** 数据集  
+**发布机构：** RWTH Aachen University / Zenodo  
+**年份（目录记录）：** 2026  
+**国家/地区：** 德国  
+**研究标签：** SAFETY  
+**电池体系：** Multiple  
+**样本规模/电芯：** 1703 组文献热失控实验（论文说明）  
+**测试条件：** 从 257 篇论文整理；203 个变量涉及电芯、触发方式、实验条件与热失控结果  
+**数据格式：** CSV, XLSX, MAT, JSON  
+**规模备注：** 13.5 MB（Zenodo v1）  
+**数据集 DOI：** [10.5281/zenodo.18232447](<https://doi.org/10.5281/zenodo.18232447>)  
+**来源站：** [来源主页](<https://zenodo.org/records/18232447>)  
+**获取入口：** [数据入口（可能为资料页）](<https://zenodo.org/records/18232447>)  
+**许可记录（未统一核验）：** 以 Zenodo 具体版本所列许可为准  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** 基于公开文献整理的电池热失控实验数据库。Zenodo 提供 CSV/XLSX，统计分析结果包含 JSON/MAT；关联 2026 年 Batteries 综述研究。
+
+**原资料库关联文献：**
+- [Thermal Runaway in Batteries: A Database-Driven Literature Review and Exploratory Statistical Analysis](<https://doi.org/10.3390/batteries12070240>) (2026)；`doi:10.3390/batteries12070240`
+
+---
+
+<a id="dataset-83"></a>
+## 83. BatteryArchive Sandia 商用 18650 电池长期退化研究
+
+**英文名称：** Sandia Commercial 18650 NCA/NMC/LFP Long-Term Cycling Study  
+**内部稳定 ID：** `batteryarchive-snl-aging-study`  
+**资源类型：** 数据集  
+**发布机构：** Sandia National Laboratories / BatteryArchive.org  
+**年份（目录记录）：** 2020  
+**国家/地区：** 美国  
+**研究标签：** SOH / RUL  
+**电池体系：** LFP / NCA / NMC  
+**样本规模/电芯：** 商用 18650（LFP/NCA/NMC）  
+**测试条件：** 不同温度、DOD、放电电流；周期性容量检测及长期容量衰减  
+**数据格式：** Online, CSV (by access policy)  
+**规模备注：** 多年循环寿命实验  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://www.batteryarchive.org/snl_study.html>)  
+**获取入口：** [数据入口（可能为资料页）](<https://www.batteryarchive.org/snl_study.html>)  
+**许可记录（未统一核验）：** 以 BatteryArchive 数据使用条款为准  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** BatteryArchive 的 Sandia 专项研究介绍，关联 2020 年 J. Electrochem. Soc. 论文。不是 Sandia 另一温度退化数据集的同一记录；原始数据访问与许可遵循 BatteryArchive 页面。
+
+**原资料库关联文献：**
+- [Degradation of Commercial Lithium-Ion Cells as a Function of Chemistry and Cycling Conditions](<https://doi.org/10.1149/1945-7111/abae37>) (2020)；`doi:10.1149/1945-7111/abae37`
+
+---
+
+<a id="dataset-84"></a>
+## 84. BatteryArchive 循环测试数据目录
+
+**英文名称：** BatteryArchive Cycling Tests Directory  
+**内部稳定 ID：** `batteryarchive-cycling-directory`  
+**资源类型：** 数据门户  
+**发布机构：** BatteryArchive.org  
+**年份（目录记录）：** —  
+**国家/地区：** 美国  
+**研究标签：** SOH / RUL  
+**电池体系：** Multiple  
+**样本规模/电芯：** 各研究项目及电芯数量不同  
+**测试条件：** 网站按循环测试项目组织数据；可浏览不同研究及对应原始资料  
+**数据格式：** Online  
+**规模备注：** 动态目录；非独立实验数据集  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://www.batteryarchive.org/cycle_list.html?t=0001>)  
+**获取入口：** [数据入口（可能为资料页）](<https://www.batteryarchive.org/cycle_list.html?t=0001>)  
+**许可记录（未统一核验）：** 以各研究子数据集条款为准  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** BatteryArchive 平台内的循环测试（Cycling tests）分类入口，供快速查找，不是新增的独立实验数据集；具体使用时应引用所选子研究。
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
+
+---
+
+<a id="dataset-85"></a>
+## 85. BatteryArchive 破坏性测试数据目录
+
+**英文名称：** BatteryArchive Disruptive Tests Directory  
+**内部稳定 ID：** `batteryarchive-disruptive-directory`  
+**资源类型：** 数据门户  
+**发布机构：** BatteryArchive.org  
+**年份（目录记录）：** —  
+**国家/地区：** 美国  
+**研究标签：** SAFETY  
+**电池体系：** Multiple  
+**样本规模/电芯：** 各研究项目及电芯数量不同  
+**测试条件：** 平台破坏性测试（Disruptive tests）分类入口，非单一实验。  
+**数据格式：** Online  
+**规模备注：** 动态目录；非独立实验数据集  
+**数据集 DOI：** —  
+**来源站：** [来源主页](<https://www.batteryarchive.org/disruptive_list.html?t=0001>)  
+**获取入口：** [数据入口（可能为资料页）](<https://www.batteryarchive.org/disruptive_list.html?t=0001>)  
+**许可记录（未统一核验）：** 以各研究子数据集条款为准  
+**来源收录状态：** checked；**下载记录状态：** untested  
+**原 41 条来源编号：** —
+
+**资料库描述：** BatteryArchive 平台内的破坏性测试分类入口，用于导航安全/滥用实验记录，实际下载与许可条件由相应研究决定。
+
+**原资料库关联文献：**
+- 暂无已登记直接关联；不代表该数据集没有发表论文。
 
 ---
 

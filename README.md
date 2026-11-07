@@ -2,11 +2,11 @@
 
 **开放数据，关联文献，服务电池科研。**
 
-**80 条数据资源** · **76 条数据集** · **3 个数据门户 + 1 个工具** · **108 条文献/目录记录** · **69 条已登记数据—文献关联**
+**85 条数据资源** · **79 条数据集** · **5 个数据门户 + 1 个工具** · **111 条文献/目录记录** · **72 条已登记数据—文献关联**
 
-> **注意：** 本仓库只整理**数据集目录、研究标签和原始链接**，不托管第三方原始实验数据。开放访问不等于可任意转载或用于商业用途；下载与许可以发布方为准。链接**未全部逐一实时测试**。资料库快照：**2026-11-06**。
+> **注意：** 本仓库只整理**数据集目录、研究标签和原始链接**，不托管第三方原始实验数据。开放访问不等于可任意转载或用于商业用途；下载与许可以发布方为准。链接**未全部逐一实时测试**。资料库快照：**2026-11-07**。
 
-[English version](README_EN.md) · [按研究标签浏览](docs/TOPICS.md) · [80 条资源详情](docs/DATASET_DETAILS.md) · [108 条文献索引](docs/PAPERS.md) · [来源与使用说明](NOTICE.md)
+[English version](README_EN.md) · [按研究标签浏览](docs/TOPICS.md) · [85 条资源详情](docs/DATASET_DETAILS.md) · [111 条文献索引](docs/PAPERS.md) · [来源与使用说明](NOTICE.md)
 
 **[V2 科研工作台在线版](https://jimjury.github.io/ADV-BATTERY-Dataset-Collection/)** · [联动、发布与启用说明](docs/GITHUB_V2_LINK_SETUP.md)  
 首次使用需在 Settings → Pages 选择 main /docs；未启用前在线网址尚不可访问。
@@ -42,7 +42,7 @@
 | 11 | [XJTU 电池退化数据集](docs/DATASET_DETAILS.md#dataset-11) | Xi’an Jiaotong University | 2024 | 数据集 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://zenodo.org/records/10963339>) | [Physics-informed neural network for lithium-ion…](<https://doi.org/10.1038/s41467-024-48779-z>) |
 | 12 | [Imperial 21700 电芯综合循环老化数据](docs/DATASET_DETAILS.md#dataset-12) | Imperial College London | 2024 | 数据集 | [SOH](docs/TOPICS.md#soh) | [数据入口](<https://zenodo.org/records/10637534>) | [Lithium-ion battery degradation: comprehensive…](<https://doi.org/10.1016/j.jpowsour.2024.234185>) |
 | 13 | [Imperial 硅石墨电极退化数据](docs/DATASET_DETAILS.md#dataset-13) | Imperial College London | 2022 | 数据集 | [SOH](docs/TOPICS.md#soh) | [数据入口](<https://zenodo.org/records/7235858>) | [Lithium-ion battery degradation: measuring rapi…](<https://doi.org/10.1021/acsaem.2c02047>) |
-| 14 | [Battery Archive 跨机构电池数据库](docs/DATASET_DETAILS.md#dataset-14) | Sandia National Laboratories · DOE | 2023 | 数据门户 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://www.batteryarchive.org/>) | — |
+| 14 | [Battery Archive 跨机构电池数据库](docs/DATASET_DETAILS.md#dataset-14) | Sandia National Laboratories · DOE | 2023 | 数据门户 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://www.batteryarchive.org/>) | — |
 | 15 | [工业级大软包电池 Discovery Learning 数据](docs/DATASET_DETAILS.md#dataset-15) | University of Michigan · NUS · Farasis Energy | 2026 | 数据集 | [RUL](docs/TOPICS.md#rul) | [数据入口](<https://zenodo.org/records/17654407>) | [Discovery Learning predicts battery cycle life…](<https://doi.org/10.1038/s41586-025-09951-7>) |
 | 16 | [华中科技大学个性化健康预测数据](docs/DATASET_DETAILS.md#dataset-16) | Huazhong University of Science and Technology | 2022 | 数据集 | [SOH](docs/TOPICS.md#soh) | [数据入口](<https://data.mendeley.com/datasets/nsc7hnsg4s/2>) | [Real-time personalized health status prediction…](<https://doi.org/10.1039/D2EE01676A>) |
 | 17 | [Panasonic 18650PF 动态工况数据](docs/DATASET_DETAILS.md#dataset-17) | McMaster University · University of Wisconsin–Madison | 2018 | 数据集 | [SOC](docs/TOPICS.md#soc) | [数据入口](<https://data.mendeley.com/datasets/wykht8y7tg/1>) | [Long Short-Term Memory Networks for Accurate St…](<https://doi.org/10.1109/TIE.2017.2787586>) |
@@ -109,27 +109,32 @@
 | 78 | [Pavia/Trieste CALB 58Ah 方形电池工况数据](docs/DATASET_DETAILS.md#dataset-78) | University of Pavia / University of Trieste | 2025 | 数据集 | [SOC](docs/TOPICS.md#soc) · [EIS](docs/TOPICS.md#eis) · [MODEL](docs/TOPICS.md#model) | [数据入口](<https://data.mendeley.com/datasets/ycx459r5c3/2>) | [A dataset for large prismatic lithium-ion batte…](<https://doi.org/10.1016/j.dib.2025.111301>) |
 | 79 | [HKUST BatteryLife 统一预处理寿命数据 V11](docs/DATASET_DETAILS.md#dataset-79) | Hong Kong University of Science and Technology | 2026 | 数据集 | [RUL](docs/TOPICS.md#rul) | [数据入口](<https://zenodo.org/records/19688272>) | [BatteryLife: A Comprehensive Dataset and Benchm…](<https://doi.org/10.1145/3711896.3737372>) |
 | 80 | [CMU eVTOL 电动航空电池任务工况数据](docs/DATASET_DETAILS.md#dataset-80) | Carnegie Mellon University | 2023 | 数据集 | [MODEL](docs/TOPICS.md#model) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830/2>) | [A battery dataset for electric vertical takeoff…](<https://doi.org/10.1038/s41597-023-02180-5>) |
+| 81 | [NLR Battery Failure Databank 热失控与滥用测试数据库](docs/DATASET_DETAILS.md#dataset-81) | National Laboratory of the Rockies (formerly NREL) | 2024 | 数据集 | [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://www.nlr.gov/transportation/battery-failure>) | [The battery failure databank: Insights from an…](<https://doi.org/10.1016/j.jpowsour.2024.234106>) |
+| 82 | [RWTH 电池热失控文献实验数据库](docs/DATASET_DETAILS.md#dataset-82) | RWTH Aachen University / Zenodo | 2026 | 数据集 | [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://zenodo.org/records/18232447>) | [Thermal Runaway in Batteries: A Database-Driven…](<https://doi.org/10.3390/batteries12070240>) |
+| 83 | [BatteryArchive Sandia 商用 18650 电池长期退化研究](docs/DATASET_DETAILS.md#dataset-83) | Sandia National Laboratories / BatteryArchive.org | 2020 | 数据集 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://www.batteryarchive.org/snl_study.html>) | [Degradation of Commercial Lithium-Ion Cells as…](<https://doi.org/10.1149/1945-7111/abae37>) |
+| 84 | [BatteryArchive 循环测试数据目录](docs/DATASET_DETAILS.md#dataset-84) | BatteryArchive.org | — | 数据门户 | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [数据入口](<https://www.batteryarchive.org/cycle_list.html?t=0001>) | — |
+| 85 | [BatteryArchive 破坏性测试数据目录](docs/DATASET_DETAILS.md#dataset-85) | BatteryArchive.org | — | 数据门户 | [SAFETY](docs/TOPICS.md#safety) | [数据入口](<https://www.batteryarchive.org/disruptive_list.html?t=0001>) | — |
 
 ## 按研究方向查找
 
 | 标签 | 相关资源数 | 研究方向 |
 |---|---:|---|
 | [SOC](docs/TOPICS.md#soc) | 14 | SOC 估计 |
-| [SOH](docs/TOPICS.md#soh) | 46 | SOH 估计 |
-| [RUL](docs/TOPICS.md#rul) | 23 | 剩余寿命 |
+| [SOH](docs/TOPICS.md#soh) | 48 | SOH 估计 |
+| [RUL](docs/TOPICS.md#rul) | 25 | 剩余寿命 |
 | [EIS](docs/TOPICS.md#eis) | 11 | 电化学阻抗谱 |
 | [FAST](docs/TOPICS.md#fast) | 5 | 快充 |
 | [FIELD](docs/TOPICS.md#field) | 8 | 实车数据 |
 | [MODEL](docs/TOPICS.md#model) | 14 | 电池建模 |
-| [SAFETY](docs/TOPICS.md#safety) | 10 | 电池安全 |
+| [SAFETY](docs/TOPICS.md#safety) | 14 | 电池安全 |
 
 _同一资源可以有多个研究标签；标签来自现有资料库，不代表已经核对所有原始文件是否具备相应字段。_
 
 ## 来源与核验说明
 
-- **80 条资源**包括 **76 条数据集条目**和 **4 个资料入口**（3 个门户、1 个工具），不是 80 份打包的数据文件。
-- **108 条文献/目录记录**包含研究论文、综述、数据集正式记录等，并不全是同行评议论文。
-- **69 条显式关联**保留了原资料库中的审核状态，并非全部经过独立验证。
+- **85 条资源**包括 **79 条数据集条目**和 **6 个资料入口**（5 个门户、1 个工具），不是 80 份打包的数据文件。
+- **111 条文献/目录记录**包含研究论文、综述、数据集正式记录等，并不全是同行评议论文。
+- **72 条显式关联**保留了原资料库中的审核状态，并非全部经过独立验证。
 - 整合了 [PythoniLover 的 41 条来源目录](https://github.com/PythoniLover/battery-dataset-collection)，其中 **14 条匹配原记录、27 条新增**，详见 [来源对应表](docs/SOURCE_41_MAPPING.md)。
 - 某些资源仅提供元数据页面、索引或受限入口；论文年份和数据版本年份也可能不同。详见 [来源、免责声明与许可](NOTICE.md)。
 

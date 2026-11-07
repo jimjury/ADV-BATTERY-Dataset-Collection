@@ -445,7 +445,8 @@
     "resource_type": "portal",
     "research_tags": [
       "SOH",
-      "RUL"
+      "RUL",
+      "SAFETY"
     ],
     "chemistry": "Multiple",
     "formats": [
@@ -455,7 +456,7 @@
     "size_note": "持续更新",
     "cells_note": "多个机构、多种电芯",
     "test_conditions_note": "循环数据与破坏性测试",
-    "description_zh": "支持按实验条件检索、可视化和跨机构比较的电池数据门户；每个数据来源的许可和下载方式需要单独确认。",
+    "description_zh": "支持按实验条件检索、可视化和跨机构比较的电池数据门户；每个数据来源的许可和下载方式需要单独确认。 已增加 Sandia 长期循环研究、循环测试目录与破坏性测试目录的独立检索入口。",
     "task_note": "跨数据集比较",
     "source_url": "https://www.batteryarchive.org/",
     "access_url": "https://www.batteryarchive.org/",
@@ -2593,5 +2594,168 @@
       "doi:10.1038/s41597-023-02180-5"
     ],
     "source_41_index": 41
+  },
+  {
+    "index": 81,
+    "id": "nlr-battery-failure-databank",
+    "name_zh": "NLR Battery Failure Databank 热失控与滥用测试数据库",
+    "name_en": "Battery Failure Databank (NLR)",
+    "institution": "National Laboratory of the Rockies (formerly NREL)",
+    "country": "美国",
+    "year": 2024,
+    "resource_type": "dataset",
+    "research_tags": [
+      "SAFETY"
+    ],
+    "chemistry": "Li-ion",
+    "formats": [
+      "XLSX",
+      "Online"
+    ],
+    "size_note": "数百项电芯滥用实验；表格 2024-02 版",
+    "cells_note": "商业圆柱电芯（18650、21700、D 型等）",
+    "test_conditions_note": "针刺、热滥用和内部短路；FTRC 分项释热量、喷出物质量和高速 X 射线成像",
+    "description_zh": "NLR 提供的 Battery Failure Databank，汇总大量锂电池滥用试验的热输出、喷射质量、测试条件及部分高速 X-ray 影像。数据入口为官方专题页面，含下载工作簿。",
+    "task_note": "热失控量热、滥用测试与电池安全",
+    "source_url": "https://www.nlr.gov/transportation/battery-failure",
+    "access_url": "https://www.nlr.gov/transportation/battery-failure",
+    "dataset_doi": "",
+    "license_as_recorded": "以 NLR 官方页面条款为准",
+    "source_catalog_status": "checked",
+    "download_catalog_status": "untested",
+    "related_paper_ids": [
+      "doi:10.1016/j.jpowsour.2024.234106"
+    ],
+    "source_41_index": null
+  },
+  {
+    "index": 82,
+    "id": "rwth-thermal-runaway-literature-db",
+    "name_zh": "RWTH 电池热失控文献实验数据库",
+    "name_en": "Thermal Runaway Experiments Database (Elsner & Pischinger)",
+    "institution": "RWTH Aachen University / Zenodo",
+    "country": "德国",
+    "year": 2026,
+    "resource_type": "dataset",
+    "research_tags": [
+      "SAFETY"
+    ],
+    "chemistry": "Multiple",
+    "formats": [
+      "CSV",
+      "XLSX",
+      "MAT",
+      "JSON"
+    ],
+    "size_note": "13.5 MB（Zenodo v1）",
+    "cells_note": "1703 组文献热失控实验（论文说明）",
+    "test_conditions_note": "从 257 篇论文整理；203 个变量涉及电芯、触发方式、实验条件与热失控结果",
+    "description_zh": "基于公开文献整理的电池热失控实验数据库。Zenodo 提供 CSV/XLSX，统计分析结果包含 JSON/MAT；关联 2026 年 Batteries 综述研究。",
+    "task_note": "热失控数据库、统计分析与电池安全",
+    "source_url": "https://zenodo.org/records/18232447",
+    "access_url": "https://zenodo.org/records/18232447",
+    "dataset_doi": "10.5281/zenodo.18232447",
+    "license_as_recorded": "以 Zenodo 具体版本所列许可为准",
+    "source_catalog_status": "checked",
+    "download_catalog_status": "untested",
+    "related_paper_ids": [
+      "doi:10.3390/batteries12070240"
+    ],
+    "source_41_index": null
+  },
+  {
+    "index": 83,
+    "id": "batteryarchive-snl-aging-study",
+    "name_zh": "BatteryArchive Sandia 商用 18650 电池长期退化研究",
+    "name_en": "Sandia Commercial 18650 NCA/NMC/LFP Long-Term Cycling Study",
+    "institution": "Sandia National Laboratories / BatteryArchive.org",
+    "country": "美国",
+    "year": 2020,
+    "resource_type": "dataset",
+    "research_tags": [
+      "SOH",
+      "RUL"
+    ],
+    "chemistry": "LFP / NCA / NMC",
+    "formats": [
+      "Online",
+      "CSV (by access policy)"
+    ],
+    "size_note": "多年循环寿命实验",
+    "cells_note": "商用 18650（LFP/NCA/NMC）",
+    "test_conditions_note": "不同温度、DOD、放电电流；周期性容量检测及长期容量衰减",
+    "description_zh": "BatteryArchive 的 Sandia 专项研究介绍，关联 2020 年 J. Electrochem. Soc. 论文。不是 Sandia 另一温度退化数据集的同一记录；原始数据访问与许可遵循 BatteryArchive 页面。",
+    "task_note": "循环退化、SOH 与寿命建模",
+    "source_url": "https://www.batteryarchive.org/snl_study.html",
+    "access_url": "https://www.batteryarchive.org/snl_study.html",
+    "dataset_doi": "",
+    "license_as_recorded": "以 BatteryArchive 数据使用条款为准",
+    "source_catalog_status": "checked",
+    "download_catalog_status": "untested",
+    "related_paper_ids": [
+      "doi:10.1149/1945-7111/abae37"
+    ],
+    "source_41_index": null
+  },
+  {
+    "index": 84,
+    "id": "batteryarchive-cycling-directory",
+    "name_zh": "BatteryArchive 循环测试数据目录",
+    "name_en": "BatteryArchive Cycling Tests Directory",
+    "institution": "BatteryArchive.org",
+    "country": "美国",
+    "year": null,
+    "resource_type": "portal",
+    "research_tags": [
+      "SOH",
+      "RUL"
+    ],
+    "chemistry": "Multiple",
+    "formats": [
+      "Online"
+    ],
+    "size_note": "动态目录；非独立实验数据集",
+    "cells_note": "各研究项目及电芯数量不同",
+    "test_conditions_note": "网站按循环测试项目组织数据；可浏览不同研究及对应原始资料",
+    "description_zh": "BatteryArchive 平台内的循环测试（Cycling tests）分类入口，供快速查找，不是新增的独立实验数据集；具体使用时应引用所选子研究。",
+    "task_note": "电池循环测试检索入口",
+    "source_url": "https://www.batteryarchive.org/cycle_list.html?t=0001",
+    "access_url": "https://www.batteryarchive.org/cycle_list.html?t=0001",
+    "dataset_doi": "",
+    "license_as_recorded": "以各研究子数据集条款为准",
+    "source_catalog_status": "checked",
+    "download_catalog_status": "untested",
+    "related_paper_ids": [],
+    "source_41_index": null
+  },
+  {
+    "index": 85,
+    "id": "batteryarchive-disruptive-directory",
+    "name_zh": "BatteryArchive 破坏性测试数据目录",
+    "name_en": "BatteryArchive Disruptive Tests Directory",
+    "institution": "BatteryArchive.org",
+    "country": "美国",
+    "year": null,
+    "resource_type": "portal",
+    "research_tags": [
+      "SAFETY"
+    ],
+    "chemistry": "Multiple",
+    "formats": [
+      "Online"
+    ],
+    "size_note": "动态目录；非独立实验数据集",
+    "cells_note": "各研究项目及电芯数量不同",
+    "test_conditions_note": "平台破坏性测试（Disruptive tests）分类入口，非单一实验。",
+    "description_zh": "BatteryArchive 平台内的破坏性测试分类入口，用于导航安全/滥用实验记录，实际下载与许可条件由相应研究决定。",
+    "task_note": "电池安全与破坏性测试检索入口",
+    "source_url": "https://www.batteryarchive.org/disruptive_list.html?t=0001",
+    "access_url": "https://www.batteryarchive.org/disruptive_list.html?t=0001",
+    "dataset_doi": "",
+    "license_as_recorded": "以各研究子数据集条款为准",
+    "source_catalog_status": "checked",
+    "download_catalog_status": "untested",
+    "related_paper_ids": [],
+    "source_41_index": null
   }
 ]

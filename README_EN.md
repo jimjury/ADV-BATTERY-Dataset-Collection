@@ -2,9 +2,9 @@
 
 **An open, traceable directory of battery data sources, associated publications, and research topics.**
 
-**80 resources** · **76 datasets** · **3 portals + 1 tool** · **108 publication/catalogue records** · **69 registered dataset–publication relations**
+**85 resources** · **79 datasets** · **5 portals + 1 tool** · **111 publication/catalogue records** · **72 registered dataset–publication relations**
 
-> **Scope:** This repository hosts **metadata, descriptions and links only**, not third-party raw datasets. Original providers control downloads, licensing and access. Availability has **not** been exhaustively live-tested; these are catalogue records, not a promise of downloadable files. Last catalogue export: **2026-11-06**.
+> **Scope:** This repository hosts **metadata, descriptions and links only**, not third-party raw datasets. Original providers control downloads, licensing and access. Availability has **not** been exhaustively live-tested; these are catalogue records, not a promise of downloadable files. Last catalogue export: **2026-11-07**.
 
 [中文版](README.md) · [Research topics](docs/TOPICS.md) · [Full details](docs/DATASET_DETAILS.md) · [Publications](docs/PAPERS.md) · [Source & terms](NOTICE.md)
 
@@ -42,7 +42,7 @@ GitHub Pages must be enabled once under Settings → Pages (main /docs).
 | 11 | [XJTU Battery Dataset for Stable Degradation Prognosis](docs/DATASET_DETAILS.md#dataset-11) | Xi’an Jiaotong University | 2024 | Dataset | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://zenodo.org/records/10963339>) | [Physics-informed neural network for lithium-ion…](<https://doi.org/10.1038/s41467-024-48779-z>) |
 | 12 | [Comprehensive cycle ageing data for commercial 21700 cells](docs/DATASET_DETAILS.md#dataset-12) | Imperial College London | 2024 | Dataset | [SOH](docs/TOPICS.md#soh) | [Access](<https://zenodo.org/records/10637534>) | [Lithium-ion battery degradation: comprehensive…](<https://doi.org/10.1016/j.jpowsour.2024.234185>) |
 | 13 | [Rapid loss of active silicon in silicon-graphite composite electrodes](docs/DATASET_DETAILS.md#dataset-13) | Imperial College London | 2022 | Dataset | [SOH](docs/TOPICS.md#soh) | [Access](<https://zenodo.org/records/7235858>) | [Lithium-ion battery degradation: measuring rapi…](<https://doi.org/10.1021/acsaem.2c02047>) |
-| 14 | [BatteryArchive.org](docs/DATASET_DETAILS.md#dataset-14) | Sandia National Laboratories · DOE | 2023 | Data portal | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://www.batteryarchive.org/>) | — |
+| 14 | [BatteryArchive.org](docs/DATASET_DETAILS.md#dataset-14) | Sandia National Laboratories · DOE | 2023 | Data portal | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) · [SAFETY](docs/TOPICS.md#safety) | [Access](<https://www.batteryarchive.org/>) | — |
 | 15 | [Discovery Learning Battery Dataset](docs/DATASET_DETAILS.md#dataset-15) | University of Michigan · NUS · Farasis Energy | 2026 | Dataset | [RUL](docs/TOPICS.md#rul) | [Access](<https://zenodo.org/records/17654407>) | [Discovery Learning predicts battery cycle life…](<https://doi.org/10.1038/s41586-025-09951-7>) |
 | 16 | [Dataset for personalized health status prediction of lithium-ion batteries](docs/DATASET_DETAILS.md#dataset-16) | Huazhong University of Science and Technology | 2022 | Dataset | [SOH](docs/TOPICS.md#soh) | [Access](<https://data.mendeley.com/datasets/nsc7hnsg4s/2>) | [Real-time personalized health status prediction…](<https://doi.org/10.1039/D2EE01676A>) |
 | 17 | [Panasonic 18650PF Li-ion Battery Data](docs/DATASET_DETAILS.md#dataset-17) | McMaster University · University of Wisconsin–Madison | 2018 | Dataset | [SOC](docs/TOPICS.md#soc) | [Access](<https://data.mendeley.com/datasets/wykht8y7tg/1>) | [Long Short-Term Memory Networks for Accurate St…](<https://doi.org/10.1109/TIE.2017.2787586>) |
@@ -109,27 +109,32 @@ GitHub Pages must be enabled once under Settings → Pages (main /docs).
 | 78 | [CALB L148N58A prismatic battery characterization and drive cycles](docs/DATASET_DETAILS.md#dataset-78) | University of Pavia / University of Trieste | 2025 | Dataset | [SOC](docs/TOPICS.md#soc) · [EIS](docs/TOPICS.md#eis) · [MODEL](docs/TOPICS.md#model) | [Access](<https://data.mendeley.com/datasets/ycx459r5c3/2>) | [A dataset for large prismatic lithium-ion batte…](<https://doi.org/10.1016/j.dib.2025.111301>) |
 | 79 | [BatteryLife Processed v11 - life prediction benchmark](docs/DATASET_DETAILS.md#dataset-79) | Hong Kong University of Science and Technology | 2026 | Dataset | [RUL](docs/TOPICS.md#rul) | [Access](<https://zenodo.org/records/19688272>) | [BatteryLife: A Comprehensive Dataset and Benchm…](<https://doi.org/10.1145/3711896.3737372>) |
 | 80 | [eVTOL battery duty-cycle dataset (Carnegie Mellon)](docs/DATASET_DETAILS.md#dataset-80) | Carnegie Mellon University | 2023 | Dataset | [MODEL](docs/TOPICS.md#model) · [RUL](docs/TOPICS.md#rul) | [Access](<https://kilthub.cmu.edu/articles/dataset/eVTOL_Battery_Dataset/14226830/2>) | [A battery dataset for electric vertical takeoff…](<https://doi.org/10.1038/s41597-023-02180-5>) |
+| 81 | [Battery Failure Databank (NLR)](docs/DATASET_DETAILS.md#dataset-81) | National Laboratory of the Rockies (formerly NREL) | 2024 | Dataset | [SAFETY](docs/TOPICS.md#safety) | [Access](<https://www.nlr.gov/transportation/battery-failure>) | [The battery failure databank: Insights from an…](<https://doi.org/10.1016/j.jpowsour.2024.234106>) |
+| 82 | [Thermal Runaway Experiments Database (Elsner &amp; Pischinger)](docs/DATASET_DETAILS.md#dataset-82) | RWTH Aachen University / Zenodo | 2026 | Dataset | [SAFETY](docs/TOPICS.md#safety) | [Access](<https://zenodo.org/records/18232447>) | [Thermal Runaway in Batteries: A Database-Driven…](<https://doi.org/10.3390/batteries12070240>) |
+| 83 | [Sandia Commercial 18650 NCA/NMC/LFP Long-Term Cycling Study](docs/DATASET_DETAILS.md#dataset-83) | Sandia National Laboratories / BatteryArchive.org | 2020 | Dataset | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://www.batteryarchive.org/snl_study.html>) | [Degradation of Commercial Lithium-Ion Cells as…](<https://doi.org/10.1149/1945-7111/abae37>) |
+| 84 | [BatteryArchive Cycling Tests Directory](docs/DATASET_DETAILS.md#dataset-84) | BatteryArchive.org | — | Data portal | [SOH](docs/TOPICS.md#soh) · [RUL](docs/TOPICS.md#rul) | [Access](<https://www.batteryarchive.org/cycle_list.html?t=0001>) | — |
+| 85 | [BatteryArchive Disruptive Tests Directory](docs/DATASET_DETAILS.md#dataset-85) | BatteryArchive.org | — | Data portal | [SAFETY](docs/TOPICS.md#safety) | [Access](<https://www.batteryarchive.org/disruptive_list.html?t=0001>) | — |
 
 ## Explore by topic
 
 | Topic | Items | Description |
 |---|---:|---|
 | [SOC](docs/TOPICS.md#soc) | 14 | State of charge |
-| [SOH](docs/TOPICS.md#soh) | 46 | State of health |
-| [RUL](docs/TOPICS.md#rul) | 23 | Remaining useful life |
+| [SOH](docs/TOPICS.md#soh) | 48 | State of health |
+| [RUL](docs/TOPICS.md#rul) | 25 | Remaining useful life |
 | [EIS](docs/TOPICS.md#eis) | 11 | Electrochemical impedance spectroscopy |
 | [FAST](docs/TOPICS.md#fast) | 5 | Fast charging |
 | [FIELD](docs/TOPICS.md#field) | 8 | Real-world vehicle data |
 | [MODEL](docs/TOPICS.md#model) | 14 | Battery modeling |
-| [SAFETY](docs/TOPICS.md#safety) | 10 | Safety and fault diagnosis |
+| [SAFETY](docs/TOPICS.md#safety) | 14 | Safety and fault diagnosis |
 
 _Topic membership is non-exclusive and reflects the existing catalogue labels; it does not prove all raw files contain a specific measured field._
 
 ## Coverage and caveats
 
-- **80 resources** include **76 dataset entries** and **4 resource pages** (3 portals + 1 tool).
-- **108 records** include research papers, method reviews and dataset catalogue/citation records; they are not all peer-reviewed papers.
-- **69 explicit relations** were carried over from the curated catalogue; relationships have different review statuses.
+- **85 resources** include **79 dataset entries** and **6 resource pages** (5 portals + 1 tool).
+- **111 records** include research papers, method reviews and dataset catalogue/citation records; they are not all peer-reviewed papers.
+- **72 explicit relations** were carried over from the curated catalogue; relationships have different review statuses.
 - This directory incorporates a [41-entry community list](https://github.com/PythoniLover/battery-dataset-collection) after deduplication (**14 matched existing items, 27 added**). See [source mapping](docs/SOURCE_41_MAPPING.md).
 - Year, author, licence and completeness can vary between dataset versions and associated publications. The text is a catalogue snapshot rather than a full independent audit. See [NOTICE](NOTICE.md).
 

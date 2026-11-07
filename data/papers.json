@@ -2065,5 +2065,70 @@
     "linked_dataset_ids": [
       "cmu-evtol-duty-cycle"
     ]
+  },
+  {
+    "index": 109,
+    "id": "doi:10.1016/j.jpowsour.2024.234106",
+    "title": "The battery failure databank: Insights from an open-access database of thermal runaway behaviors of Li-ion cells and a resource for benchmarking risks",
+    "authors": "D. P. Finegan et al.",
+    "journal_or_source": "Journal of Power Sources 597, 234106",
+    "year": 2024,
+    "doi": "10.1016/j.jpowsour.2024.234106",
+    "url": "https://doi.org/10.1016/j.jpowsour.2024.234106",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "电池安全",
+      "热失控",
+      "滥用测试",
+      "量热",
+      "SAFETY"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "nlr-battery-failure-databank"
+    ]
+  },
+  {
+    "index": 110,
+    "id": "doi:10.3390/batteries12070240",
+    "title": "Thermal Runaway in Batteries: A Database-Driven Literature Review and Exploratory Statistical Analysis",
+    "authors": "Felix Elsner; Stefan Pischinger",
+    "journal_or_source": "Batteries 12(7), 240",
+    "year": 2026,
+    "doi": "10.3390/batteries12070240",
+    "url": "https://doi.org/10.3390/batteries12070240",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "电池安全",
+      "热失控",
+      "文献数据库",
+      "统计分析",
+      "SAFETY"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "rwth-thermal-runaway-literature-db"
+    ]
+  },
+  {
+    "index": 111,
+    "id": "doi:10.1149/1945-7111/abae37",
+    "title": "Degradation of Commercial Lithium-Ion Cells as a Function of Chemistry and Cycling Conditions",
+    "authors": "Y. Preger; H. M. Barkholtz; A. J. Fresquez; D. L. Campbell; B. W. Juba; J. Román-Kustas; S. R. Ferreira; B. Chalamala",
+    "journal_or_source": "Journal of the Electrochemical Society 167(12), 120532",
+    "year": 2020,
+    "doi": "10.1149/1945-7111/abae37",
+    "url": "https://doi.org/10.1149/1945-7111/abae37",
+    "record_type": "数据关联论文",
+    "keywords": [
+      "电池老化",
+      "SOH",
+      "RUL",
+      "循环退化"
+    ],
+    "is_dataset_record": false,
+    "linked_dataset_ids": [
+      "batteryarchive-snl-aging-study"
+    ]
   }
 ]

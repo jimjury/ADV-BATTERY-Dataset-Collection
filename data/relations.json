@@ -550,5 +550,29 @@
     "relation_type": "catalogued",
     "review_status": "publisher-doi-verified-source-link-pending",
     "evidence_url": "https://github.com/PythoniLover/battery-dataset-collection/blob/main/README.md"
+  },
+  {
+    "id": "nlr-battery-failure-databank::doi:10.1016/j.jpowsour.2024.234106",
+    "dataset_id": "nlr-battery-failure-databank",
+    "paper_id": "doi:10.1016/j.jpowsour.2024.234106",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1016/j.jpowsour.2024.234106"
+  },
+  {
+    "id": "rwth-thermal-runaway-literature-db::doi:10.3390/batteries12070240",
+    "dataset_id": "rwth-thermal-runaway-literature-db",
+    "paper_id": "doi:10.3390/batteries12070240",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.3390/batteries12070240"
+  },
+  {
+    "id": "batteryarchive-snl-aging-study::doi:10.1149/1945-7111/abae37",
+    "dataset_id": "batteryarchive-snl-aging-study",
+    "paper_id": "doi:10.1149/1945-7111/abae37",
+    "relation_type": "data_paper",
+    "review_status": "source-recorded",
+    "evidence_url": "https://doi.org/10.1149/1945-7111/abae37"
   }
 ]

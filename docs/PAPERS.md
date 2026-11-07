@@ -1,4 +1,4 @@
-# 文献与数据目录记录（108 条）
+# 文献与数据目录记录（111 条）
 
 这里按 ADV·BATTERY 正式资料库顺序展示全部记录，**包含研究论文、综述、数据集 DOI 记录等，不表示 108 篇均为正式研究论文**。`关联数据集`仅列资料库已登记关联；空白不代表无关。
 
@@ -114,6 +114,9 @@
 | 106 | [A dataset for large prismatic lithium-ion battery cells (CALB L148N58A): Comprehensive char…](<https://doi.org/10.1016/j.dib.2025.111301>) | 2025 | 数据关联论文 | [10.1016/j.dib.2025.111301](<https://doi.org/10.1016/j.dib.2025.111301>) | `pavia-calb-l148n58a` |
 | 107 | [BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction](<https://doi.org/10.1145/3711896.3737372>) | 2025 | 数据关联论文 | [10.1145/3711896.3737372](<https://doi.org/10.1145/3711896.3737372>) | `hkust-batterylife-processed-v11` |
 | 108 | [A battery dataset for electric vertical takeoff and landing aircraft](<https://doi.org/10.1038/s41597-023-02180-5>) | 2023 | 数据关联论文 | [10.1038/s41597-023-02180-5](<https://doi.org/10.1038/s41597-023-02180-5>) | `cmu-evtol-duty-cycle` |
+| 109 | [The battery failure databank: Insights from an open-access database of thermal runaway beha…](<https://doi.org/10.1016/j.jpowsour.2024.234106>) | 2024 | 数据关联论文 | [10.1016/j.jpowsour.2024.234106](<https://doi.org/10.1016/j.jpowsour.2024.234106>) | `nlr-battery-failure-databank` |
+| 110 | [Thermal Runaway in Batteries: A Database-Driven Literature Review and Exploratory Statistic…](<https://doi.org/10.3390/batteries12070240>) | 2026 | 数据关联论文 | [10.3390/batteries12070240](<https://doi.org/10.3390/batteries12070240>) | `rwth-thermal-runaway-literature-db` |
+| 111 | [Degradation of Commercial Lithium-Ion Cells as a Function of Chemistry and Cycling Conditio…](<https://doi.org/10.1149/1945-7111/abae37>) | 2020 | 数据关联论文 | [10.1149/1945-7111/abae37](<https://doi.org/10.1149/1945-7111/abae37>) | `batteryarchive-snl-aging-study` |
 
 
 > 注意：表内 DOI 与链接为原资料库记录，仅能反映已有整理工作，不构成对每篇文献、数据许可或下载链接现时可用性的独立保证。
