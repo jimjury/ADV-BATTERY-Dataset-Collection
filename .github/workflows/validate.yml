@@ -46,6 +46,6 @@ jobs:
           assert f"{info['resource_count']} 条数据资源" in readme, 'README count differs from catalogue'
           for language in ('EN','JA','KO','ES','DE','FR'):
               doc=Path(f'README_{language}.md').read_text(encoding='utf-8')
-              assert len(re.findall(r'^\\| \\d{2,} \\|', doc, flags=re.M))==info['resource_count'], language
+              assert len(re.findall(r'^\| \d{2,} \|', doc, flags=re.M))==info['resource_count'], language
           print('V2 static file and GitHub back-link OK')
           PYTEST
